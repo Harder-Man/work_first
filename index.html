@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>once</title>
+</head>
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<body>
+    <div id="app">
+        <a href="#">{{msg}}</a>
+        <ul>{{name}}</ul>
+        <hr>
+
+        <a v-bind:href="home">点击访问首页</a>
+        <hr>
+
+        <ul v-if="isLogin">可以看得到我么</ul>
+        <hr>
+
+        <ul v-if='isLogin'>个人中心</ul>
+        <ul v-else='isLogin'>请登录</ul>
+        <hr>
+
+        <ul v-if="level===1">黄铜</ul>
+        <ul v-else-if="level===2">白银</ul>
+        <ul v-else-if="level===3">黄金</ul>
+        <ul v-else-if="level===4">铂金</ul>
+        <ul v-else-if="level===5">钻石</ul>
+        <ul v-else>无</ul>
+        <hr>
+
+        <ul v-if='seen'>if</ul>
+        <ul v-show='seen'>show</ul>
+        <hr>
+
+
+    </div>
+</body>
+
+<script type="text/javascript">
+    var vm = new Vue({
+        el: '#app',
+        data: {
+            msg: 'hello',
+            name: 'itcast',
+            home: 'http://www.baidu.com',
+            isLogin: false,
+            level: 3,
+            seen: false,
+        }
+    })
+</script>
+</html>
