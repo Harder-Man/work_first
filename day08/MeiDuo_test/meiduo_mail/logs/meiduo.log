@@ -1,0 +1,277 @@
+INFO 2021-01-02 17:47:25,122 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-02 18:20:44,163 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-02 18:21:01,969 log 228 Not Found: /usernames/1111111/count/
+WARNING 2021-01-02 18:21:01,970 basehttp 154 "GET /usernames/1111111/count/ HTTP/1.1" 404 2201
+WARNING 2021-01-02 18:21:02,066 log 228 Not Found: /favicon.ico
+WARNING 2021-01-02 18:21:02,067 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2162
+WARNING 2021-01-02 18:21:20,438 log 228 Not Found: /usernames/<username>/count/
+WARNING 2021-01-02 18:21:20,445 basehttp 154 "GET /usernames/%3Cusername%3E/count/ HTTP/1.1" 404 2226
+INFO 2021-01-02 18:21:33,620 autoreload 217 /home/ubuntu/Desktop/test/MeiDuo_test/meiduo_mail/apps/users/urls.py changed, reloading.
+INFO 2021-01-02 18:21:34,333 autoreload 597 Watching for file changes with StatReloader
+ERROR 2021-01-02 18:21:37,052 log 228 Internal Server Error: /usernames/<username>/count/
+Traceback (most recent call last):
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+TypeError: get() got an unexpected keyword argument 'username'
+ERROR 2021-01-02 18:21:37,054 basehttp 154 "GET /usernames/%3Cusername%3E/count/ HTTP/1.1" 500 78946
+ERROR 2021-01-02 18:21:42,581 log 228 Internal Server Error: /usernames/111/count/
+Traceback (most recent call last):
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+TypeError: get() got an unexpected keyword argument 'username'
+ERROR 2021-01-02 18:21:42,582 basehttp 154 "GET /usernames/111/count/ HTTP/1.1" 500 78591
+ERROR 2021-01-02 18:21:57,016 log 228 Internal Server Error: /usernames/<username>/count/
+Traceback (most recent call last):
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+TypeError: get() got an unexpected keyword argument 'username'
+ERROR 2021-01-02 18:21:57,017 basehttp 154 "GET /usernames/%3Cusername%3E/count/ HTTP/1.1" 500 78811
+WARNING 2021-01-02 18:22:44,014 log 228 Not Found: /
+WARNING 2021-01-02 18:22:44,015 basehttp 154 "GET / HTTP/1.1" 404 2112
+WARNING 2021-01-02 18:23:02,126 log 228 Not Found: /image_codes/5219f997-deb2-4a68-a808-aadc59cf3aae/
+WARNING 2021-01-02 18:23:02,126 basehttp 154 "GET /image_codes/5219f997-deb2-4a68-a808-aadc59cf3aae/ HTTP/1.1" 404 2277
+ERROR 2021-01-02 18:23:03,394 log 228 Internal Server Error: /usernames/itcast_01/count/
+Traceback (most recent call last):
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+TypeError: get() got an unexpected keyword argument 'username'
+ERROR 2021-01-02 18:23:03,406 basehttp 154 "GET /usernames/itcast_01/count/ HTTP/1.1" 500 78782
+ERROR 2021-01-02 18:23:04,114 log 228 Internal Server Error: /usernames/itcast_01/count/
+Traceback (most recent call last):
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+TypeError: get() got an unexpected keyword argument 'username'
+ERROR 2021-01-02 18:23:04,116 basehttp 154 "GET /usernames/itcast_01/count/ HTTP/1.1" 500 78782
+ERROR 2021-01-02 18:23:06,714 log 228 Internal Server Error: /usernames/itcast_01/count/
+Traceback (most recent call last):
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+TypeError: get() got an unexpected keyword argument 'username'
+ERROR 2021-01-02 18:23:06,717 basehttp 154 "GET /usernames/itcast_01/count/ HTTP/1.1" 500 78782
+ERROR 2021-01-02 18:23:07,256 log 228 Internal Server Error: /usernames/itcast_01/count/
+Traceback (most recent call last):
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+TypeError: get() got an unexpected keyword argument 'username'
+ERROR 2021-01-02 18:23:07,262 basehttp 154 "GET /usernames/itcast_01/count/ HTTP/1.1" 500 78782
+ERROR 2021-01-02 18:23:08,427 log 228 Internal Server Error: /usernames/itcast_01/count/
+Traceback (most recent call last):
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+TypeError: get() got an unexpected keyword argument 'username'
+ERROR 2021-01-02 18:23:08,428 basehttp 154 "GET /usernames/itcast_01/count/ HTTP/1.1" 500 78782
+ERROR 2021-01-02 18:23:14,252 log 228 Internal Server Error: /usernames/itcast_01/count/
+Traceback (most recent call last):
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+TypeError: get() got an unexpected keyword argument 'username'
+ERROR 2021-01-02 18:23:14,253 basehttp 154 "GET /usernames/itcast_01/count/ HTTP/1.1" 500 78782
+ERROR 2021-01-02 18:23:21,207 log 228 Internal Server Error: /usernames/itcast_01/count/
+Traceback (most recent call last):
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+TypeError: get() got an unexpected keyword argument 'username'
+ERROR 2021-01-02 18:23:21,213 basehttp 154 "GET /usernames/itcast_01/count/ HTTP/1.1" 500 78782
+ERROR 2021-01-02 18:23:22,757 log 228 Internal Server Error: /usernames/itcast_01/count/
+Traceback (most recent call last):
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+TypeError: get() got an unexpected keyword argument 'username'
+ERROR 2021-01-02 18:23:22,760 basehttp 154 "GET /usernames/itcast_01/count/ HTTP/1.1" 500 78782
+ERROR 2021-01-02 18:23:24,560 log 228 Internal Server Error: /usernames/itcast_01/count/
+Traceback (most recent call last):
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+TypeError: get() got an unexpected keyword argument 'username'
+ERROR 2021-01-02 18:23:24,564 basehttp 154 "GET /usernames/itcast_01/count/ HTTP/1.1" 500 78782
+ERROR 2021-01-02 18:23:25,521 log 228 Internal Server Error: /usernames/itcast_01/count/
+Traceback (most recent call last):
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+TypeError: get() got an unexpected keyword argument 'username'
+ERROR 2021-01-02 18:23:25,529 basehttp 154 "GET /usernames/itcast_01/count/ HTTP/1.1" 500 78782
+ERROR 2021-01-02 18:23:45,508 log 228 Internal Server Error: /usernames/<username>/count/
+Traceback (most recent call last):
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+TypeError: get() got an unexpected keyword argument 'username'
+ERROR 2021-01-02 18:23:45,511 basehttp 154 "GET /usernames/%3Cusername%3E/count/ HTTP/1.1" 500 78811
+ERROR 2021-01-02 18:27:26,395 log 228 Internal Server Error: /usernames/itcast/count/
+Traceback (most recent call last):
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+TypeError: get() got an unexpected keyword argument 'username'
+ERROR 2021-01-02 18:27:26,403 basehttp 154 "GET /usernames/itcast/count/ HTTP/1.1" 500 78645
+INFO 2021-01-02 18:28:28,895 autoreload 217 /home/ubuntu/Desktop/test/MeiDuo_test/meiduo_mail/apps/users/views.py changed, reloading.
+INFO 2021-01-02 18:28:29,615 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-02 18:28:33,097 basehttp 154 "GET /usernames/itcast/count/ HTTP/1.1" 200 39
+INFO 2021-01-02 18:32:03,323 autoreload 217 /home/ubuntu/Desktop/test/MeiDuo_test/meiduo_mail/apps/users/urls.py changed, reloading.
+INFO 2021-01-02 18:32:03,725 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-02 18:36:55,943 autoreload 217 /home/ubuntu/Desktop/test/MeiDuo_test/meiduo_mail/meiduo_mail/urls.py changed, reloading.
+INFO 2021-01-02 18:36:56,449 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-02 18:40:42,590 autoreload 217 /home/ubuntu/Desktop/test/MeiDuo_test/meiduo_mail/utils/converts.py changed, reloading.
+INFO 2021-01-02 18:40:43,827 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-02 18:42:53,861 autoreload 217 /home/ubuntu/Desktop/test/MeiDuo_test/meiduo_mail/apps/users/urls.py changed, reloading.
+INFO 2021-01-02 18:42:54,465 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-02 18:42:59,266 basehttp 154 "GET /usernames/itcast_01/count/ HTTP/1.1" 200 39
+WARNING 2021-01-02 18:43:08,444 log 228 Not Found: /image_codes/f302fc1c-55df-4889-a78f-16869620c84e/
+WARNING 2021-01-02 18:43:08,446 basehttp 154 "GET /image_codes/f302fc1c-55df-4889-a78f-16869620c84e/ HTTP/1.1" 404 2459
+INFO 2021-01-02 18:43:20,988 basehttp 154 "GET /usernames/itcast_01/count/ HTTP/1.1" 200 39
+INFO 2021-01-02 18:43:50,665 basehttp 154 "GET /usernames/itcast_01/count/ HTTP/1.1" 200 39
+INFO 2021-01-02 18:47:26,568 autoreload 217 /home/ubuntu/Desktop/test/MeiDuo_test/meiduo_mail/apps/users/views.py changed, reloading.
+INFO 2021-01-02 18:47:27,723 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-02 18:59:36,349 autoreload 217 /home/ubuntu/Desktop/test/MeiDuo_test/meiduo_mail/apps/users/views.py changed, reloading.
+INFO 2021-01-02 18:59:37,111 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-02 19:10:44,874 autoreload 217 /home/ubuntu/Desktop/test/MeiDuo_test/meiduo_mail/apps/users/views.py changed, reloading.
+INFO 2021-01-02 19:10:45,622 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-02 19:10:59,231 log 228 Not Found: /image_codes/d8242b58-ccc4-4fbe-9b86-62e5a7692788/
+WARNING 2021-01-02 19:10:59,232 basehttp 154 "GET /image_codes/d8242b58-ccc4-4fbe-9b86-62e5a7692788/ HTTP/1.1" 404 2615
+WARNING 2021-01-02 19:11:07,349 log 228 Not Found: /image_codes/09274aff-d91c-4821-a972-6b2d870c6764/
+WARNING 2021-01-02 19:11:07,350 basehttp 154 "GET /image_codes/09274aff-d91c-4821-a972-6b2d870c6764/ HTTP/1.1" 404 2615
+WARNING 2021-01-02 19:12:33,284 log 228 Not Found: /search/
+WARNING 2021-01-02 19:12:33,285 basehttp 154 "GET /search/?page=1&page_size=6 HTTP/1.1" 404 2512
+INFO 2021-01-02 19:29:00,246 autoreload 217 /home/ubuntu/Desktop/test/MeiDuo_test/meiduo_mail/apps/users/views.py changed, reloading.
+INFO 2021-01-02 19:29:01,161 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-02 19:29:38,144 autoreload 217 /home/ubuntu/Desktop/test/MeiDuo_test/meiduo_mail/apps/users/views.py changed, reloading.
+INFO 2021-01-02 19:29:38,707 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-02 19:34:08,156 autoreload 217 /home/ubuntu/Desktop/test/MeiDuo_test/meiduo_mail/apps/users/views.py changed, reloading.
+INFO 2021-01-02 19:34:09,368 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-02 19:36:06,132 autoreload 217 /home/ubuntu/Desktop/test/MeiDuo_test/meiduo_mail/apps/users/views.py changed, reloading.
+INFO 2021-01-02 19:36:06,792 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-02 19:36:32,358 autoreload 217 /home/ubuntu/Desktop/test/MeiDuo_test/meiduo_mail/apps/users/views.py changed, reloading.
+INFO 2021-01-02 19:36:32,782 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-02 19:36:55,931 log 228 Not Found: /carts/simple/
+WARNING 2021-01-02 19:36:55,933 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 2507
+WARNING 2021-01-02 19:36:57,853 log 228 Not Found: /image_codes/6f844c76-a0bd-41ee-97aa-bf9c4b4bbcf5/
+WARNING 2021-01-02 19:36:57,854 basehttp 154 "GET /image_codes/6f844c76-a0bd-41ee-97aa-bf9c4b4bbcf5/ HTTP/1.1" 404 2615
+INFO 2021-01-02 19:36:58,928 basehttp 154 "GET /usernames/itcast_01/count/ HTTP/1.1" 200 39
+INFO 2021-01-02 19:37:00,816 basehttp 154 "GET /usernames/itcast_01/count/ HTTP/1.1" 200 39
+WARNING 2021-01-02 19:37:14,110 log 228 Not Found: /mobiles/15700000000/count/
+WARNING 2021-01-02 19:37:14,113 basehttp 154 "GET /mobiles/15700000000/count/ HTTP/1.1" 404 2546
+INFO 2021-01-02 19:37:20,414 basehttp 154 "GET /usernames/itcast_01/count/ HTTP/1.1" 200 39
+WARNING 2021-01-02 19:37:20,417 log 228 Not Found: /mobiles/15700000000/count/
+INFO 2021-01-02 19:37:20,419 basehttp 154 "OPTIONS /register/ HTTP/1.1" 200 0
+WARNING 2021-01-02 19:37:20,420 basehttp 154 "GET /mobiles/15700000000/count/ HTTP/1.1" 404 2546
+INFO 2021-01-02 19:37:20,619 basehttp 154 "POST /register/ HTTP/1.1" 200 27
+WARNING 2021-01-02 19:37:21,148 log 228 Not Found: /carts/simple/
+WARNING 2021-01-02 19:37:21,150 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 2507
