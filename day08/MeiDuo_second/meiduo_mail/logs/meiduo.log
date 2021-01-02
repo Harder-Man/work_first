@@ -1,0 +1,459 @@
+INFO 2021-01-02 22:07:48,872 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-02 22:08:12,371 basehttp 154 "GET /usernames/a111111/count/ HTTP/1.1" 200 39
+WARNING 2021-01-02 22:08:12,519 log 228 Not Found: /favicon.ico
+WARNING 2021-01-02 22:08:12,520 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2166
+INFO 2021-01-02 22:16:45,865 autoreload 217 /home/ubuntu/Desktop/test/day08/MeiDuo_second/meiduo_mail/apps/users/views.py changed, reloading.
+INFO 2021-01-02 22:16:46,679 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-02 22:29:05,873 autoreload 217 /home/ubuntu/Desktop/test/day08/MeiDuo_second/meiduo_mail/apps/users/views.py changed, reloading.
+INFO 2021-01-02 22:29:06,464 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-02 22:29:21,227 autoreload 217 /home/ubuntu/Desktop/test/day08/MeiDuo_second/meiduo_mail/apps/users/views.py changed, reloading.
+INFO 2021-01-02 22:29:21,794 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-02 22:29:36,746 log 228 Not Found: /carts/simple/
+WARNING 2021-01-02 22:29:36,747 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 2172
+WARNING 2021-01-02 22:29:38,412 log 228 Not Found: /image_codes/6e6a7626-03cc-4b41-82d5-a5d41fa32c93/
+WARNING 2021-01-02 22:29:38,414 basehttp 154 "GET /image_codes/6e6a7626-03cc-4b41-82d5-a5d41fa32c93/ HTTP/1.1" 404 2280
+INFO 2021-01-02 22:29:39,470 basehttp 154 "GET /usernames/itcast_01/count/ HTTP/1.1" 200 39
+INFO 2021-01-02 22:29:42,975 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+WARNING 2021-01-02 22:29:50,243 log 228 Not Found: /mobiles/15700000000/count/
+WARNING 2021-01-02 22:29:50,245 basehttp 154 "GET /mobiles/15700000000/count/ HTTP/1.1" 404 2211
+WARNING 2021-01-02 22:29:53,609 log 228 Not Found: /mobiles/15700000001/count/
+WARNING 2021-01-02 22:29:53,616 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2211
+WARNING 2021-01-02 22:30:00,539 log 228 Not Found: /register/
+WARNING 2021-01-02 22:30:00,541 basehttp 154 "OPTIONS /register/ HTTP/1.1" 404 2164
+INFO 2021-01-02 22:30:00,551 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+WARNING 2021-01-02 22:30:00,555 log 228 Not Found: /mobiles/15700000001/count/
+WARNING 2021-01-02 22:30:00,559 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2211
+WARNING 2021-01-02 22:30:02,164 log 228 Not Found: /register/
+WARNING 2021-01-02 22:30:02,167 basehttp 154 "OPTIONS /register/ HTTP/1.1" 404 2164
+WARNING 2021-01-02 22:30:02,166 log 228 Not Found: /mobiles/15700000001/count/
+WARNING 2021-01-02 22:30:02,168 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2211
+INFO 2021-01-02 22:30:02,171 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+WARNING 2021-01-02 22:30:04,481 log 228 Not Found: /mobiles/15700000001/count/
+WARNING 2021-01-02 22:30:04,484 log 228 Not Found: /register/
+WARNING 2021-01-02 22:30:04,486 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2211
+INFO 2021-01-02 22:30:04,489 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+WARNING 2021-01-02 22:30:04,489 basehttp 154 "OPTIONS /register/ HTTP/1.1" 404 2164
+WARNING 2021-01-02 22:30:04,717 log 228 Not Found: /register/
+WARNING 2021-01-02 22:30:04,719 basehttp 154 "OPTIONS /register/ HTTP/1.1" 404 2164
+INFO 2021-01-02 22:30:04,720 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+WARNING 2021-01-02 22:30:04,722 log 228 Not Found: /mobiles/15700000001/count/
+WARNING 2021-01-02 22:30:04,726 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2211
+INFO 2021-01-02 22:30:04,844 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+WARNING 2021-01-02 22:30:04,853 log 228 Not Found: /mobiles/15700000001/count/
+WARNING 2021-01-02 22:30:04,858 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2211
+WARNING 2021-01-02 22:30:04,856 log 228 Not Found: /register/
+WARNING 2021-01-02 22:30:04,859 basehttp 154 "OPTIONS /register/ HTTP/1.1" 404 2164
+INFO 2021-01-02 22:30:34,748 autoreload 217 /home/ubuntu/Desktop/test/day08/MeiDuo_second/meiduo_mail/apps/users/urls.py changed, reloading.
+INFO 2021-01-02 22:30:35,640 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-02 22:30:59,114 autoreload 217 /home/ubuntu/Desktop/test/day08/MeiDuo_second/meiduo_mail/apps/users/urls.py changed, reloading.
+INFO 2021-01-02 22:30:59,738 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-02 22:31:01,915 log 228 Not Found: /mobiles/15700000001/count/
+INFO 2021-01-02 22:31:01,917 basehttp 154 "OPTIONS /register/ HTTP/1.1" 200 0
+WARNING 2021-01-02 22:31:01,922 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2367
+INFO 2021-01-02 22:31:01,922 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+WARNING 2021-01-02 22:31:03,498 log 228 Not Found: /mobiles/15700000001/count/
+INFO 2021-01-02 22:31:03,507 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+WARNING 2021-01-02 22:31:03,508 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2367
+INFO 2021-01-02 22:31:03,509 basehttp 154 "OPTIONS /register/ HTTP/1.1" 200 0
+INFO 2021-01-02 22:31:06,503 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+INFO 2021-01-02 22:31:13,772 basehttp 154 "OPTIONS /register/ HTTP/1.1" 200 0
+WARNING 2021-01-02 22:31:13,774 log 228 Not Found: /mobiles/15700000001/count/
+WARNING 2021-01-02 22:31:13,776 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2367
+INFO 2021-01-02 22:31:13,777 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+INFO 2021-01-02 22:32:00,970 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-02 22:32:50,180 log 228 Not Found: /image_codes/f670cabb-8d4f-4d87-8c46-8a8e2847383a/
+WARNING 2021-01-02 22:32:50,182 basehttp 154 "GET /image_codes/f670cabb-8d4f-4d87-8c46-8a8e2847383a/ HTTP/1.1" 404 2436
+INFO 2021-01-02 22:32:53,146 basehttp 154 "GET /usernames/itcast_01/count/ HTTP/1.1" 200 39
+INFO 2021-01-02 22:32:55,702 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+WARNING 2021-01-02 22:33:07,725 log 228 Not Found: /mobiles/15700000001/count/
+WARNING 2021-01-02 22:33:07,727 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2367
+WARNING 2021-01-02 22:33:12,695 log 228 Not Found: /mobiles/15700000001/count/
+WARNING 2021-01-02 22:33:12,696 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2367
+INFO 2021-01-02 22:33:12,697 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+INFO 2021-01-02 22:33:12,699 basehttp 154 "OPTIONS /register/ HTTP/1.1" 200 0
+INFO 2021-01-02 22:33:13,729 basehttp 154 "OPTIONS /register/ HTTP/1.1" 200 0
+WARNING 2021-01-02 22:33:13,732 log 228 Not Found: /mobiles/15700000001/count/
+WARNING 2021-01-02 22:33:13,734 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2367
+INFO 2021-01-02 22:33:13,735 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+WARNING 2021-01-02 22:33:14,210 log 228 Not Found: /mobiles/15700000001/count/
+INFO 2021-01-02 22:33:14,211 basehttp 154 "OPTIONS /register/ HTTP/1.1" 200 0
+WARNING 2021-01-02 22:33:14,213 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2367
+INFO 2021-01-02 22:33:14,215 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+INFO 2021-01-02 22:33:14,331 basehttp 154 "OPTIONS /register/ HTTP/1.1" 200 0
+WARNING 2021-01-02 22:33:14,334 log 228 Not Found: /mobiles/15700000001/count/
+INFO 2021-01-02 22:33:14,335 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+WARNING 2021-01-02 22:33:14,336 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2367
+WARNING 2021-01-02 22:35:27,469 log 228 Not Found: /mobiles/15700000001/count/
+INFO 2021-01-02 22:35:27,470 basehttp 154 "OPTIONS /register/ HTTP/1.1" 200 0
+WARNING 2021-01-02 22:35:27,471 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2367
+INFO 2021-01-02 22:35:27,473 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+WARNING 2021-01-02 22:35:28,541 log 228 Not Found: /mobiles/15700000001/count/
+INFO 2021-01-02 22:35:28,543 basehttp 154 "OPTIONS /register/ HTTP/1.1" 200 0
+WARNING 2021-01-02 22:35:28,544 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2367
+INFO 2021-01-02 22:35:28,548 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+WARNING 2021-01-02 22:35:28,708 log 228 Not Found: /mobiles/15700000001/count/
+WARNING 2021-01-02 22:35:28,711 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2367
+INFO 2021-01-02 22:35:28,711 basehttp 154 "OPTIONS /register/ HTTP/1.1" 200 0
+INFO 2021-01-02 22:35:28,714 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+WARNING 2021-01-02 22:35:28,866 log 228 Not Found: /mobiles/15700000001/count/
+INFO 2021-01-02 22:35:28,866 basehttp 154 "OPTIONS /register/ HTTP/1.1" 200 0
+WARNING 2021-01-02 22:35:28,867 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2367
+INFO 2021-01-02 22:35:28,873 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+INFO 2021-01-02 22:35:28,973 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+INFO 2021-01-02 22:35:28,982 basehttp 154 "OPTIONS /register/ HTTP/1.1" 200 0
+WARNING 2021-01-02 22:35:28,990 log 228 Not Found: /mobiles/15700000001/count/
+WARNING 2021-01-02 22:35:28,991 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2367
+WARNING 2021-01-02 22:35:41,962 log 228 Not Found: /mobiles/15700000001/count/
+INFO 2021-01-02 22:35:41,963 basehttp 154 "OPTIONS /register/ HTTP/1.1" 200 0
+INFO 2021-01-02 22:35:41,967 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+WARNING 2021-01-02 22:35:41,968 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2367
+INFO 2021-01-02 22:37:44,005 autoreload 217 /home/ubuntu/Desktop/test/day08/MeiDuo_second/meiduo_mail/apps/users/views.py changed, reloading.
+INFO 2021-01-02 22:37:44,597 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-02 22:38:26,304 log 228 Not Found: /mobiles/15700000001/count/
+WARNING 2021-01-02 22:38:26,307 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2367
+INFO 2021-01-02 22:38:26,312 basehttp 154 "OPTIONS /register/ HTTP/1.1" 200 0
+INFO 2021-01-02 22:38:26,314 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+WARNING 2021-01-02 22:38:26,446 log 228 Not Found: /mobiles/15700000001/count/
+INFO 2021-01-02 22:38:26,448 basehttp 154 "OPTIONS /register/ HTTP/1.1" 200 0
+WARNING 2021-01-02 22:38:26,449 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2367
+INFO 2021-01-02 22:38:26,450 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+WARNING 2021-01-02 22:38:27,126 log 228 Not Found: /mobiles/15700000001/count/
+INFO 2021-01-02 22:38:27,127 basehttp 154 "OPTIONS /register/ HTTP/1.1" 200 0
+INFO 2021-01-02 22:38:27,127 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+WARNING 2021-01-02 22:38:27,130 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2367
+INFO 2021-01-02 22:38:27,621 basehttp 154 "OPTIONS /register/ HTTP/1.1" 200 0
+WARNING 2021-01-02 22:38:27,625 log 228 Not Found: /mobiles/15700000001/count/
+WARNING 2021-01-02 22:38:27,626 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2367
+INFO 2021-01-02 22:38:27,630 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+INFO 2021-01-02 22:38:28,082 basehttp 154 "OPTIONS /register/ HTTP/1.1" 200 0
+WARNING 2021-01-02 22:38:28,085 log 228 Not Found: /mobiles/15700000001/count/
+INFO 2021-01-02 22:38:28,087 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+WARNING 2021-01-02 22:38:28,089 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2367
+WARNING 2021-01-02 22:38:28,557 log 228 Not Found: /mobiles/15700000001/count/
+INFO 2021-01-02 22:38:28,560 basehttp 154 "OPTIONS /register/ HTTP/1.1" 200 0
+WARNING 2021-01-02 22:38:28,562 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2367
+INFO 2021-01-02 22:38:28,567 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+INFO 2021-01-02 22:38:29,000 basehttp 154 "OPTIONS /register/ HTTP/1.1" 200 0
+WARNING 2021-01-02 22:38:29,006 log 228 Not Found: /mobiles/15700000001/count/
+WARNING 2021-01-02 22:38:29,009 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2367
+INFO 2021-01-02 22:38:29,006 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+INFO 2021-01-02 22:39:26,371 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-02 22:39:30,004 log 228 Not Found: /mobiles/15700000001/count/
+WARNING 2021-01-02 22:39:30,006 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2367
+INFO 2021-01-02 22:39:30,008 basehttp 154 "OPTIONS /register/ HTTP/1.1" 200 0
+INFO 2021-01-02 22:39:30,009 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+WARNING 2021-01-02 22:39:31,244 log 228 Not Found: /mobiles/15700000001/count/
+INFO 2021-01-02 22:39:31,246 basehttp 154 "OPTIONS /register/ HTTP/1.1" 200 0
+WARNING 2021-01-02 22:39:31,247 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2367
+INFO 2021-01-02 22:39:31,250 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+INFO 2021-01-02 22:39:45,771 autoreload 217 /home/ubuntu/Desktop/test/day08/MeiDuo_second/meiduo_mail/apps/users/views.py changed, reloading.
+INFO 2021-01-02 22:39:46,346 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-02 22:40:57,984 autoreload 217 /home/ubuntu/Desktop/test/day08/MeiDuo_second/meiduo_mail/meiduo_mail/settings.py changed, reloading.
+INFO 2021-01-02 22:40:58,746 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-02 22:41:14,915 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-02 22:45:06,301 autoreload 217 /home/ubuntu/Desktop/test/day08/MeiDuo_second/meiduo_mail/meiduo_mail/settings.py changed, reloading.
+INFO 2021-01-02 22:45:06,744 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-02 22:45:14,565 basehttp 154 "OPTIONS /register/ HTTP/1.1" 200 0
+INFO 2021-01-02 22:45:14,589 basehttp 154 "POST /register/ HTTP/1.1" 200 63
+INFO 2021-01-02 22:45:14,593 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+WARNING 2021-01-02 22:45:14,599 log 228 Not Found: /mobiles/15700000001/count/
+WARNING 2021-01-02 22:45:14,599 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2367
+INFO 2021-01-02 22:45:31,599 basehttp 154 "POST /register/ HTTP/1.1" 200 63
+WARNING 2021-01-02 22:45:31,602 log 228 Not Found: /mobiles/15700000001/count/
+WARNING 2021-01-02 22:45:31,602 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2367
+INFO 2021-01-02 22:45:31,607 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+INFO 2021-01-02 22:45:57,710 autoreload 217 /home/ubuntu/Desktop/test/day08/MeiDuo_second/meiduo_mail/apps/users/views.py changed, reloading.
+INFO 2021-01-02 22:45:58,500 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-02 22:46:07,939 basehttp 154 "POST /register/ HTTP/1.1" 200 63
+INFO 2021-01-02 22:46:07,948 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+WARNING 2021-01-02 22:46:07,951 log 228 Not Found: /mobiles/15700000001/count/
+WARNING 2021-01-02 22:46:07,953 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2367
+WARNING 2021-01-02 22:46:24,893 log 228 Not Found: /mobiles/15700000001/count/
+INFO 2021-01-02 22:46:24,895 basehttp 154 "POST /register/ HTTP/1.1" 200 63
+WARNING 2021-01-02 22:46:24,897 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2367
+INFO 2021-01-02 22:46:24,898 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+INFO 2021-01-02 22:46:29,506 basehttp 154 "POST /register/ HTTP/1.1" 200 63
+WARNING 2021-01-02 22:46:29,509 log 228 Not Found: /mobiles/15700000001/count/
+WARNING 2021-01-02 22:46:29,512 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2367
+INFO 2021-01-02 22:46:29,512 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+INFO 2021-01-02 22:46:54,598 autoreload 217 /home/ubuntu/Desktop/test/day08/MeiDuo_second/meiduo_mail/apps/users/views.py changed, reloading.
+INFO 2021-01-02 22:46:55,291 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-02 22:47:04,308 log 228 Not Found: /mobiles/15700000001/count/
+INFO 2021-01-02 22:47:04,312 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+WARNING 2021-01-02 22:47:04,318 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2367
+ERROR 2021-01-02 22:47:04,416 log 228 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/ubuntu/Desktop/test/day08/MeiDuo_second/meiduo_mail/apps/users/views.py", line 59, in post
+    mobile=mobile)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/contrib/auth/models.py", line 151, in create_user
+    return self._create_user(username, email, password, **extra_fields)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/contrib/auth/models.py", line 143, in _create_user
+    user = self.model(username=username, email=email, **extra_fields)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/db/models/base.py", line 501, in __init__
+    raise TypeError("%s() got an unexpected keyword argument '%s'" % (cls.__name__, kwarg))
+TypeError: User() got an unexpected keyword argument 'mobile'
+ERROR 2021-01-02 22:47:04,420 basehttp 154 "POST /register/ HTTP/1.1" 500 100315
+WARNING 2021-01-02 22:47:06,707 log 228 Not Found: /mobiles/15700000001/count/
+WARNING 2021-01-02 22:47:06,718 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2367
+ERROR 2021-01-02 22:47:06,746 log 228 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/ubuntu/Desktop/test/day08/MeiDuo_second/meiduo_mail/apps/users/views.py", line 59, in post
+    mobile=mobile)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/contrib/auth/models.py", line 151, in create_user
+    return self._create_user(username, email, password, **extra_fields)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/contrib/auth/models.py", line 143, in _create_user
+    user = self.model(username=username, email=email, **extra_fields)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/db/models/base.py", line 501, in __init__
+    raise TypeError("%s() got an unexpected keyword argument '%s'" % (cls.__name__, kwarg))
+TypeError: User() got an unexpected keyword argument 'mobile'
+INFO 2021-01-02 22:47:06,747 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+ERROR 2021-01-02 22:47:06,748 basehttp 154 "POST /register/ HTTP/1.1" 500 99837
+WARNING 2021-01-02 22:47:07,235 log 228 Not Found: /mobiles/15700000001/count/
+WARNING 2021-01-02 22:47:07,236 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2367
+INFO 2021-01-02 22:47:07,248 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+ERROR 2021-01-02 22:47:07,288 log 228 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/ubuntu/Desktop/test/day08/MeiDuo_second/meiduo_mail/apps/users/views.py", line 59, in post
+    mobile=mobile)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/contrib/auth/models.py", line 151, in create_user
+    return self._create_user(username, email, password, **extra_fields)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/contrib/auth/models.py", line 143, in _create_user
+    user = self.model(username=username, email=email, **extra_fields)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/db/models/base.py", line 501, in __init__
+    raise TypeError("%s() got an unexpected keyword argument '%s'" % (cls.__name__, kwarg))
+TypeError: User() got an unexpected keyword argument 'mobile'
+ERROR 2021-01-02 22:47:07,289 basehttp 154 "POST /register/ HTTP/1.1" 500 99837
+WARNING 2021-01-02 22:47:07,374 log 228 Not Found: /mobiles/15700000001/count/
+INFO 2021-01-02 22:47:07,378 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+WARNING 2021-01-02 22:47:07,379 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2367
+ERROR 2021-01-02 22:47:07,414 log 228 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/ubuntu/Desktop/test/day08/MeiDuo_second/meiduo_mail/apps/users/views.py", line 59, in post
+    mobile=mobile)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/contrib/auth/models.py", line 151, in create_user
+    return self._create_user(username, email, password, **extra_fields)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/contrib/auth/models.py", line 143, in _create_user
+    user = self.model(username=username, email=email, **extra_fields)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/db/models/base.py", line 501, in __init__
+    raise TypeError("%s() got an unexpected keyword argument '%s'" % (cls.__name__, kwarg))
+TypeError: User() got an unexpected keyword argument 'mobile'
+ERROR 2021-01-02 22:47:07,415 basehttp 154 "POST /register/ HTTP/1.1" 500 99837
+WARNING 2021-01-02 22:47:07,506 log 228 Not Found: /mobiles/15700000001/count/
+WARNING 2021-01-02 22:47:07,521 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2367
+INFO 2021-01-02 22:47:07,550 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+ERROR 2021-01-02 22:47:07,604 log 228 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/ubuntu/Desktop/test/day08/MeiDuo_second/meiduo_mail/apps/users/views.py", line 59, in post
+    mobile=mobile)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/contrib/auth/models.py", line 151, in create_user
+    return self._create_user(username, email, password, **extra_fields)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/contrib/auth/models.py", line 143, in _create_user
+    user = self.model(username=username, email=email, **extra_fields)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/db/models/base.py", line 501, in __init__
+    raise TypeError("%s() got an unexpected keyword argument '%s'" % (cls.__name__, kwarg))
+TypeError: User() got an unexpected keyword argument 'mobile'
+ERROR 2021-01-02 22:47:07,612 basehttp 154 "POST /register/ HTTP/1.1" 500 99837
+WARNING 2021-01-02 22:47:44,181 log 228 Not Found: /mobiles/15700000001/count/
+WARNING 2021-01-02 22:47:44,182 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2367
+ERROR 2021-01-02 22:47:44,228 log 228 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/ubuntu/Desktop/test/day08/MeiDuo_second/meiduo_mail/apps/users/views.py", line 59, in post
+    mobile=mobile)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/contrib/auth/models.py", line 151, in create_user
+    return self._create_user(username, email, password, **extra_fields)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/contrib/auth/models.py", line 143, in _create_user
+    user = self.model(username=username, email=email, **extra_fields)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/db/models/base.py", line 501, in __init__
+    raise TypeError("%s() got an unexpected keyword argument '%s'" % (cls.__name__, kwarg))
+TypeError: User() got an unexpected keyword argument 'mobile'
+INFO 2021-01-02 22:47:44,228 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+ERROR 2021-01-02 22:47:44,231 basehttp 154 "POST /register/ HTTP/1.1" 500 99838
+WARNING 2021-01-02 22:47:49,396 log 228 Not Found: /image_codes/b19aa7b4-6140-4262-a855-a619507723ca/
+WARNING 2021-01-02 22:47:49,411 basehttp 154 "GET /image_codes/b19aa7b4-6140-4262-a855-a619507723ca/ HTTP/1.1" 404 2436
+INFO 2021-01-02 22:47:54,091 basehttp 154 "GET /usernames/itcast_01/count/ HTTP/1.1" 200 39
+INFO 2021-01-02 22:48:00,336 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+WARNING 2021-01-02 22:48:04,468 log 228 Not Found: /mobiles/15700000001/count/
+WARNING 2021-01-02 22:48:04,471 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2367
+WARNING 2021-01-02 22:48:08,580 log 228 Not Found: /mobiles/15700000001/count/
+WARNING 2021-01-02 22:48:08,581 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2367
+INFO 2021-01-02 22:48:08,589 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+ERROR 2021-01-02 22:48:08,634 log 228 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/ubuntu/Desktop/test/day08/MeiDuo_second/meiduo_mail/apps/users/views.py", line 59, in post
+    mobile=mobile)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/contrib/auth/models.py", line 151, in create_user
+    return self._create_user(username, email, password, **extra_fields)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/contrib/auth/models.py", line 143, in _create_user
+    user = self.model(username=username, email=email, **extra_fields)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/db/models/base.py", line 501, in __init__
+    raise TypeError("%s() got an unexpected keyword argument '%s'" % (cls.__name__, kwarg))
+TypeError: User() got an unexpected keyword argument 'mobile'
+ERROR 2021-01-02 22:48:08,635 basehttp 154 "POST /register/ HTTP/1.1" 500 99837
+INFO 2021-01-02 22:48:17,399 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-02 22:48:22,919 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+WARNING 2021-01-02 22:48:22,924 log 228 Not Found: /mobiles/15700000001/count/
+WARNING 2021-01-02 22:48:22,929 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2367
+ERROR 2021-01-02 22:48:22,991 log 228 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/ubuntu/Desktop/test/day08/MeiDuo_second/meiduo_mail/apps/users/views.py", line 59, in post
+    mobile=mobile)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/contrib/auth/models.py", line 151, in create_user
+    return self._create_user(username, email, password, **extra_fields)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/contrib/auth/models.py", line 143, in _create_user
+    user = self.model(username=username, email=email, **extra_fields)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/db/models/base.py", line 501, in __init__
+    raise TypeError("%s() got an unexpected keyword argument '%s'" % (cls.__name__, kwarg))
+TypeError: User() got an unexpected keyword argument 'mobile'
+ERROR 2021-01-02 22:48:22,993 basehttp 154 "POST /register/ HTTP/1.1" 500 99838
+INFO 2021-01-02 22:55:13,235 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-02 22:55:16,510 basehttp 154 "OPTIONS /register/ HTTP/1.1" 200 0
+WARNING 2021-01-02 22:55:16,533 log 228 Not Found: /mobiles/15700000001/count/
+WARNING 2021-01-02 22:55:16,538 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2367
+INFO 2021-01-02 22:55:16,546 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+ERROR 2021-01-02 22:55:16,601 log 228 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/ubuntu/Desktop/test/day08/MeiDuo_second/meiduo_mail/apps/users/views.py", line 59, in post
+    mobile=mobile)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/contrib/auth/models.py", line 151, in create_user
+    return self._create_user(username, email, password, **extra_fields)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/contrib/auth/models.py", line 143, in _create_user
+    user = self.model(username=username, email=email, **extra_fields)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/db/models/base.py", line 501, in __init__
+    raise TypeError("%s() got an unexpected keyword argument '%s'" % (cls.__name__, kwarg))
+TypeError: User() got an unexpected keyword argument 'mobile'
+ERROR 2021-01-02 22:55:16,607 basehttp 154 "POST /register/ HTTP/1.1" 500 99838
+INFO 2021-01-02 22:57:28,567 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-02 22:57:38,111 autoreload 217 /home/ubuntu/Desktop/test/day08/MeiDuo_second/meiduo_mail/apps/users/views.py changed, reloading.
+INFO 2021-01-02 22:57:38,513 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-02 22:57:47,933 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-02 22:57:59,194 log 228 Not Found: /image_codes/f66e9bc0-a01a-4593-8f14-231c03a9551c/
+WARNING 2021-01-02 22:57:59,196 basehttp 154 "GET /image_codes/f66e9bc0-a01a-4593-8f14-231c03a9551c/ HTTP/1.1" 404 2436
+INFO 2021-01-02 22:57:59,826 basehttp 154 "GET /usernames/itcast_01/count/ HTTP/1.1" 200 39
+INFO 2021-01-02 22:58:07,255 basehttp 154 "GET /usernames/itcast_03/count/ HTTP/1.1" 200 39
+WARNING 2021-01-02 22:58:11,103 log 228 Not Found: /mobiles/15700000001/count/
+WARNING 2021-01-02 22:58:11,106 basehttp 154 "GET /mobiles/15700000001/count/ HTTP/1.1" 404 2367
+WARNING 2021-01-02 22:58:15,021 log 228 Not Found: /mobiles/15700000002/count/
+WARNING 2021-01-02 22:58:15,022 basehttp 154 "GET /mobiles/15700000002/count/ HTTP/1.1" 404 2367
+WARNING 2021-01-02 22:58:16,772 log 228 Not Found: /mobiles/15700000002/count/
+WARNING 2021-01-02 22:58:16,775 basehttp 154 "GET /mobiles/15700000002/count/ HTTP/1.1" 404 2367
+INFO 2021-01-02 22:58:16,782 basehttp 154 "GET /usernames/itcast_03/count/ HTTP/1.1" 200 39
+ERROR 2021-01-02 22:58:16,836 log 228 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/ubuntu/Desktop/test/day08/MeiDuo_second/meiduo_mail/apps/users/views.py", line 59, in post
+    mobile=mobile)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/contrib/auth/models.py", line 151, in create_user
+    return self._create_user(username, email, password, **extra_fields)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/contrib/auth/models.py", line 143, in _create_user
+    user = self.model(username=username, email=email, **extra_fields)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/db/models/base.py", line 501, in __init__
+    raise TypeError("%s() got an unexpected keyword argument '%s'" % (cls.__name__, kwarg))
+TypeError: User() got an unexpected keyword argument 'mobile'
+ERROR 2021-01-02 22:58:16,839 basehttp 154 "POST /register/ HTTP/1.1" 500 100316
+INFO 2021-01-02 23:02:17,810 autoreload 217 /home/ubuntu/Desktop/test/day08/MeiDuo_second/meiduo_mail/apps/users/models.py changed, reloading.
+INFO 2021-01-02 23:02:18,646 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-02 23:02:23,721 basehttp 154 "GET /usernames/itcast_03/count/ HTTP/1.1" 200 39
+WARNING 2021-01-02 23:02:23,726 log 228 Not Found: /mobiles/15700000002/count/
+WARNING 2021-01-02 23:02:23,727 basehttp 154 "GET /mobiles/15700000002/count/ HTTP/1.1" 404 2367
+INFO 2021-01-02 23:02:23,852 basehttp 154 "POST /register/ HTTP/1.1" 200 27
+WARNING 2021-01-02 23:02:24,775 log 228 Not Found: /carts/simple/
+WARNING 2021-01-02 23:02:24,780 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 2328
