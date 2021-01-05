@@ -19,9 +19,11 @@ from django.urls import path, include, register_converter
 from utils.converters import *
 
 register_converter(UsernameConverters, 'uc')
+register_converter(ImageCodeConverters, 'uuid')
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('apps.users.urls')),
+    path('', include('apps.verifications.urls')),
 
 ]
