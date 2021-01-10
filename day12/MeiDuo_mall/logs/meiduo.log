@@ -52,3 +52,17 @@ INFO 2021-01-10 06:30:55,366 autoreload 217 /home/ubuntu/Desktop/homework/work_f
 INFO 2021-01-10 06:30:55,921 autoreload 597 Watching for file changes with StatReloader
 INFO 2021-01-10 06:44:15,560 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/users/views.py changed, reloading.
 INFO 2021-01-10 06:44:16,303 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 07:00:13,379 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/MeiDuo_mall/urls.py changed, reloading.
+INFO 2021-01-10 07:00:13,893 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 07:01:06,194 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/verifications/urls.py changed, reloading.
+INFO 2021-01-10 07:01:06,618 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 07:02:27,797 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/verifications/views.py changed, reloading.
+INFO 2021-01-10 07:02:28,667 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 07:03:05,579 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/verifications/views.py changed, reloading.
+INFO 2021-01-10 07:03:06,027 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 07:05:36,814 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/utils/converters.py changed, reloading.
+INFO 2021-01-10 07:05:37,658 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 07:06:03,610 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/MeiDuo_mall/urls.py changed, reloading.
+INFO 2021-01-10 07:06:04,143 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 07:11:52,849 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/verifications/urls.py changed, reloading.
+INFO 2021-01-10 07:11:53,374 autoreload 597 Watching for file changes with StatReloader
