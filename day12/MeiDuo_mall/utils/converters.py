@@ -9,7 +9,7 @@ class UserConverters:
 
 
 class ImageCodeConverters:
-    regex = '[\w]+'
+    regex = '[\w-]+'
 
     def to_python(self, value):
         return value

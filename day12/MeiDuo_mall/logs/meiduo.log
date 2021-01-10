@@ -66,3 +66,43 @@ INFO 2021-01-10 07:06:03,610 autoreload 217 /home/ubuntu/Desktop/homework/work_f
 INFO 2021-01-10 07:06:04,143 autoreload 597 Watching for file changes with StatReloader
 INFO 2021-01-10 07:11:52,849 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/verifications/urls.py changed, reloading.
 INFO 2021-01-10 07:11:53,374 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-10 07:12:23,122 log 228 Not Found: /carts/simple/
+WARNING 2021-01-10 07:12:23,124 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 2505
+WARNING 2021-01-10 07:12:24,264 log 228 Not Found: /image_codes/51e4d5ea-7e76-4711-9183-88942a6977da/
+WARNING 2021-01-10 07:12:24,266 basehttp 154 "GET /image_codes/51e4d5ea-7e76-4711-9183-88942a6977da/ HTTP/1.1" 404 2613
+INFO 2021-01-10 07:12:25,346 basehttp 154 "GET /usernames/itcast_01/count/ HTTP/1.1" 200 39
+WARNING 2021-01-10 07:12:25,408 log 228 Not Found: /image_codes/e056e0cd-bfdb-409a-ad95-54b5c222b49c/
+WARNING 2021-01-10 07:12:25,409 basehttp 154 "GET /image_codes/e056e0cd-bfdb-409a-ad95-54b5c222b49c/ HTTP/1.1" 404 2613
+WARNING 2021-01-10 07:12:25,903 log 228 Not Found: /image_codes/95b9ed23-d0a9-45e4-a1b0-c85787310a9f/
+WARNING 2021-01-10 07:12:25,904 basehttp 154 "GET /image_codes/95b9ed23-d0a9-45e4-a1b0-c85787310a9f/ HTTP/1.1" 404 2613
+WARNING 2021-01-10 07:12:26,367 log 228 Not Found: /image_codes/46d8f97c-5721-46e0-800d-d95d4ae2169d/
+WARNING 2021-01-10 07:12:26,368 basehttp 154 "GET /image_codes/46d8f97c-5721-46e0-800d-d95d4ae2169d/ HTTP/1.1" 404 2613
+WARNING 2021-01-10 07:12:26,754 log 228 Not Found: /image_codes/f3c31bdd-ca5b-43de-b60b-7c9e755be857/
+WARNING 2021-01-10 07:12:26,755 basehttp 154 "GET /image_codes/f3c31bdd-ca5b-43de-b60b-7c9e755be857/ HTTP/1.1" 404 2613
+WARNING 2021-01-10 07:12:27,164 log 228 Not Found: /image_codes/f0503800-46a6-44bc-a5e8-fc24977fbd14/
+WARNING 2021-01-10 07:12:27,165 basehttp 154 "GET /image_codes/f0503800-46a6-44bc-a5e8-fc24977fbd14/ HTTP/1.1" 404 2613
+WARNING 2021-01-10 07:12:27,414 log 228 Not Found: /image_codes/98a4fe82-491a-4f6d-aa56-f78ae10f228d/
+WARNING 2021-01-10 07:12:27,415 basehttp 154 "GET /image_codes/98a4fe82-491a-4f6d-aa56-f78ae10f228d/ HTTP/1.1" 404 2613
+WARNING 2021-01-10 07:12:27,638 log 228 Not Found: /image_codes/c4c1111d-939a-4bd4-b3b2-0f6efb8ceef4/
+WARNING 2021-01-10 07:12:27,639 basehttp 154 "GET /image_codes/c4c1111d-939a-4bd4-b3b2-0f6efb8ceef4/ HTTP/1.1" 404 2613
+WARNING 2021-01-10 07:12:28,632 log 228 Not Found: /image_codes/c7d8202b-527a-4a91-99bb-5783cdc87e3d/
+WARNING 2021-01-10 07:12:28,633 basehttp 154 "GET /image_codes/c7d8202b-527a-4a91-99bb-5783cdc87e3d/ HTTP/1.1" 404 2613
+WARNING 2021-01-10 07:12:29,088 log 228 Not Found: /image_codes/a86999dd-e56a-4920-941f-0af96347ad42/
+WARNING 2021-01-10 07:12:29,088 basehttp 154 "GET /image_codes/a86999dd-e56a-4920-941f-0af96347ad42/ HTTP/1.1" 404 2613
+WARNING 2021-01-10 07:12:33,337 log 228 Not Found: /image_codes/8b0df652-7012-4b2c-a578-9a04e7ab7234/
+WARNING 2021-01-10 07:12:33,341 basehttp 154 "GET /image_codes/8b0df652-7012-4b2c-a578-9a04e7ab7234/ HTTP/1.1" 404 2613
+INFO 2021-01-10 07:12:37,489 basehttp 154 "GET /usernames/itcast_01/count/ HTTP/1.1" 200 39
+WARNING 2021-01-10 07:12:37,583 log 228 Not Found: /image_codes/95287062-0e9a-49e8-af51-a96d90ecdcce/
+WARNING 2021-01-10 07:12:37,598 basehttp 154 "GET /image_codes/95287062-0e9a-49e8-af51-a96d90ecdcce/ HTTP/1.1" 404 2613
+INFO 2021-01-10 07:13:46,527 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/verifications/urls.py changed, reloading.
+INFO 2021-01-10 07:13:47,158 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 07:13:50,026 basehttp 154 "GET /image_codes/7564d2b9-9b11-45f3-95ab-eb19eec2f605/ HTTP/1.1" 200 2937
+INFO 2021-01-10 07:13:55,051 basehttp 154 "GET /usernames/itcast_01/count/ HTTP/1.1" 200 39
+INFO 2021-01-10 07:13:55,128 basehttp 154 "GET /image_codes/ddd408d2-0174-41f4-b296-51511d44aa21/ HTTP/1.1" 200 3062
+INFO 2021-01-10 07:14:00,264 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/verifications/urls.py changed, reloading.
+INFO 2021-01-10 07:14:00,751 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-10 07:14:03,521 log 228 Not Found: /image_codes/5fd6e828-2a81-4b63-9e12-cf1d22a1cc98/
+WARNING 2021-01-10 07:14:03,522 basehttp 154 "GET /image_codes/5fd6e828-2a81-4b63-9e12-cf1d22a1cc98/ HTTP/1.1" 404 2613
+INFO 2021-01-10 07:14:22,278 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/utils/converters.py changed, reloading.
+INFO 2021-01-10 07:14:22,930 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 07:14:24,707 basehttp 154 "GET /image_codes/4735fb13-925d-4905-9915-75639b2b7840/ HTTP/1.1" 200 3258
