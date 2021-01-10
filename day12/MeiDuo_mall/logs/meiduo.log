@@ -296,3 +296,19 @@ INFO 2021-01-10 11:42:17,578 basehttp 154 "GET /areas/140800/ HTTP/1.1" 200 637
 INFO 2021-01-10 11:42:19,976 basehttp 154 "GET /areas/141000/ HTTP/1.1" 200 809
 INFO 2021-01-10 11:42:37,379 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/areas/views.py changed, reloading.
 INFO 2021-01-10 11:42:38,420 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 11:44:44,746 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/users/models.py changed, reloading.
+INFO 2021-01-10 11:44:45,591 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 11:45:30,221 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/users/models.py changed, reloading.
+INFO 2021-01-10 11:45:30,750 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 11:46:07,803 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/users/models.py changed, reloading.
+INFO 2021-01-10 11:46:08,622 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 11:47:51,798 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/areas/urls.py changed, reloading.
+INFO 2021-01-10 11:47:52,593 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 11:48:33,792 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-10 11:48:34,990 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 11:48:51,211 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/users/urls.py changed, reloading.
+INFO 2021-01-10 11:48:51,782 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 11:53:50,309 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-10 11:53:50,963 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 11:56:45,122 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-10 11:56:46,049 autoreload 597 Watching for file changes with StatReloader

@@ -20,6 +20,9 @@ from celery_tasks.email_tasks.tasks import celery_send_email
 # 加密和解密
 from apps.users.utils import *
 
+# 导入地址模块
+from apps.users.models import Address
+
 
 class UsernameCountView(View):
 
@@ -246,3 +249,98 @@ class VerifyEmailView(View):
 
         # 8. 返回响应
         return JsonResponse({'code': 0, 'errmsg': 'ok'})
+
+
+class CreateAddressView(View):
+
+    def post(self, request):
+        """
+        1. 必须是登录用户才可以新增地址
+        2. 接收参数
+        3. 提取参数
+        4. 验证参数 (省略--作业)
+        5. 数据入库
+        6. 返回响应
+        :param request:
+        :return:
+        """
+        # 1. 必须是登录用户才可以新增地址
+        data = json.loads(request.body.decode())
+
+        # 3. 提取参数(课件copy)
+        receiver = data.get('receiver')
+        province_id = data.get('province_id')
+        city_id = data.get('city_id')
+        district_id = data.get('district_id')
+        place = data.get('place')
+        mobile = data.get('mobile')
+        tel = data.get('tel')
+        email = data.get('email')
+
+        # 4. 验证参数 (省略--作业)
+        # 5. 数据入库
+        address = Address.objects.create(
+            user=request.user,
+            title=receiver,
+            receiver=receiver,
+            province_id=province_id,
+            city_id=city_id,
+            district_id=district_id,
+            place=place,
+            mobile=mobile,
+            tel=tel,
+            email=email
+        )
+
+        # 6. 返回响应
+        address_dict = {
+            'id': address.id,
+            "title": address.title,
+            "receiver": address.receiver,
+            "province": address.province.name,
+            "city": address.city.name,
+            "district": address.district.name,
+            "place": address.place,
+            "mobile": address.mobile,
+            "tel": address.tel,
+            "email": address.email
+        }
+
+        return JsonResponse({'code': 0, 'errmsg': 'ok', 'address': address_dict})
+
+
+class AddressListView(LoginRequiredJsonMixin, View):
+    def get(self, request):
+        """
+        1. 必须是登录用户才可以获取地址
+        2. 根据用户信息查询地址信息
+        3. 需要对查询结果集进行遍历, 转换为字典列表
+        4. 返回响应
+        :param request:
+        :return:
+        """
+        # 1. 必须是登录用户才可以获取地址
+        # 2. 根据用户信息查询地址信息
+        addresses = Address.objects.filter(user=request.user, is_deleted=False)
+
+        # 3. 需要对查询结果集进行遍历, 转换为字典列表
+        addresses_list = []
+        for address in addresses:
+            addresses_list.append({
+                'id': address.id,
+                "title": address.title,
+                "receiver": address.receiver,
+                "province": address.province.name,
+                "city": address.city.name,
+                "district": address.district.name,
+                "place": address.place,
+                "mobile": address.mobile,
+                "tel": address.tel,
+                "email": address.email
+            })
+
+        # 4. 返回响应
+        return JsonResponse({'code': 0,
+                             'errmsg': 'ok',
+                             'addresses': addresses_list,
+                             'default_address_id': request.user.default_address_id})

@@ -21,4 +21,7 @@ urlpatterns = [
 
     # 激活邮件
     path('emails/verification/', VerifyEmailView.as_view()),
+
+    # 地址管理
+    path('addresses/', AddressListView.as_view()),
 ]
