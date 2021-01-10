@@ -6,4 +6,7 @@ urlpatterns = [
 
     # 用户注册
     path('register/', RegisterView.as_view()),
+
+    # 用户登录
+    path('login/', LoginView.as_view()),
 ]

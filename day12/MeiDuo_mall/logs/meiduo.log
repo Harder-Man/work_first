@@ -120,3 +120,11 @@ INFO 2021-01-10 08:00:41,145 autoreload 217 /home/ubuntu/Desktop/homework/work_f
 INFO 2021-01-10 08:00:42,156 autoreload 597 Watching for file changes with StatReloader
 INFO 2021-01-10 08:07:23,757 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/verifications/views.py changed, reloading.
 INFO 2021-01-10 08:07:24,380 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 08:10:00,370 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/users/urls.py changed, reloading.
+INFO 2021-01-10 08:10:00,825 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 08:10:14,962 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/users/urls.py changed, reloading.
+INFO 2021-01-10 08:10:15,440 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 08:21:36,400 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-10 08:21:37,057 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 08:21:42,004 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-10 08:21:42,857 autoreload 597 Watching for file changes with StatReloader
