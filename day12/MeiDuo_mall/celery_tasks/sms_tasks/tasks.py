@@ -19,4 +19,4 @@ def celery_send_message(mobile, data):
     # 2. 发送短信
     sdk.sendMessage(tid, mobile, datas)
     # 调用方法
-    send_message()
+

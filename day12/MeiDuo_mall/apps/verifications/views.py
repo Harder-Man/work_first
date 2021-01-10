@@ -5,7 +5,7 @@ from random import randint
 from django.views import View
 from libs.captcha.captcha import captcha
 from django_redis import get_redis_connection
-from django.http.response import JsonResponse,HttpResponse
+from django.http.response import JsonResponse,HttpResponse,HttpResponseBadRequest
 from celery_tasks.sms_tasks.tasks import celery_send_message
 
 
@@ -77,6 +77,14 @@ class SmsCodeView(View):
         # 6.用户的图片验证码和redis进行比对
         if image_code.lower() != redis_text.decode().lower():
             return JsonResponse({'code':400, 'errmsg': '验证码错误'})
+
+        # 在生成短信验证码前 判断标记
+        send_flag = redis_cli.get('send_flag_%s' % mobile)
+        # send_flag 只要有值 就说明 在频繁操作
+        if send_flag is not None:
+            return HttpResponseBadRequest('不要频繁操作')
+        # return JsonResponse({'code':400,'errmsg':'不要频繁操作'})
+
 
         # (redis的数据是bytes类型的,内容大小写统一)
         # 7. 通过程序生成短信验证码

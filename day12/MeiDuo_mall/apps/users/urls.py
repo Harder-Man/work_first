@@ -15,4 +15,10 @@ urlpatterns = [
 
     # 用户中心
     path('info/', UserInfoView.as_view()),
+
+    # 邮箱保存
+    path('emails/', EmailView.as_view()),
+
+    # 激活邮件
+    # path('emails/verification/', EmailView.as_view()),
 ]

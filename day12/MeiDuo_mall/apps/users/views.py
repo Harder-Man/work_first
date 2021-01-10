@@ -14,6 +14,12 @@ from django.contrib.auth import authenticate
 # 验证用户是否登录
 from utils.views import LoginRequiredJsonMixin
 
+# 异步发送邮件
+from celery_tasks.email_tasks.tasks import celery_send_email
+
+# 加密和解密
+from apps.users.utils import *
+
 
 class UsernameCountView(View):
 
@@ -155,8 +161,50 @@ class UserInfoView(LoginRequiredJsonMixin, View):
             'username': user.username,
             'mobile': user.mobile,
             'email': user.email,
-            'email_active': False
+            'email_active': user.email_active
         }
 
         # 3. 返回响应
         return JsonResponse({'code': 0, 'errmsg': 'ok', 'info_data': user_info})
+
+
+class EmailView(LoginRequiredJsonMixin, View):
+
+    def put(self, request):
+        """
+        1. 判断用户是否登录
+        2. 接收请求
+        3. 提取参数
+        4. 验证参数(省略--作业)
+        5. 更新用户信息(数据入库)
+        6. 发送激活邮件(下一节讲)
+        7. 返回响应
+        :param request:
+        :return:
+        """
+        # 1. 判断用户是否登录
+        # 2. 接收请求
+        data = json.loads(request.body.decode())
+        # 3. 提取参数
+        email = data.get('email')
+        # 4. 验证参数(省略--作业)
+
+        # 5. 更新用户信息(数据入库)
+        user = request.user
+        user.email = email
+        user.save()
+
+        # 6. 发送激活邮件(下一节讲)
+        token = generic_user_id(user.id)
+        verify_url = 'http://www.meiduo.site:8080/success_verify_email.html?token = % s'%token
+        html_message = '<p>尊敬的用户您好！</p>' \
+                       '<p>感谢您使用美多商城。</p>' \
+                       '<p>您的邮箱为：%s 。请点击此链接激活您的邮箱：</p>' \
+                       '<p><a href="%s">%s<a></p>' % (email, verify_url, verify_url)
+
+        celery_send_email.delay(email, html_message)
+
+        # 7. 返回响应
+        return JsonResponse({'code': 0, 'errmsg': 'ok'})
+
+

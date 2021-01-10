@@ -192,3 +192,33 @@ INFO 2021-01-10 08:51:00,670 autoreload 217 /home/ubuntu/Desktop/homework/work_f
 INFO 2021-01-10 08:51:01,511 autoreload 597 Watching for file changes with StatReloader
 INFO 2021-01-10 09:03:44,048 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/oauth/views.py changed, reloading.
 INFO 2021-01-10 09:03:45,291 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 09:32:15,526 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/oauth/views.py changed, reloading.
+INFO 2021-01-10 09:32:16,785 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 10:23:14,019 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/oauth/views.py changed, reloading.
+INFO 2021-01-10 10:23:15,177 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 10:33:56,903 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/oauth/views.py changed, reloading.
+INFO 2021-01-10 10:33:57,804 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 10:34:17,694 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/users/models.py changed, reloading.
+INFO 2021-01-10 10:34:18,243 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 10:35:27,414 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-10 10:35:28,161 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 10:37:45,805 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-10 10:37:46,757 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 10:42:41,469 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-10 10:42:42,380 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 10:43:07,697 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/celery_tasks/main.py changed, reloading.
+INFO 2021-01-10 10:43:08,413 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 10:43:32,596 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/MeiDuo_mall/settings.py changed, reloading.
+INFO 2021-01-10 10:43:33,356 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 10:45:56,042 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-10 10:45:56,758 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 10:48:14,362 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/celery_tasks/main.py changed, reloading.
+INFO 2021-01-10 10:48:14,929 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 10:57:51,533 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-10 10:57:52,459 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 10:58:34,237 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/celery_tasks/email_tasks/tasks.py changed, reloading.
+INFO 2021-01-10 10:58:34,813 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 10:58:40,615 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/celery_tasks/email_tasks/tasks.py changed, reloading.
+INFO 2021-01-10 10:58:41,115 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 11:00:41,650 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/users/urls.py changed, reloading.
+INFO 2021-01-10 11:00:42,365 autoreload 597 Watching for file changes with StatReloader
