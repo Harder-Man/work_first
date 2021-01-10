@@ -20,5 +20,5 @@ urlpatterns = [
     path('emails/', EmailView.as_view()),
 
     # 激活邮件
-    # path('emails/verification/', EmailView.as_view()),
+    path('emails/verification/', VerifyEmailView.as_view()),
 ]

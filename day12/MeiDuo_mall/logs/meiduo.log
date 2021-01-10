@@ -222,3 +222,77 @@ INFO 2021-01-10 10:58:40,615 autoreload 217 /home/ubuntu/Desktop/homework/work_f
 INFO 2021-01-10 10:58:41,115 autoreload 597 Watching for file changes with StatReloader
 INFO 2021-01-10 11:00:41,650 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/users/urls.py changed, reloading.
 INFO 2021-01-10 11:00:42,365 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 11:01:51,974 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/users/urls.py changed, reloading.
+INFO 2021-01-10 11:01:53,027 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 11:01:59,862 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/users/urls.py changed, reloading.
+INFO 2021-01-10 11:02:00,362 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 11:04:58,440 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-10 11:04:59,436 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 11:07:48,839 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-10 11:07:50,080 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 11:08:27,757 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/MeiDuo_mall/settings.py changed, reloading.
+INFO 2021-01-10 11:08:28,601 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 11:08:49,600 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/MeiDuo_mall/urls.py changed, reloading.
+INFO 2021-01-10 11:08:50,133 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 11:09:26,363 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/areas/urls.py changed, reloading.
+INFO 2021-01-10 11:09:26,926 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 11:10:07,717 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/areas/models.py changed, reloading.
+INFO 2021-01-10 11:10:08,212 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 11:14:40,964 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/areas/urls.py changed, reloading.
+INFO 2021-01-10 11:14:41,464 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 11:17:25,017 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/areas/views.py changed, reloading.
+INFO 2021-01-10 11:17:25,757 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-10 11:17:33,206 log 228 Not Found: /addresses/
+WARNING 2021-01-10 11:17:33,214 basehttp 154 "GET /addresses/ HTTP/1.1" 404 3763
+ERROR 2021-01-10 11:17:33,277 log 228 Internal Server Error: /areas/
+Traceback (most recent call last):
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/areas/views.py", line 18, in get
+    for item in province:
+TypeError: 'NoneType' object is not iterable
+ERROR 2021-01-10 11:17:33,279 basehttp 154 "GET /areas/ HTTP/1.1" 500 84370
+WARNING 2021-01-10 11:17:45,812 log 228 Not Found: /addresses/
+WARNING 2021-01-10 11:17:45,834 basehttp 154 "GET /addresses/ HTTP/1.1" 404 3763
+ERROR 2021-01-10 11:17:45,937 log 228 Internal Server Error: /areas/
+Traceback (most recent call last):
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/areas/views.py", line 18, in get
+    for item in province:
+TypeError: 'NoneType' object is not iterable
+ERROR 2021-01-10 11:17:45,945 basehttp 154 "GET /areas/ HTTP/1.1" 500 84370
+INFO 2021-01-10 11:19:38,992 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/areas/views.py changed, reloading.
+INFO 2021-01-10 11:19:39,731 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-10 11:19:42,964 log 228 Not Found: /addresses/
+WARNING 2021-01-10 11:19:42,968 basehttp 154 "GET /addresses/ HTTP/1.1" 404 3763
+INFO 2021-01-10 11:19:43,042 basehttp 154 "GET /areas/ HTTP/1.1" 200 1772
+INFO 2021-01-10 11:33:53,958 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/areas/views.py changed, reloading.
+INFO 2021-01-10 11:33:54,852 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 11:42:07,670 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/areas/views.py changed, reloading.
+INFO 2021-01-10 11:42:08,310 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-10 11:42:11,730 log 228 Not Found: /addresses/
+INFO 2021-01-10 11:42:11,738 basehttp 154 "GET /areas/ HTTP/1.1" 200 1772
+WARNING 2021-01-10 11:42:11,739 basehttp 154 "GET /addresses/ HTTP/1.1" 404 3927
+INFO 2021-01-10 11:42:14,177 basehttp 154 "GET /areas/140000/ HTTP/1.1" 200 557
+INFO 2021-01-10 11:42:15,482 basehttp 154 "GET /areas/140300/ HTTP/1.1" 200 257
+INFO 2021-01-10 11:42:17,578 basehttp 154 "GET /areas/140800/ HTTP/1.1" 200 637
+INFO 2021-01-10 11:42:19,976 basehttp 154 "GET /areas/141000/ HTTP/1.1" 200 809
+INFO 2021-01-10 11:42:37,379 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/areas/views.py changed, reloading.
+INFO 2021-01-10 11:42:38,420 autoreload 597 Watching for file changes with StatReloader

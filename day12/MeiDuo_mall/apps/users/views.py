@@ -196,7 +196,7 @@ class EmailView(LoginRequiredJsonMixin, View):
 
         # 6. 发送激活邮件(下一节讲)
         token = generic_user_id(user.id)
-        verify_url = 'http://www.meiduo.site:8080/success_verify_email.html?token = % s'%token
+        verify_url = 'http://www.meiduo.site:8080/success_verify_email.html?token = % s' % token
         html_message = '<p>尊敬的用户您好！</p>' \
                        '<p>感谢您使用美多商城。</p>' \
                        '<p>您的邮箱为：%s 。请点击此链接激活您的邮箱：</p>' \
@@ -208,3 +208,41 @@ class EmailView(LoginRequiredJsonMixin, View):
         return JsonResponse({'code': 0, 'errmsg': 'ok'})
 
 
+class VerifyEmailView(View):
+
+    def put(self, request):
+        """
+        1. 接收请求
+        2. 提取数据
+        3. 对数据进行解密操作
+        4. 判断有没有user_id
+        5. 如果没有则说明 token过期了
+        6. 如果有,则查询用户信息
+        7. 改变用户的邮箱激活状态
+        8. 返回响应
+        :param request:
+        :return:
+        """
+        # 1. 接收请求
+        data = json.loads(request.body.decode())
+        # 2. 提取数据
+        token = data.get('token')
+
+        # 3. 对数据进行解密操作
+        user_id = check_user_id(token)
+        # 4. 判断有没有user_id
+        if user_id is None:
+            # 5. 如果没有则说明 token过期了
+            return JsonResponse({'code': 400, 'errmsg': '链接失效'})
+        try:
+            # 6. 如果有,则查询用户信息
+            user = User.objects.get(id=user_id)
+        except:
+            return JsonResponse({'code': 400, 'errmsg': '用户不存在'})
+
+        # 7. 改变用户的邮箱激活状态
+        user.email_active = True
+        user.save()
+
+        # 8. 返回响应
+        return JsonResponse({'code': 0, 'errmsg': 'ok'})
