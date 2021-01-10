@@ -24,3 +24,19 @@ WARNING 2021-01-10 06:09:42,713 log 228 Not Found: /logout/
 WARNING 2021-01-10 06:09:42,716 basehttp 154 "OPTIONS /logout/ HTTP/1.1" 404 1975
 WARNING 2021-01-10 06:09:45,155 log 228 Not Found: /carts/simple/
 WARNING 2021-01-10 06:09:45,162 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 1989
+INFO 2021-01-10 06:11:51,719 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/MeiDuo_mall/settings.py changed, reloading.
+INFO 2021-01-10 06:11:52,632 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 06:12:34,096 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/MeiDuo_mall/urls.py changed, reloading.
+INFO 2021-01-10 06:12:34,510 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 06:13:27,953 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/users/urls.py changed, reloading.
+INFO 2021-01-10 06:13:28,642 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 06:14:54,191 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/users/models.py changed, reloading.
+INFO 2021-01-10 06:14:54,675 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 06:15:30,866 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/MeiDuo_mall/settings.py changed, reloading.
+INFO 2021-01-10 06:15:31,351 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 06:16:50,744 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/users/urls.py changed, reloading.
+INFO 2021-01-10 06:16:51,145 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 06:19:50,905 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-10 06:19:51,805 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 06:25:03,286 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/MeiDuo_mall/urls.py changed, reloading.
+INFO 2021-01-10 06:25:04,229 autoreload 597 Watching for file changes with StatReloader
