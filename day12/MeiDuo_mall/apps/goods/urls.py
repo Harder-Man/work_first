@@ -12,4 +12,7 @@ urlpatterns = [
 
     # 详情页面
     path('detail/<sku_id>/', DetailView.as_view()),
+
+    # 访问量
+    path('detail/visit/<category_id>/', CategoryVisitView.as_view()),
 ]

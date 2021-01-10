@@ -336,3 +336,9 @@ WARNING 2021-01-10 12:20:39,121 log 228 Not Found: /carts/simple/
 WARNING 2021-01-10 12:20:39,131 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
 WARNING 2021-01-10 12:20:39,145 log 228 Not Found: /hot/115/
 WARNING 2021-01-10 12:20:39,162 basehttp 154 "GET /hot/115/ HTTP/1.1" 404 4078
+INFO 2021-01-10 12:53:53,831 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/MeiDuo_mall/settings.py changed, reloading.
+INFO 2021-01-10 12:53:54,579 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 12:54:23,899 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/MeiDuo_mall/settings.py changed, reloading.
+INFO 2021-01-10 12:54:24,516 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 13:00:36,340 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/goods/models.py changed, reloading.
+INFO 2021-01-10 13:00:36,905 autoreload 597 Watching for file changes with StatReloader

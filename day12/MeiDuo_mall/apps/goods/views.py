@@ -13,6 +13,9 @@ from django.core.paginator import Paginator
 # 获取面包屑数据
 from utils.goods import get_breadcrumb
 
+# 导入日期
+from datetime import date
+
 
 class IndexView(View):
     def get(self, request):
@@ -187,3 +190,48 @@ class DetailView(View):
 
         # 7. 返回响应
         return render(request, 'detail.html', context)
+
+
+class CategoryVisitView(View):
+
+    def post(self, request, category_id):
+        """
+        1. 获取分类id
+        2. 根据分类id查询分类数据
+        3. 获取当天日期
+        4. 我们要查询数据库,是否存在 分类和日期 的记录
+        5. 如果不存在 则新增记录
+        6. 如果存在,则修改count
+        7. 返回响应
+        :param request:
+        :param category_id:
+        :return:
+        """
+        # 1. 获取分类id
+        # 2. 根据分类id查询分类数据
+        try:
+            category = GoodsCategory.objects.get(id=category_id)
+        except GoodsCategory.DoesNotExist:
+            return JsonResponse({"code": 0, 'errmsg': '没有次分类'})
+
+        # 3. 获取当天日期
+        today = date.today()
+
+        # 4. 我们要查询数据库,是否存在 分类和日期 的记录
+        # 精确查询
+        try:
+            gvc = GoodsVisitCount.objects.get(category=category, date=today)
+        except:
+            # 5. 如果不存在 则新增记录
+            GoodsVisitCount.objects.create(
+                category=category,
+                date=today,
+                count=1
+            )
+        else:
+            # 6. 如果存在,则修改count
+            gvc.count += 1
+            gvc.save()
+
+        # 7. 返回响应
+        return JsonResponse({"code": 0, "errmsg": 'ok'})
