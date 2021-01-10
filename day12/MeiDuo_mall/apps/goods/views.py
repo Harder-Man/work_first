@@ -1,7 +1,11 @@
+import json
+
 from django.http import JsonResponse
 from django.shortcuts import render
 # Create your views here.
 from django.views import View
+from django_redis import get_redis_connection
+
 from utils.goods import *
 
 # 导入商品模块
@@ -15,6 +19,9 @@ from utils.goods import get_breadcrumb
 
 # 导入日期
 from datetime import date
+
+# 检验是否登录
+from utils.views import LoginRequiredJsonMixin
 
 
 class IndexView(View):
@@ -235,3 +242,47 @@ class CategoryVisitView(View):
 
         # 7. 返回响应
         return JsonResponse({"code": 0, "errmsg": 'ok'})
+
+
+class UserHistoryView(LoginRequiredJsonMixin, View):
+
+    def post(self, request):
+        """
+        0. 必须是登录用户
+        1. 接收请求
+        2. 提取参数
+        3. 验证参数
+        4. 连接redis
+        5. 去重数据
+        6. 添加数据
+        7. 最多保存5条记录
+        8. 返回响应
+        :param request:
+        :return:
+        """
+        # 1. 接收请求 JSON request.body
+        data = json.loads(request.body.decode())
+
+        # 2. 提取参数
+        sku_id = data.get('sku_id')
+
+        # 3. 验证参数
+        try:
+            SKU.objects.get(id=sku_id)
+        except:
+            return JsonResponse({'code': 400, 'errmsg': '没有此商品'})
+
+        # 4. 连接redis
+        redis_cli = get_redis_connection('history')
+
+        # 5. 去重数据 (列表删除数据) sku_id
+        redis_cli.lrem(request.user.id, 0, sku_id)
+
+        # 6. 添加数据
+        redis_cli.lpush(request.user.id, sku_id)
+
+        # 7. 最多保存5条记录
+        redis_cli.ltrim(request.user.id, 0, 4)
+
+        # 8. 返回响应
+        return JsonResponse({'code': 0, 'errmsg': 'ok'})

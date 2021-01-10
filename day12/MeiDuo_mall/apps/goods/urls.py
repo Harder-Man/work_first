@@ -15,4 +15,7 @@ urlpatterns = [
 
     # 访问量
     path('detail/visit/<category_id>/', CategoryVisitView.as_view()),
+
+    # 用户浏览记录
+    path('browse_histories/', UserHistoryView.as_view()),
 ]
