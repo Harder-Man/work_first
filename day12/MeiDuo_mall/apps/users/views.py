@@ -11,6 +11,9 @@ from django.http.response import JsonResponse
 # 验证用户账号和密码
 from django.contrib.auth import authenticate
 
+# 验证用户是否登录
+from utils.views import LoginRequiredJsonMixin
+
 
 class UsernameCountView(View):
 
@@ -50,13 +53,13 @@ class RegisterView(View):
         if not all([username, password, password2, mobile, allow]):
             return JsonResponse({'code': 400, 'errmsg': "参数不全"})
 
-        if re.match('[a-zA-Z0-9_-]{8,20}', password):
+        if not re.match('[a-zA-Z0-9]{8,20}', password):
             return JsonResponse({'code': 400, 'errmsg': '密码格式错误'})
 
         if password != password2:
             return JsonResponse({'code': 400, 'errmsg': '两次密码不一致'})
 
-        if re.match('1[3|4|5|7|8][0-9]{9}', mobile):
+        if not re.match('1[3|4|5|7|8][0-9]{9}', mobile):
             return JsonResponse({'code': 400, 'errmsg': '手机号格式错误'})
 
         # 4.保存数据到MySQL
@@ -133,3 +136,27 @@ class LogoutView(View):
 
         # 3. 返回响应
         return response
+
+
+class UserInfoView(LoginRequiredJsonMixin, View):
+    def get(self, request):
+        """
+        1. 判断 必须是登录用户
+        2. 获取用户信息
+        3. 返回响应
+        :param request:
+        :return:
+        """
+        # 1. 判断 必须是登录用户
+        # 2. 获取用户信息
+        user = request.user
+
+        user_info = {
+            'username': user.username,
+            'mobile': user.mobile,
+            'email': user.email,
+            'email_active': False
+        }
+
+        # 3. 返回响应
+        return JsonResponse({'code': 0, 'errmsg': 'ok', 'info_data': user_info})

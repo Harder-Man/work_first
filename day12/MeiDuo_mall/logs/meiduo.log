@@ -132,3 +132,49 @@ INFO 2021-01-10 08:22:50,575 autoreload 217 /home/ubuntu/Desktop/homework/work_f
 INFO 2021-01-10 08:22:51,068 autoreload 597 Watching for file changes with StatReloader
 INFO 2021-01-10 08:26:46,779 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/users/views.py changed, reloading.
 INFO 2021-01-10 08:26:47,372 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 08:32:05,553 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-10 08:32:05,998 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 08:38:35,235 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-10 08:38:35,723 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 08:38:45,603 basehttp 154 "GET /usernames/itcast_01/count/ HTTP/1.1" 200 39
+INFO 2021-01-10 08:38:46,848 basehttp 154 "GET /image_codes/267fc9db-970f-4597-9c7e-e5b492986fd3/ HTTP/1.1" 200 3127
+INFO 2021-01-10 08:38:47,785 basehttp 154 "GET /usernames/itcast_01/count/ HTTP/1.1" 200 39
+INFO 2021-01-10 08:38:48,854 basehttp 154 "GET /usernames/itcast_01/count/ HTTP/1.1" 200 39
+WARNING 2021-01-10 08:38:58,103 log 228 Not Found: /mobiles/15735404103/count/
+WARNING 2021-01-10 08:38:58,105 basehttp 154 "GET /mobiles/15735404103/count/ HTTP/1.1" 404 3175
+INFO 2021-01-10 08:38:58,173 basehttp 154 "GET /image_codes/9d73272e-1cac-4148-8d86-d83bd9ac6c16/ HTTP/1.1" 200 3439
+INFO 2021-01-10 08:39:00,099 basehttp 154 "GET /image_codes/2d47f538-2256-4c11-9d79-224d56300a74/ HTTP/1.1" 200 3528
+WARNING 2021-01-10 08:39:05,805 log 228 Not Found: /mobiles/15735404103/count/
+WARNING 2021-01-10 08:39:05,810 basehttp 154 "GET /mobiles/15735404103/count/ HTTP/1.1" 404 3175
+INFO 2021-01-10 08:39:05,812 basehttp 154 "GET /usernames/itcast_01/count/ HTTP/1.1" 200 39
+INFO 2021-01-10 08:39:05,817 basehttp 154 "OPTIONS /register/ HTTP/1.1" 200 0
+INFO 2021-01-10 08:39:05,822 basehttp 154 "POST /register/ HTTP/1.1" 200 63
+WARNING 2021-01-10 08:39:08,826 log 228 Not Found: /mobiles/15735404103/count/
+WARNING 2021-01-10 08:39:08,828 basehttp 154 "GET /mobiles/15735404103/count/ HTTP/1.1" 404 3175
+WARNING 2021-01-10 08:39:42,235 log 228 Not Found: /mobiles/15735404103/count/
+WARNING 2021-01-10 08:39:42,237 basehttp 154 "GET /mobiles/15735404103/count/ HTTP/1.1" 404 3175
+INFO 2021-01-10 08:39:42,237 basehttp 154 "POST /register/ HTTP/1.1" 200 63
+INFO 2021-01-10 08:39:42,238 basehttp 154 "GET /usernames/itcast_01/count/ HTTP/1.1" 200 39
+INFO 2021-01-10 08:40:54,280 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-10 08:40:54,970 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 08:41:06,209 basehttp 154 "POST /register/ HTTP/1.1" 200 63
+INFO 2021-01-10 08:41:06,213 basehttp 154 "GET /usernames/itcast_01/count/ HTTP/1.1" 200 39
+WARNING 2021-01-10 08:41:06,236 log 228 Not Found: /mobiles/15735404103/count/
+WARNING 2021-01-10 08:41:06,237 basehttp 154 "GET /mobiles/15735404103/count/ HTTP/1.1" 404 3175
+INFO 2021-01-10 08:41:38,496 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-10 08:41:38,978 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 08:41:44,697 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-10 08:41:45,401 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 08:41:46,811 basehttp 154 "GET /usernames/itcast_01/count/ HTTP/1.1" 200 39
+WARNING 2021-01-10 08:41:46,818 log 228 Not Found: /mobiles/15735404103/count/
+WARNING 2021-01-10 08:41:46,819 basehttp 154 "GET /mobiles/15735404103/count/ HTTP/1.1" 404 3175
+INFO 2021-01-10 08:41:46,965 basehttp 154 "POST /register/ HTTP/1.1" 200 27
+WARNING 2021-01-10 08:41:48,175 log 228 Not Found: /carts/simple/
+WARNING 2021-01-10 08:41:48,176 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 3136
+INFO 2021-01-10 08:41:52,759 basehttp 154 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2021-01-10 08:41:52,880 basehttp 154 "POST /login/ HTTP/1.1" 200 27
+WARNING 2021-01-10 08:41:53,529 log 228 Not Found: /carts/simple/
+WARNING 2021-01-10 08:41:53,529 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 3136
+WARNING 2021-01-10 08:41:55,824 log 228 Not Found: /browse_histories/
+WARNING 2021-01-10 08:41:55,827 basehttp 154 "GET /browse_histories/ HTTP/1.1" 404 3148
+INFO 2021-01-10 08:41:55,832 basehttp 154 "GET /info/ HTTP/1.1" 200 128

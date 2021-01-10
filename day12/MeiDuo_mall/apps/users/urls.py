@@ -12,4 +12,7 @@ urlpatterns = [
 
     # 用户退出
     path('logout/', LogoutView.as_view()),
+
+    # 用户中心
+    path('info/', UserInfoView.as_view()),
 ]
