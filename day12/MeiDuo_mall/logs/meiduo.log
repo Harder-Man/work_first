@@ -1,0 +1,26 @@
+INFO 2021-01-10 06:08:39,329 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-10 06:08:54,121 log 228 Not Found: /index/
+WARNING 2021-01-10 06:08:54,128 basehttp 154 "GET /index/ HTTP/1.1" 404 1968
+WARNING 2021-01-10 06:08:54,326 log 228 Not Found: /favicon.ico
+WARNING 2021-01-10 06:08:54,338 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 1983
+INFO 2021-01-10 06:08:58,582 basehttp 154 "GET / HTTP/1.1" 200 16348
+INFO 2021-01-10 06:08:58,631 basehttp 154 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2021-01-10 06:08:58,806 basehttp 154 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO 2021-01-10 06:08:58,822 basehttp 154 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+INFO 2021-01-10 06:08:58,828 basehttp 154 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+WARNING 2021-01-10 06:09:26,508 log 228 Not Found: /carts/simple/
+WARNING 2021-01-10 06:09:26,511 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 1989
+WARNING 2021-01-10 06:09:38,483 log 228 Not Found: /logout/
+WARNING 2021-01-10 06:09:38,484 basehttp 154 "OPTIONS /logout/ HTTP/1.1" 404 1975
+WARNING 2021-01-10 06:09:40,778 log 228 Not Found: /logout/
+WARNING 2021-01-10 06:09:40,779 basehttp 154 "OPTIONS /logout/ HTTP/1.1" 404 1975
+WARNING 2021-01-10 06:09:41,913 log 228 Not Found: /logout/
+WARNING 2021-01-10 06:09:41,914 basehttp 154 "OPTIONS /logout/ HTTP/1.1" 404 1975
+WARNING 2021-01-10 06:09:42,069 log 228 Not Found: /logout/
+WARNING 2021-01-10 06:09:42,070 basehttp 154 "OPTIONS /logout/ HTTP/1.1" 404 1975
+WARNING 2021-01-10 06:09:42,561 log 228 Not Found: /logout/
+WARNING 2021-01-10 06:09:42,563 basehttp 154 "OPTIONS /logout/ HTTP/1.1" 404 1975
+WARNING 2021-01-10 06:09:42,713 log 228 Not Found: /logout/
+WARNING 2021-01-10 06:09:42,716 basehttp 154 "OPTIONS /logout/ HTTP/1.1" 404 1975
+WARNING 2021-01-10 06:09:45,155 log 228 Not Found: /carts/simple/
+WARNING 2021-01-10 06:09:45,162 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 1989
