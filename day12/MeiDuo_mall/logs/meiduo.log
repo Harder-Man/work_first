@@ -178,3 +178,17 @@ WARNING 2021-01-10 08:41:53,529 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 3
 WARNING 2021-01-10 08:41:55,824 log 228 Not Found: /browse_histories/
 WARNING 2021-01-10 08:41:55,827 basehttp 154 "GET /browse_histories/ HTTP/1.1" 404 3148
 INFO 2021-01-10 08:41:55,832 basehttp 154 "GET /info/ HTTP/1.1" 200 128
+INFO 2021-01-10 08:46:23,372 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/MeiDuo_mall/settings.py changed, reloading.
+INFO 2021-01-10 08:46:23,915 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 08:46:48,819 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/MeiDuo_mall/urls.py changed, reloading.
+INFO 2021-01-10 08:46:49,435 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 08:47:24,359 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/oauth/urls.py changed, reloading.
+INFO 2021-01-10 08:47:24,806 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 08:48:30,846 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/oauth/models.py changed, reloading.
+INFO 2021-01-10 08:48:31,278 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 08:48:52,457 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/oauth/urls.py changed, reloading.
+INFO 2021-01-10 08:48:52,965 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 08:51:00,670 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/oauth/views.py changed, reloading.
+INFO 2021-01-10 08:51:01,511 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 09:03:44,048 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/oauth/views.py changed, reloading.
+INFO 2021-01-10 09:03:45,291 autoreload 597 Watching for file changes with StatReloader

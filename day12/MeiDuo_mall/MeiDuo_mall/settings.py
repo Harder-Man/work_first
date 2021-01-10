@@ -38,6 +38,8 @@ INSTALLED_APPS = [
     'apps.users',
     ##########2 注册 CORS的子应用##################
     'corsheaders',
+    'apps.verifications',
+    'apps.oauth',
 ]
 
 MIDDLEWARE = [
