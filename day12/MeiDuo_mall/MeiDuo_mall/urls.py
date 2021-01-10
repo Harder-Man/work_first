@@ -15,7 +15,7 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
-from utils.converters import *
+from utils.converters import UserConverters
 from django.urls import register_converter
 
 register_converter(UserConverters, 'uc')
