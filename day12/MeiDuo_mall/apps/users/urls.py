@@ -9,4 +9,7 @@ urlpatterns = [
 
     # 用户登录
     path('login/', LoginView.as_view()),
+
+    # 用户退出
+    path('logout/', LogoutView.as_view()),
 ]
