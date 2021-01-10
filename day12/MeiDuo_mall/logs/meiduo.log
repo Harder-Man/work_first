@@ -312,3 +312,27 @@ INFO 2021-01-10 11:53:50,309 autoreload 217 /home/ubuntu/Desktop/homework/work_f
 INFO 2021-01-10 11:53:50,963 autoreload 597 Watching for file changes with StatReloader
 INFO 2021-01-10 11:56:45,122 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/users/views.py changed, reloading.
 INFO 2021-01-10 11:56:46,049 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 12:05:44,209 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/MeiDuo_mall/settings.py changed, reloading.
+INFO 2021-01-10 12:05:45,160 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 12:12:12,363 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/MeiDuo_mall/settings.py changed, reloading.
+INFO 2021-01-10 12:12:12,907 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 12:19:00,725 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/MeiDuo_mall/settings.py changed, reloading.
+INFO 2021-01-10 12:19:01,519 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 12:19:50,044 basehttp 154 "GET /areas/ HTTP/1.1" 200 1772
+INFO 2021-01-10 12:19:50,069 basehttp 154 "GET /addresses/ HTTP/1.1" 200 72
+WARNING 2021-01-10 12:19:54,141 log 228 Not Found: /carts/simple/
+WARNING 2021-01-10 12:19:54,153 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-10 12:19:57,107 log 228 Not Found: /list/115/skus/
+WARNING 2021-01-10 12:19:57,108 basehttp 154 "GET /list/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 404 4145
+WARNING 2021-01-10 12:19:57,109 log 228 Not Found: /carts/simple/
+WARNING 2021-01-10 12:19:57,110 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-10 12:19:57,152 log 228 Not Found: /hot/115/
+WARNING 2021-01-10 12:19:57,185 basehttp 154 "GET /hot/115/ HTTP/1.1" 404 4078
+WARNING 2021-01-10 12:20:20,969 log 228 Not Found: /carts/simple/
+WARNING 2021-01-10 12:20:20,970 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-10 12:20:39,102 log 228 Not Found: /list/115/skus/
+WARNING 2021-01-10 12:20:39,103 basehttp 154 "GET /list/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 404 4145
+WARNING 2021-01-10 12:20:39,121 log 228 Not Found: /carts/simple/
+WARNING 2021-01-10 12:20:39,131 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-10 12:20:39,145 log 228 Not Found: /hot/115/
+WARNING 2021-01-10 12:20:39,162 basehttp 154 "GET /hot/115/ HTTP/1.1" 404 4078

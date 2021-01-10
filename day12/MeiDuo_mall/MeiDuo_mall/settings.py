@@ -41,6 +41,8 @@ INSTALLED_APPS = [
     'apps.verifications',
     'apps.oauth',
     'apps.areas',
+    'apps.contents',
+    'apps.goods',
 ]
 
 MIDDLEWARE = [
@@ -59,7 +61,7 @@ ROOT_URLCONF = 'MeiDuo_mall.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [os.path.join(BASE_DIR, 'templates')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -228,3 +230,7 @@ EMAIL_HOST_USER = 'qi_rui_hua@163.com'
 EMAIL_HOST_PASSWORD = '123456abc'
 #收件人看到的发件人
 EMAIL_FROM = '美多商城<qi_rui_hua@163.com>'
+
+# 设置文件存储类
+# 指定自定义的Django文件存储类
+DEFAULT_FILE_STORAGE = 'utils.storage.QiuniuStorage'
