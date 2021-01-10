@@ -106,3 +106,17 @@ WARNING 2021-01-10 07:14:03,522 basehttp 154 "GET /image_codes/5fd6e828-2a81-4b6
 INFO 2021-01-10 07:14:22,278 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/utils/converters.py changed, reloading.
 INFO 2021-01-10 07:14:22,930 autoreload 597 Watching for file changes with StatReloader
 INFO 2021-01-10 07:14:24,707 basehttp 154 "GET /image_codes/4735fb13-925d-4905-9915-75639b2b7840/ HTTP/1.1" 200 3258
+INFO 2021-01-10 07:17:19,359 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/verifications/views.py changed, reloading.
+INFO 2021-01-10 07:17:20,286 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 07:17:40,590 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/verifications/urls.py changed, reloading.
+INFO 2021-01-10 07:17:41,024 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 07:17:42,262 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/verifications/urls.py changed, reloading.
+INFO 2021-01-10 07:17:42,680 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 07:53:05,067 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/verifications/views.py changed, reloading.
+INFO 2021-01-10 07:53:05,545 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 07:58:09,958 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/verifications/views.py changed, reloading.
+INFO 2021-01-10 07:58:10,924 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 08:00:41,145 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/verifications/views.py changed, reloading.
+INFO 2021-01-10 08:00:42,156 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-10 08:07:23,757 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/verifications/views.py changed, reloading.
+INFO 2021-01-10 08:07:24,380 autoreload 597 Watching for file changes with StatReloader
