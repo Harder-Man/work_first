@@ -112,9 +112,9 @@ AUTH_PASSWORD_VALIDATORS = [
 # Internationalization
 # https://docs.djangoproject.com/en/2.2/topics/i18n/
 
-LANGUAGE_CODE = 'en-us'
+LANGUAGE_CODE = 'Zh-Hans'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'Asia/Shanghai'
 
 USE_I18N = True
 
@@ -234,10 +234,10 @@ EMAIL_FROM = '美多商城<qi_rui_hua@163.com>'
 
 # 设置文件存储类
 # 指定自定义的Django文件存储类
-DEFAULT_FILE_STORAGE = 'utils.storage.QiuniuStorage'
+DEFAULT_FILE_STORAGE = 'utils.storage.QiniuStorage'
 
 CRONJOBS = [
 # 每1分钟生成一次首页静态文件
-('*/1 * * * *', 'apps.contents.crons.generate_static_index_html', '>> '
-+ os.path.join(BASE_DIR, 'logs/crontab.log'))
+('*/1 * * * *', 'apps.contents.crons.generate_static_index_html', '>> '+ os.path.join(BASE_DIR, 'logs/crontab.log'))
 ]
+CRONTAB_COMMAND_PREFIX = 'LANG_ALL=zh_cn.UTF-8'

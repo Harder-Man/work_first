@@ -5,7 +5,7 @@ urlpatterns = [
     path('index/', IndexView.as_view()),
 
     # 列表显示
-    path('list/<category_id>/skus', ListView.as_view()),
+    path('list/<category_id>/skus/', ListView.as_view()),
 
     # 热销显示
     path('hot/<category_id>/', HotView.as_view()),

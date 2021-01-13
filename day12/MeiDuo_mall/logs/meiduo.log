@@ -342,3 +342,166 @@ INFO 2021-01-10 12:54:23,899 autoreload 217 /home/ubuntu/Desktop/homework/work_f
 INFO 2021-01-10 12:54:24,516 autoreload 597 Watching for file changes with StatReloader
 INFO 2021-01-10 13:00:36,340 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/goods/models.py changed, reloading.
 INFO 2021-01-10 13:00:36,905 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-13 15:21:30,285 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-13 15:21:47,796 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-13 15:22:08,728 log 228 Not Found: /carts/simple/
+WARNING 2021-01-13 15:22:08,747 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-13 15:22:11,567 log 228 Not Found: /carts/simple/
+WARNING 2021-01-13 15:22:11,575 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-13 15:22:21,223 log 228 Not Found: /carts/simple/
+WARNING 2021-01-13 15:22:21,224 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-13 15:22:53,322 log 228 Not Found: /carts/simple/
+WARNING 2021-01-13 15:22:53,333 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-13 15:36:58,768 log 228 Not Found: /carts/simple/
+WARNING 2021-01-13 15:36:58,772 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-13 15:37:16,593 log 228 Not Found: /carts/simple/
+WARNING 2021-01-13 15:37:16,597 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-13 15:40:29,662 log 228 Not Found: /carts/simple/
+WARNING 2021-01-13 15:40:29,667 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+INFO 2021-01-13 15:42:17,679 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/MeiDuo_mall/settings.py changed, reloading.
+INFO 2021-01-13 15:42:18,168 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-13 15:42:46,906 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-13 15:42:54,118 log 228 Not Found: /carts/simple/
+WARNING 2021-01-13 15:42:54,121 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-13 15:45:11,460 log 228 Not Found: /carts/simple/
+WARNING 2021-01-13 15:45:11,462 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-13 15:45:15,420 log 228 Not Found: /carts/simple/
+WARNING 2021-01-13 15:45:15,422 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-13 15:45:41,530 log 228 Not Found: /carts/simple/
+WARNING 2021-01-13 15:45:41,532 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-13 15:45:42,404 log 228 Not Found: /carts/simple/
+WARNING 2021-01-13 15:45:42,406 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-13 15:45:43,045 log 228 Not Found: /carts/simple/
+WARNING 2021-01-13 15:45:43,047 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-13 15:45:43,195 log 228 Not Found: /carts/simple/
+WARNING 2021-01-13 15:45:43,197 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-13 15:45:43,366 log 228 Not Found: /carts/simple/
+WARNING 2021-01-13 15:45:43,368 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-13 15:45:43,541 log 228 Not Found: /carts/simple/
+WARNING 2021-01-13 15:45:43,542 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-13 15:45:43,726 log 228 Not Found: /carts/simple/
+WARNING 2021-01-13 15:45:43,727 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-13 15:45:44,110 log 228 Not Found: /carts/simple/
+WARNING 2021-01-13 15:45:44,111 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-13 15:45:44,454 log 228 Not Found: /carts/simple/
+WARNING 2021-01-13 15:45:44,458 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-13 15:45:44,854 log 228 Not Found: /carts/simple/
+WARNING 2021-01-13 15:45:44,856 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-13 15:46:00,674 log 228 Not Found: /carts/simple/
+WARNING 2021-01-13 15:46:00,676 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-13 15:46:04,639 log 228 Not Found: /carts/simple/
+WARNING 2021-01-13 15:46:04,645 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-13 15:49:16,625 log 228 Not Found: /carts/simple/
+WARNING 2021-01-13 15:49:16,628 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-13 15:49:44,624 log 228 Not Found: /carts/simple/
+WARNING 2021-01-13 15:49:44,628 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-13 15:53:39,414 log 228 Not Found: /carts/simple/
+WARNING 2021-01-13 15:53:39,416 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-13 15:54:46,846 log 228 Not Found: /carts/simple/
+WARNING 2021-01-13 15:54:46,850 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-13 15:54:47,901 log 228 Not Found: /carts/simple/
+WARNING 2021-01-13 15:54:47,902 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-13 15:57:54,257 log 228 Not Found: /carts/simple/
+WARNING 2021-01-13 15:57:54,258 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-13 16:01:44,910 log 228 Not Found: /carts/simple/
+WARNING 2021-01-13 16:01:44,911 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+INFO 2021-01-13 16:03:36,018 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/MeiDuo_mall/settings.py changed, reloading.
+INFO 2021-01-14 00:03:37,031 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-14 00:05:36,951 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/MeiDuo_mall/settings.py changed, reloading.
+INFO 2021-01-14 00:05:37,728 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-14 00:05:43,575 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/MeiDuo_mall/settings.py changed, reloading.
+INFO 2021-01-14 00:05:44,849 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-14 00:05:55,390 log 228 Not Found: /carts/simple/
+WARNING 2021-01-14 00:05:55,401 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-14 00:06:26,938 log 228 Not Found: /carts/simple/
+WARNING 2021-01-14 00:06:26,947 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+INFO 2021-01-14 00:10:59,937 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-14 00:11:23,501 log 228 Not Found: /carts/simple/
+WARNING 2021-01-14 00:11:23,502 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-14 00:12:13,406 log 228 Not Found: /carts/simple/
+WARNING 2021-01-14 00:12:13,414 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-14 00:12:50,472 log 228 Not Found: /carts/simple/
+WARNING 2021-01-14 00:12:50,475 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-14 00:13:26,094 log 228 Not Found: /carts/simple/
+WARNING 2021-01-14 00:13:26,105 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-14 00:16:10,044 log 228 Not Found: /carts/simple/
+WARNING 2021-01-14 00:16:10,046 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-14 00:16:36,767 log 228 Not Found: /carts/simple/
+WARNING 2021-01-14 00:16:36,778 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-14 00:16:46,924 log 228 Not Found: /list/115/skus/
+WARNING 2021-01-14 00:16:46,926 basehttp 154 "GET /list/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 404 4145
+WARNING 2021-01-14 00:16:46,961 log 228 Not Found: /carts/simple/
+WARNING 2021-01-14 00:16:46,966 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-14 00:16:47,023 log 228 Not Found: /hot/115/
+WARNING 2021-01-14 00:16:47,027 basehttp 154 "GET /hot/115/ HTTP/1.1" 404 4078
+WARNING 2021-01-14 00:19:41,794 log 228 Not Found: /carts/simple/
+WARNING 2021-01-14 00:19:41,798 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-14 00:22:33,830 log 228 Not Found: /list/115/skus/
+WARNING 2021-01-14 00:22:33,842 log 228 Not Found: /hot/115/
+WARNING 2021-01-14 00:22:33,854 basehttp 154 "GET /list/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 404 4145
+WARNING 2021-01-14 00:22:33,861 log 228 Not Found: /carts/simple/
+WARNING 2021-01-14 00:22:33,862 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-14 00:22:33,863 basehttp 154 "GET /hot/115/ HTTP/1.1" 404 4078
+WARNING 2021-01-14 00:22:42,001 log 228 Not Found: /carts/simple/
+WARNING 2021-01-14 00:22:42,004 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-14 00:23:15,780 log 228 Not Found: /carts/simple/
+WARNING 2021-01-14 00:23:15,782 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+INFO 2021-01-14 00:49:10,647 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/MeiDuo_mall/settings.py changed, reloading.
+INFO 2021-01-14 00:49:12,164 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-14 00:51:21,367 log 228 Not Found: /carts/simple/
+WARNING 2021-01-14 00:51:21,369 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-14 00:53:06,122 log 228 Not Found: /carts/simple/
+WARNING 2021-01-14 00:53:06,127 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-14 00:53:07,622 log 228 Not Found: /list/115/skus/
+WARNING 2021-01-14 00:53:07,625 basehttp 154 "GET /list/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 404 4145
+WARNING 2021-01-14 00:53:07,639 log 228 Not Found: /carts/simple/
+WARNING 2021-01-14 00:53:07,643 log 228 Not Found: /hot/115/
+WARNING 2021-01-14 00:53:07,644 basehttp 154 "GET /hot/115/ HTTP/1.1" 404 4078
+WARNING 2021-01-14 00:53:07,646 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+INFO 2021-01-14 00:54:56,358 basehttp 154 "GET /info/ HTTP/1.1" 200 70
+WARNING 2021-01-14 00:54:56,372 log 228 Not Found: /browse_histories/
+WARNING 2021-01-14 00:54:56,373 basehttp 154 "GET /browse_histories/ HTTP/1.1" 404 4105
+INFO 2021-01-14 00:54:57,879 basehttp 154 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2021-01-14 00:54:58,035 basehttp 154 "POST /login/ HTTP/1.1" 200 27
+WARNING 2021-01-14 00:54:58,929 log 228 Not Found: /carts/simple/
+WARNING 2021-01-14 00:54:58,932 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-14 00:54:59,919 log 228 Not Found: /browse_histories/
+INFO 2021-01-14 00:54:59,923 basehttp 154 "GET /info/ HTTP/1.1" 200 128
+WARNING 2021-01-14 00:54:59,924 basehttp 154 "GET /browse_histories/ HTTP/1.1" 404 4105
+WARNING 2021-01-14 00:55:06,921 log 228 Not Found: /carts/simple/
+WARNING 2021-01-14 00:55:06,923 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-14 00:55:09,239 log 228 Not Found: /list/115/skus/
+WARNING 2021-01-14 00:55:09,249 log 228 Not Found: /carts/simple/
+WARNING 2021-01-14 00:55:09,251 basehttp 154 "GET /list/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 404 4145
+WARNING 2021-01-14 00:55:09,259 log 228 Not Found: /hot/115/
+WARNING 2021-01-14 00:55:09,261 basehttp 154 "GET /hot/115/ HTTP/1.1" 404 4078
+WARNING 2021-01-14 00:55:09,268 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-14 00:55:17,053 log 228 Not Found: /list/115/skus/
+WARNING 2021-01-14 00:55:17,055 basehttp 154 "GET /list/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 404 4145
+WARNING 2021-01-14 00:55:17,077 log 228 Not Found: /carts/simple/
+WARNING 2021-01-14 00:55:17,085 log 228 Not Found: /hot/115/
+WARNING 2021-01-14 00:55:17,090 basehttp 154 "GET /hot/115/ HTTP/1.1" 404 4078
+WARNING 2021-01-14 00:55:17,092 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-14 00:56:06,567 log 228 Not Found: /hot/115/
+WARNING 2021-01-14 00:56:06,571 log 228 Not Found: /carts/simple/
+WARNING 2021-01-14 00:56:06,576 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-14 00:56:06,586 log 228 Not Found: /list/115/skus/
+WARNING 2021-01-14 00:56:06,588 basehttp 154 "GET /list/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 404 4145
+WARNING 2021-01-14 00:56:06,587 basehttp 154 "GET /hot/115/ HTTP/1.1" 404 4078
+WARNING 2021-01-14 00:57:24,973 log 228 Not Found: /carts/simple/
+WARNING 2021-01-14 00:57:24,984 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4093
+WARNING 2021-01-14 00:57:24,991 log 228 Not Found: /list/115/skus/
+WARNING 2021-01-14 00:57:24,992 basehttp 154 "GET /list/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 404 4145
+WARNING 2021-01-14 00:57:24,983 log 228 Not Found: /hot/115/
+WARNING 2021-01-14 00:57:24,993 basehttp 154 "GET /hot/115/ HTTP/1.1" 404 4078
+INFO 2021-01-14 00:57:57,143 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/MeiDuo_mall/urls.py changed, reloading.
+INFO 2021-01-14 00:57:58,419 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-14 00:58:12,539 log 228 Not Found: /carts/simple/
+WARNING 2021-01-14 00:58:12,540 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5107
+INFO 2021-01-14 00:58:12,573 basehttp 154 "GET /hot/115/ HTTP/1.1" 200 568
+INFO 2021-01-14 00:58:12,629 basehttp 154 "GET /list/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1526
+INFO 2021-01-14 00:58:24,528 basehttp 154 "GET /list/115/skus/?page=2&page_size=5&ordering=-create_time HTTP/1.1" 200 1452
+INFO 2021-01-14 00:58:25,351 basehttp 154 "GET /list/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1526
+INFO 2021-01-14 00:58:26,510 basehttp 154 "GET /list/115/skus/?page=1&page_size=5&ordering=-sales HTTP/1.1" 200 1429
+INFO 2021-01-14 00:58:27,129 basehttp 154 "GET /list/115/skus/?page=1&page_size=5&ordering=price HTTP/1.1" 200 1524
+INFO 2021-01-14 00:58:27,517 basehttp 154 "GET /list/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1526
