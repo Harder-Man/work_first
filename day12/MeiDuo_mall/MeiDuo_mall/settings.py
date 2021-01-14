@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'apps.areas',
     'apps.contents',
     'apps.goods',
+    'apps.carts',
     'django_crontab', # 定时任务
 ]
 
@@ -158,7 +159,15 @@ CACHES = {
             "CLIENT_CLASS": "django_redis.client.DefaultClient",
         }
     },
+    "carts": {  # session
+        "BACKEND": "django_redis.cache.RedisCache",
+        "LOCATION": "redis://127.0.0.1:6379/4",
+        "OPTIONS": {
+            "CLIENT_CLASS": "django_redis.client.DefaultClient",
+        }
+    },
 }
+
 # SESSION_ENGINE 让我们的session保存到缓存中
 SESSION_ENGINE = "django.contrib.sessions.backends.cache"
 # SESSION_CACHE_ALIAS 让session保存到哪个redis的配置中

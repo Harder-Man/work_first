@@ -505,3 +505,168 @@ INFO 2021-01-14 00:58:25,351 basehttp 154 "GET /list/115/skus/?page=1&page_size=
 INFO 2021-01-14 00:58:26,510 basehttp 154 "GET /list/115/skus/?page=1&page_size=5&ordering=-sales HTTP/1.1" 200 1429
 INFO 2021-01-14 00:58:27,129 basehttp 154 "GET /list/115/skus/?page=1&page_size=5&ordering=price HTTP/1.1" 200 1524
 INFO 2021-01-14 00:58:27,517 basehttp 154 "GET /list/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1526
+INFO 2021-01-14 22:54:35,407 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-14 22:55:41,230 log 228 Not Found: /carts/simple/
+WARNING 2021-01-14 22:55:41,233 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5107
+WARNING 2021-01-14 22:55:49,539 log 228 Not Found: /carts/simple/
+WARNING 2021-01-14 22:55:49,541 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5107
+INFO 2021-01-14 22:55:49,589 basehttp 154 "GET /hot/115/ HTTP/1.1" 200 568
+INFO 2021-01-14 22:55:49,590 basehttp 154 "GET /list/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1526
+WARNING 2021-01-14 22:55:53,235 log 228 Not Found: /carts/simple/
+WARNING 2021-01-14 22:55:53,260 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5107
+INFO 2021-01-14 22:55:53,288 basehttp 154 "GET /list/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1526
+INFO 2021-01-14 22:55:53,334 basehttp 154 "GET /hot/115/ HTTP/1.1" 200 568
+WARNING 2021-01-14 22:55:54,194 log 228 Not Found: /carts/simple/
+WARNING 2021-01-14 22:55:54,199 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5107
+INFO 2021-01-14 22:55:54,203 basehttp 154 "OPTIONS /detail/visit/115/ HTTP/1.1" 200 0
+INFO 2021-01-14 22:55:54,204 basehttp 154 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2021-01-14 22:55:54,367 basehttp 154 "POST /browse_histories/ HTTP/1.1" 200 70
+INFO 2021-01-14 22:55:54,390 basehttp 154 "POST /detail/visit/115/ HTTP/1.1" 200 27
+INFO 2021-01-14 22:56:17,334 basehttp 154 "GET /browse_histories/ HTTP/1.1" 200 70
+INFO 2021-01-14 22:56:17,338 basehttp 154 "GET /info/ HTTP/1.1" 200 70
+INFO 2021-01-14 22:56:18,944 basehttp 154 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2021-01-14 22:56:19,072 basehttp 154 "POST /login/ HTTP/1.1" 200 27
+WARNING 2021-01-14 22:56:20,050 log 228 Not Found: /carts/simple/
+WARNING 2021-01-14 22:56:20,051 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5107
+INFO 2021-01-14 22:56:20,309 basehttp 154 "GET /info/ HTTP/1.1" 200 128
+WARNING 2021-01-14 22:56:20,319 base 102 Method Not Allowed (GET): /browse_histories/
+WARNING 2021-01-14 22:56:20,338 log 228 Method Not Allowed: /browse_histories/
+WARNING 2021-01-14 22:56:20,340 basehttp 154 "GET /browse_histories/ HTTP/1.1" 405 0
+INFO 2021-01-14 23:03:51,048 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/users/urls.py changed, reloading.
+INFO 2021-01-14 23:03:51,942 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-14 23:05:03,834 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-14 23:05:04,465 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-14 23:09:32,888 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-14 23:09:33,574 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-14 23:09:47,068 base 102 Method Not Allowed (GET): /browse_histories/
+INFO 2021-01-14 23:09:47,073 basehttp 154 "GET /info/ HTTP/1.1" 200 128
+WARNING 2021-01-14 23:09:47,102 log 228 Method Not Allowed: /browse_histories/
+WARNING 2021-01-14 23:09:47,103 basehttp 154 "GET /browse_histories/ HTTP/1.1" 405 0
+WARNING 2021-01-14 23:09:48,570 base 102 Method Not Allowed (GET): /browse_histories/
+WARNING 2021-01-14 23:09:48,573 log 228 Method Not Allowed: /browse_histories/
+WARNING 2021-01-14 23:09:48,574 basehttp 154 "GET /browse_histories/ HTTP/1.1" 405 0
+INFO 2021-01-14 23:09:48,576 basehttp 154 "GET /info/ HTTP/1.1" 200 128
+INFO 2021-01-14 23:10:09,199 basehttp 154 "GET /info/ HTTP/1.1" 200 128
+WARNING 2021-01-14 23:10:09,209 base 102 Method Not Allowed (GET): /browse_histories/
+WARNING 2021-01-14 23:10:09,212 log 228 Method Not Allowed: /browse_histories/
+WARNING 2021-01-14 23:10:09,215 basehttp 154 "GET /browse_histories/ HTTP/1.1" 405 0
+INFO 2021-01-14 23:10:19,113 basehttp 154 "OPTIONS /logout/ HTTP/1.1" 200 0
+INFO 2021-01-14 23:10:19,124 basehttp 154 "DELETE /logout/ HTTP/1.1" 200 27
+INFO 2021-01-14 23:10:22,156 basehttp 154 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2021-01-14 23:10:22,416 basehttp 154 "POST /login/ HTTP/1.1" 200 27
+WARNING 2021-01-14 23:10:23,769 log 228 Not Found: /carts/simple/
+WARNING 2021-01-14 23:10:23,773 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5271
+INFO 2021-01-14 23:10:24,822 basehttp 154 "GET /info/ HTTP/1.1" 200 128
+WARNING 2021-01-14 23:10:24,845 base 102 Method Not Allowed (GET): /browse_histories/
+WARNING 2021-01-14 23:10:24,847 log 228 Method Not Allowed: /browse_histories/
+WARNING 2021-01-14 23:10:24,847 basehttp 154 "GET /browse_histories/ HTTP/1.1" 405 0
+INFO 2021-01-14 23:16:58,672 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-14 23:16:59,659 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-14 23:22:03,836 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-14 23:22:05,191 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-14 23:22:12,566 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-14 23:22:13,893 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-14 23:22:15,979 basehttp 154 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2021-01-14 23:22:16,132 basehttp 154 "POST /login/ HTTP/1.1" 200 27
+WARNING 2021-01-14 23:22:17,171 log 228 Not Found: /carts/simple/
+WARNING 2021-01-14 23:22:17,176 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5271
+INFO 2021-01-14 23:22:18,020 basehttp 154 "GET /info/ HTTP/1.1" 200 128
+INFO 2021-01-14 23:22:18,055 basehttp 154 "GET /browse_histories/ HTTP/1.1" 200 1077
+INFO 2021-01-14 23:25:29,631 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/MeiDuo_mall/settings.py changed, reloading.
+INFO 2021-01-14 23:25:31,295 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-14 23:26:56,363 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/MeiDuo_mall/settings.py changed, reloading.
+INFO 2021-01-14 23:26:56,972 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-14 23:41:23,043 log 228 Not Found: /carts/simple/
+WARNING 2021-01-14 23:41:23,047 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5271
+WARNING 2021-01-14 23:41:28,069 log 228 Not Found: /carts/simple/
+WARNING 2021-01-14 23:41:28,081 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5271
+INFO 2021-01-14 23:41:28,096 basehttp 154 "GET /hot/115/ HTTP/1.1" 200 568
+INFO 2021-01-14 23:41:28,097 basehttp 154 "GET /list/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1526
+INFO 2021-01-14 23:41:29,699 basehttp 154 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+WARNING 2021-01-14 23:41:29,702 log 228 Not Found: /carts/simple/
+WARNING 2021-01-14 23:41:29,703 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5271
+INFO 2021-01-14 23:41:29,709 basehttp 154 "OPTIONS /detail/visit/115/ HTTP/1.1" 200 0
+INFO 2021-01-14 23:41:29,740 basehttp 154 "POST /browse_histories/ HTTP/1.1" 200 27
+INFO 2021-01-14 23:41:29,832 basehttp 154 "POST /detail/visit/115/ HTTP/1.1" 200 27
+INFO 2021-01-14 23:41:31,943 basehttp 154 "OPTIONS /carts/ HTTP/1.1" 200 0
+WARNING 2021-01-14 23:41:31,952 log 228 Not Found: /carts/
+WARNING 2021-01-14 23:41:31,953 basehttp 154 "POST /carts/ HTTP/1.1" 404 5251
+WARNING 2021-01-14 23:41:32,928 log 228 Not Found: /carts/
+WARNING 2021-01-14 23:41:32,929 basehttp 154 "POST /carts/ HTTP/1.1" 404 5251
+WARNING 2021-01-14 23:41:34,703 log 228 Not Found: /carts/
+WARNING 2021-01-14 23:41:34,704 basehttp 154 "POST /carts/ HTTP/1.1" 404 5251
+WARNING 2021-01-14 23:41:35,025 log 228 Not Found: /carts/
+WARNING 2021-01-14 23:41:35,026 basehttp 154 "POST /carts/ HTTP/1.1" 404 5251
+WARNING 2021-01-14 23:41:35,289 log 228 Not Found: /carts/
+WARNING 2021-01-14 23:41:35,290 basehttp 154 "POST /carts/ HTTP/1.1" 404 5251
+WARNING 2021-01-14 23:41:35,441 log 228 Not Found: /carts/
+WARNING 2021-01-14 23:41:35,442 basehttp 154 "POST /carts/ HTTP/1.1" 404 5251
+WARNING 2021-01-14 23:41:35,664 log 228 Not Found: /carts/
+WARNING 2021-01-14 23:41:35,665 basehttp 154 "POST /carts/ HTTP/1.1" 404 5251
+WARNING 2021-01-14 23:41:39,755 log 228 Not Found: /carts/
+WARNING 2021-01-14 23:41:39,756 basehttp 154 "POST /carts/ HTTP/1.1" 404 5251
+WARNING 2021-01-14 23:41:40,304 log 228 Not Found: /carts/
+WARNING 2021-01-14 23:41:40,305 basehttp 154 "POST /carts/ HTTP/1.1" 404 5251
+WARNING 2021-01-14 23:41:40,594 log 228 Not Found: /carts/
+WARNING 2021-01-14 23:41:40,595 basehttp 154 "POST /carts/ HTTP/1.1" 404 5251
+WARNING 2021-01-14 23:41:40,755 log 228 Not Found: /carts/
+WARNING 2021-01-14 23:41:40,763 basehttp 154 "POST /carts/ HTTP/1.1" 404 5251
+INFO 2021-01-14 23:41:55,727 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/MeiDuo_mall/urls.py changed, reloading.
+INFO 2021-01-14 23:41:56,376 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-14 23:41:58,123 log 228 Not Found: /carts/simple/
+INFO 2021-01-14 23:41:58,131 basehttp 154 "POST /detail/visit/115/ HTTP/1.1" 200 27
+WARNING 2021-01-14 23:41:58,136 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5424
+INFO 2021-01-14 23:41:58,152 basehttp 154 "POST /browse_histories/ HTTP/1.1" 200 27
+INFO 2021-01-14 23:41:58,365 basehttp 154 "POST /carts/ HTTP/1.1" 200 27
+WARNING 2021-01-14 23:42:25,167 base 102 Method Not Allowed (GET): /carts/
+WARNING 2021-01-14 23:42:25,173 log 228 Method Not Allowed: /carts/
+WARNING 2021-01-14 23:42:25,188 basehttp 154 "GET /carts/ HTTP/1.1" 405 0
+INFO 2021-01-14 23:42:53,944 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/carts/views.py changed, reloading.
+INFO 2021-01-14 23:42:55,050 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-14 23:47:49,304 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/carts/views.py changed, reloading.
+INFO 2021-01-14 23:47:50,251 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-14 23:52:50,287 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/carts/views.py changed, reloading.
+INFO 2021-01-14 23:52:51,669 autoreload 597 Watching for file changes with StatReloader
+ERROR 2021-01-14 23:53:50,812 log 228 Internal Server Error: /carts/
+Traceback (most recent call last):
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/contrib/auth/mixins.py", line 52, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/carts/views.py", line 84, in get
+    sku_id_count = redis_cli.hget('carts_%s' % user.id)
+TypeError: hget() missing 1 required positional argument: 'key'
+ERROR 2021-01-14 23:53:50,815 basehttp 154 "GET /carts/ HTTP/1.1" 500 89053
+INFO 2021-01-14 23:55:21,977 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/carts/views.py changed, reloading.
+INFO 2021-01-14 23:55:22,811 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-14 23:55:26,676 basehttp 154 "GET /carts/ HTTP/1.1" 200 962
+WARNING 2021-01-14 23:55:37,759 log 228 Not Found: /carts/simple/
+WARNING 2021-01-14 23:55:37,762 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5424
+WARNING 2021-01-14 23:55:38,941 log 228 Not Found: /carts/simple/
+INFO 2021-01-14 23:55:38,954 basehttp 154 "GET /hot/115/ HTTP/1.1" 200 568
+WARNING 2021-01-14 23:55:38,967 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5424
+INFO 2021-01-14 23:55:38,972 basehttp 154 "GET /list/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1526
+INFO 2021-01-14 23:55:40,425 basehttp 154 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+WARNING 2021-01-14 23:55:40,432 log 228 Not Found: /carts/simple/
+WARNING 2021-01-14 23:55:40,433 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5424
+INFO 2021-01-14 23:55:40,441 basehttp 154 "OPTIONS /detail/visit/115/ HTTP/1.1" 200 0
+INFO 2021-01-14 23:55:40,572 basehttp 154 "POST /browse_histories/ HTTP/1.1" 200 27
+INFO 2021-01-14 23:55:40,600 basehttp 154 "POST /detail/visit/115/ HTTP/1.1" 200 27
+INFO 2021-01-14 23:55:42,019 basehttp 154 "OPTIONS /carts/ HTTP/1.1" 200 0
+INFO 2021-01-14 23:55:42,030 basehttp 154 "POST /carts/ HTTP/1.1" 200 27
+INFO 2021-01-14 23:55:44,356 basehttp 154 "GET /info/ HTTP/1.1" 200 128
+INFO 2021-01-14 23:55:44,387 basehttp 154 "GET /browse_histories/ HTTP/1.1" 200 1353
+INFO 2021-01-14 23:55:46,003 basehttp 154 "GET /carts/ HTTP/1.1" 200 962
+INFO 2021-01-14 23:55:53,138 basehttp 154 "GET /carts/ HTTP/1.1" 200 962
+INFO 2021-01-14 23:56:19,683 basehttp 154 "GET /carts/ HTTP/1.1" 200 962
+INFO 2021-01-14 23:57:07,408 autoreload 217 /home/ubuntu/Desktop/homework/work_first/day12/MeiDuo_mall/apps/carts/views.py changed, reloading.
+INFO 2021-01-14 23:57:08,132 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-14 23:57:10,640 basehttp 154 "GET /carts/ HTTP/1.1" 200 963

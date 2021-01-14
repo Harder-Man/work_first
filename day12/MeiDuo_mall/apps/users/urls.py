@@ -24,4 +24,7 @@ urlpatterns = [
 
     # 地址管理
     path('addresses/', AddressListView.as_view()),
+
+    # 用户浏览记录
+    path('browse_histories/', UserHistoryView.as_view()),
 ]
