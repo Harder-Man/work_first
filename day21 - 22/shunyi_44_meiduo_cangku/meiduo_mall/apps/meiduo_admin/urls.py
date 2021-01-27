@@ -6,8 +6,14 @@ from apps.meiduo_admin.views import home, user, image
 urlpatterns = [
     path('authorizations/', admin_obtain_token),
 
+    # 用户总量
+    path('statistical/total_count/', home.UserTotalCountAPIView.as_view()),
+
     # 日活用户
     path('statistical/day_active/', home.UserActiveAPIView.as_view()),
+
+    # 日增用户
+    path('statistical/day_increment/', home.UserIncrementAPIView.as_view()),
 
     # 日订单量
     path('statistical/day_orders/', home.UserOrderAPIView.as_view()),

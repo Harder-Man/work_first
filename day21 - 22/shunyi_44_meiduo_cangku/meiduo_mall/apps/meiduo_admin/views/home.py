@@ -63,3 +63,28 @@ class MonthUserAPIView(APIView):
 
         # 6. 返回响应
         return Response(data_list)
+
+
+class UserIncrementAPIView(APIView):
+
+    def get(self, request):
+        today = date.today()
+        count = User.objects.filter(date_joined__gte=today).count()
+
+        return Response({
+            'count': count,
+            'date': today
+        })
+
+
+class UserTotalCountAPIView(APIView):
+
+    def get(self, request):
+        today = date.today()
+
+        count = User.objects.count()
+
+        return Response({
+            'count': count,
+            'date': today
+        })
