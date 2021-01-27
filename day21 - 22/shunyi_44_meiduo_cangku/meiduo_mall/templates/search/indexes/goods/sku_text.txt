@@ -1,0 +1,5 @@
+# 注释. object 可以理解为 sku实例对象
+#
+{{ object.name }}
+{{ object.caption }}
+{{ object.id }}

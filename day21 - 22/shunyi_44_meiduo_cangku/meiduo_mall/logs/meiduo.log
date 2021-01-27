@@ -1,0 +1,1363 @@
+INFO 2020-12-31 08:15:55,240 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-12-31 08:17:45,942 basehttp 154 "GET / HTTP/1.1" 200 16348
+INFO 2020-12-31 08:32:12,180 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/meiduo_mall/urls.py changed, reloading.
+INFO 2020-12-31 08:32:14,332 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-12-31 08:32:24,321 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-12-31 08:32:34,332 basehttp 154 "GET /test/ HTTP/1.1" 200 4
+INFO 2020-12-31 08:35:36,629 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/meiduo_mall/urls.py changed, reloading.
+INFO 2020-12-31 08:35:38,708 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-12-31 08:35:49,467 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/meiduo_mall/urls.py changed, reloading.
+INFO 2020-12-31 08:35:50,716 autoreload 597 Watching for file changes with StatReloader
+WARNING 2020-12-31 08:35:58,831 urls 29 这里有一个警告
+ERROR 2020-12-31 08:35:58,833 urls 31 error
+INFO 2020-12-31 08:35:58,834 urls 33 123
+INFO 2020-12-31 08:35:58,859 basehttp 154 "GET /test/ HTTP/1.1" 200 4
+INFO 2021-01-02 00:49:31,763 autoreload 597 Watching for file changes with StatReloader
+ERROR 2021-01-02 00:49:44,917 exception 77 Invalid HTTP_HOST header: 'www.meiduo.site:8000'. You may need to add 'www.meiduo.site' to ALLOWED_HOSTS.
+WARNING 2021-01-02 00:49:45,125 log 228 Bad Request: /
+WARNING 2021-01-02 00:49:45,132 basehttp 154 "GET / HTTP/1.1" 400 69638
+ERROR 2021-01-02 00:49:45,576 exception 77 Invalid HTTP_HOST header: 'www.meiduo.site:8000'. You may need to add 'www.meiduo.site' to ALLOWED_HOSTS.
+WARNING 2021-01-02 00:49:45,699 log 228 Bad Request: /favicon.ico
+WARNING 2021-01-02 00:49:45,700 basehttp 154 "GET /favicon.ico HTTP/1.1" 400 69689
+INFO 2021-01-02 00:51:52,221 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/meiduo_mall/settings.py changed, reloading.
+INFO 2021-01-02 00:51:52,945 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-02 00:51:56,642 log 228 Not Found: /
+WARNING 2021-01-02 00:51:56,644 basehttp 154 "GET / HTTP/1.1" 404 2037
+WARNING 2021-01-02 00:51:56,756 log 228 Not Found: /favicon.ico
+WARNING 2021-01-02 00:51:56,758 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2088
+WARNING 2021-01-02 00:52:11,775 urls 29 这里有一个警告
+ERROR 2021-01-02 00:52:11,776 urls 31 error
+INFO 2021-01-02 00:52:11,780 urls 33 123
+INFO 2021-01-02 00:52:11,789 basehttp 154 "GET /test/ HTTP/1.1" 200 4
+INFO 2021-01-02 02:01:27,238 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/meiduo_mall/settings.py changed, reloading.
+INFO 2021-01-02 02:01:28,303 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-02 03:09:27,542 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/meiduo_mall/urls.py changed, reloading.
+INFO 2021-01-02 03:09:28,447 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-02 03:09:34,318 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-02 03:09:48,177 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-02 03:10:12,413 basehttp 154 "GET /usernames/itcast/count/ HTTP/1.1" 200 39
+INFO 2021-01-02 03:44:21,988 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-02 03:44:22,985 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-02 03:51:25,005 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/meiduo_mall/urls.py changed, reloading.
+INFO 2021-01-02 03:51:25,855 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-02 03:51:34,889 log 228 Not Found: /usernames/it/count/
+WARNING 2021-01-02 03:51:34,897 basehttp 154 "GET /usernames/it/count/ HTTP/1.1" 404 2190
+WARNING 2021-01-02 03:51:42,798 log 228 Not Found: /usernames/123456/count/
+WARNING 2021-01-02 03:51:42,800 basehttp 154 "GET /usernames/123456/count/ HTTP/1.1" 404 2202
+WARNING 2021-01-02 03:52:11,479 log 228 Not Found: /usernames/a123456/count/
+WARNING 2021-01-02 03:52:11,481 basehttp 154 "GET /usernames/a123456/count/ HTTP/1.1" 404 2205
+INFO 2021-01-02 03:52:42,764 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/utils/converters.py changed, reloading.
+INFO 2021-01-02 03:52:43,757 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-02 03:52:49,059 basehttp 154 "GET /usernames/123456/count/ HTTP/1.1" 200 39
+WARNING 2021-01-02 03:53:25,142 log 228 Not Found: /usernames/it/count/
+WARNING 2021-01-02 03:53:25,166 basehttp 154 "GET /usernames/it/count/ HTTP/1.1" 404 2190
+INFO 2021-01-02 03:53:30,696 basehttp 154 "GET /usernames/itcast/count/ HTTP/1.1" 200 39
+WARNING 2021-01-02 04:10:49,746 log 228 Not Found: /image_codes/48a2a5d1-cf1b-42ca-8870-cde9ae37e11e/
+WARNING 2021-01-02 04:10:49,747 basehttp 154 "GET /image_codes/48a2a5d1-cf1b-42ca-8870-cde9ae37e11e/ HTTP/1.1" 404 2280
+INFO 2021-01-02 04:10:58,239 basehttp 154 "GET /usernames/itcast/count/ HTTP/1.1" 200 39
+INFO 2021-01-02 04:23:28,360 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-02 04:23:38,258 log 228 Not Found: /image_codes/68876dde-c064-4cb0-b3e3-e99b16c8c35e/
+WARNING 2021-01-02 04:23:38,261 basehttp 154 "GET /image_codes/68876dde-c064-4cb0-b3e3-e99b16c8c35e/ HTTP/1.1" 404 2280
+INFO 2021-01-02 04:23:45,740 basehttp 154 "GET /usernames/itcast/count/ HTTP/1.1" 200 39
+INFO 2021-01-02 07:45:30,195 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-02 07:45:32,009 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-02 07:53:09,415 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-02 07:53:10,396 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-02 07:53:34,305 log 228 Not Found: /image_codes/56254246-996e-43af-8284-fb6e316eb67b/
+WARNING 2021-01-02 07:53:34,306 basehttp 154 "GET /image_codes/56254246-996e-43af-8284-fb6e316eb67b/ HTTP/1.1" 404 2436
+INFO 2021-01-02 07:53:41,644 basehttp 154 "GET /usernames/itcast_01/count/ HTTP/1.1" 200 39
+WARNING 2021-01-02 07:53:54,130 log 228 Not Found: /mobiles/18310820688/count/
+WARNING 2021-01-02 07:53:54,131 basehttp 154 "GET /mobiles/18310820688/count/ HTTP/1.1" 404 2367
+INFO 2021-01-02 07:54:54,699 basehttp 154 "GET /usernames/itcast_01/count/ HTTP/1.1" 200 39
+WARNING 2021-01-02 07:54:54,705 log 228 Not Found: /mobiles/18310820688/count/
+WARNING 2021-01-02 07:54:54,706 basehttp 154 "GET /mobiles/18310820688/count/ HTTP/1.1" 404 2367
+INFO 2021-01-02 07:54:54,708 basehttp 154 "OPTIONS /register/ HTTP/1.1" 200 0
+WARNING 2021-01-02 07:54:54,733 log 228 Forbidden (CSRF cookie not set.): /register/
+WARNING 2021-01-02 07:54:54,734 basehttp 154 "POST /register/ HTTP/1.1" 403 2868
+INFO 2021-01-02 07:57:10,415 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/meiduo_mall/settings.py changed, reloading.
+INFO 2021-01-02 07:57:11,266 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-02 07:57:43,198 log 228 Not Found: /mobiles/18310820688/count/
+WARNING 2021-01-02 07:57:43,199 basehttp 154 "GET /mobiles/18310820688/count/ HTTP/1.1" 404 2367
+INFO 2021-01-02 07:57:43,211 basehttp 154 "GET /usernames/itcast_01/count/ HTTP/1.1" 200 39
+INFO 2021-01-02 07:57:43,406 basehttp 154 "POST /register/ HTTP/1.1" 200 27
+WARNING 2021-01-02 07:57:45,208 log 228 Not Found: /carts/simple/
+WARNING 2021-01-02 07:57:45,214 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 2328
+INFO 2021-01-02 08:25:32,504 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-02 08:25:34,198 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-02 08:25:53,763 log 228 Not Found: /image_codes/69d3bb02-69d3-4ab0-af3a-da69514f071e/
+WARNING 2021-01-02 08:25:53,766 basehttp 154 "GET /image_codes/69d3bb02-69d3-4ab0-af3a-da69514f071e/ HTTP/1.1" 404 2436
+INFO 2021-01-02 08:26:16,437 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+INFO 2021-01-02 08:26:27,989 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+WARNING 2021-01-02 08:26:59,123 log 228 Not Found: /mobiles/18310820687/count/
+WARNING 2021-01-02 08:26:59,124 basehttp 154 "GET /mobiles/18310820687/count/ HTTP/1.1" 404 2367
+WARNING 2021-01-02 08:27:47,737 log 228 Not Found: /mobiles/18310820687/count/
+WARNING 2021-01-02 08:27:47,740 basehttp 154 "GET /mobiles/18310820687/count/ HTTP/1.1" 404 2367
+INFO 2021-01-02 08:27:47,756 basehttp 154 "OPTIONS /register/ HTTP/1.1" 200 0
+INFO 2021-01-02 08:27:47,758 basehttp 154 "GET /usernames/itcast_02/count/ HTTP/1.1" 200 39
+INFO 2021-01-02 08:27:47,986 basehttp 154 "POST /register/ HTTP/1.1" 200 27
+WARNING 2021-01-02 08:27:49,256 log 228 Not Found: /carts/simple/
+WARNING 2021-01-02 08:27:49,257 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 2328
+INFO 2021-01-02 23:54:50,487 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-02 23:55:04,309 log 228 Not Found: /image_codes/fb35531d-b69a-443c-994c-37a87de0db8c/
+WARNING 2021-01-02 23:55:04,309 basehttp 154 "GET /image_codes/fb35531d-b69a-443c-994c-37a87de0db8c/ HTTP/1.1" 404 2436
+INFO 2021-01-03 00:54:21,013 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/meiduo_mall/settings.py changed, reloading.
+INFO 2021-01-03 00:54:22,577 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-03 01:00:15,817 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/meiduo_mall/settings.py changed, reloading.
+INFO 2021-01-03 01:00:16,959 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-03 01:21:40,843 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/verifications/urls.py changed, reloading.
+INFO 2021-01-03 01:21:42,789 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-03 01:27:06,641 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/verifications/views.py changed, reloading.
+INFO 2021-01-03 01:27:08,399 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-03 01:27:31,638 basehttp 154 "GET /image_codes/123-123/ HTTP/1.1" 200 2981
+WARNING 2021-01-03 01:27:31,797 log 228 Not Found: /favicon.ico
+WARNING 2021-01-03 01:27:31,799 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2499
+INFO 2021-01-03 01:27:39,696 basehttp 154 "GET /image_codes/f5f0ebdc-9997-4c96-a4c9-a81a905f49c1/ HTTP/1.1" 200 3207
+INFO 2021-01-03 03:08:14,489 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/verifications/urls.py changed, reloading.
+INFO 2021-01-03 03:08:16,275 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-03 03:08:23,958 basehttp 154 "GET /image_codes/a64f7b42-3036-4aac-8ec6-dc090f21170f/ HTTP/1.1" 200 3375
+WARNING 2021-01-03 03:08:32,200 log 228 Not Found: /mobiles/18310820688/count/
+WARNING 2021-01-03 03:08:32,208 basehttp 154 "GET /mobiles/18310820688/count/ HTTP/1.1" 404 2716
+INFO 2021-01-03 03:08:53,650 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-03 03:08:57,976 log 228 Not Found: /mobiles/18310820688/count/
+WARNING 2021-01-03 03:08:57,979 basehttp 154 "GET /mobiles/18310820688/count/ HTTP/1.1" 404 2716
+INFO 2021-01-03 03:08:58,510 basehttp 154 "GET /sms_codes/18310820688/?image_code=ychb&image_code_id=a64f7b42-3036-4aac-8ec6-dc090f21170f HTTP/1.1" 200 27
+INFO 2021-01-03 03:20:28,987 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/verifications/views.py changed, reloading.
+INFO 2021-01-03 03:20:30,096 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-03 03:51:56,904 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/verifications/views.py changed, reloading.
+INFO 2021-01-03 03:51:59,238 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-03 03:53:01,038 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-03 03:53:08,455 basehttp 154 "GET /image_codes/4156e8b6-9f7c-4149-914b-cac8b6627688/ HTTP/1.1" 200 3491
+WARNING 2021-01-03 03:53:22,120 log 228 Not Found: /mobiles/18310820688/count/
+WARNING 2021-01-03 03:53:22,121 basehttp 154 "GET /mobiles/18310820688/count/ HTTP/1.1" 404 2716
+WARNING 2021-01-03 03:53:26,821 log 228 Not Found: /mobiles/18310820688/count/
+INFO 2021-01-03 03:53:26,823 basehttp 154 "GET /sms_codes/18310820688/?image_code=v750&image_code_id=4156e8b6-9f7c-4149-914b-cac8b6627688 HTTP/1.1" 200 69
+WARNING 2021-01-03 03:53:26,824 basehttp 154 "GET /mobiles/18310820688/count/ HTTP/1.1" 404 2716
+INFO 2021-01-03 03:55:29,454 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-03 03:55:39,723 basehttp 154 "GET /image_codes/5776c7c7-28ec-42a4-85c0-46b7bdc2233b/ HTTP/1.1" 200 2955
+INFO 2021-01-03 03:55:41,385 basehttp 154 "GET /image_codes/42ba4e8f-1b7d-4cbf-bf04-0b335859c452/ HTTP/1.1" 200 2870
+WARNING 2021-01-03 03:55:43,825 log 228 Not Found: /mobiles/18310820688/count/
+WARNING 2021-01-03 03:55:43,827 basehttp 154 "GET /mobiles/18310820688/count/ HTTP/1.1" 404 2716
+WARNING 2021-01-03 03:55:47,021 log 228 Not Found: /mobiles/18310820688/count/
+WARNING 2021-01-03 03:55:47,027 basehttp 154 "GET /mobiles/18310820688/count/ HTTP/1.1" 404 2716
+INFO 2021-01-03 03:55:47,606 basehttp 154 "GET /sms_codes/18310820688/?image_code=5hya&image_code_id=42ba4e8f-1b7d-4cbf-bf04-0b335859c452 HTTP/1.1" 200 27
+INFO 2021-01-03 03:56:49,455 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/verifications/views.py changed, reloading.
+INFO 2021-01-03 03:56:50,226 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-03 03:56:52,758 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-03 03:57:01,979 basehttp 154 "GET /image_codes/2533cbcb-2fad-493f-aae8-79b1527d47aa/ HTTP/1.1" 200 3285
+WARNING 2021-01-03 03:57:12,788 log 228 Not Found: /mobiles/18310820688/count/
+WARNING 2021-01-03 03:57:12,790 basehttp 154 "GET /mobiles/18310820688/count/ HTTP/1.1" 404 2716
+WARNING 2021-01-03 03:57:16,085 log 228 Not Found: /mobiles/18310820688/count/
+WARNING 2021-01-03 03:57:16,088 basehttp 154 "GET /mobiles/18310820688/count/ HTTP/1.1" 404 2716
+INFO 2021-01-03 03:57:16,562 basehttp 154 "GET /sms_codes/18310820688/?image_code=qtfd&image_code_id=2533cbcb-2fad-493f-aae8-79b1527d47aa HTTP/1.1" 200 27
+INFO 2021-01-03 03:57:33,244 basehttp 154 "GET /image_codes/87980513-37b7-4a3e-b58a-0fdd75c736e5/ HTTP/1.1" 200 3417
+WARNING 2021-01-03 03:57:35,815 log 228 Not Found: /mobiles/18310820688/count/
+WARNING 2021-01-03 03:57:35,833 basehttp 154 "GET /mobiles/18310820688/count/ HTTP/1.1" 404 2716
+WARNING 2021-01-03 03:57:39,594 log 228 Not Found: /mobiles/18310820688/count/
+INFO 2021-01-03 03:57:39,597 basehttp 154 "GET /sms_codes/18310820688/?image_code=kld6&image_code_id=87980513-37b7-4a3e-b58a-0fdd75c736e5 HTTP/1.1" 200 63
+WARNING 2021-01-03 03:57:39,598 basehttp 154 "GET /mobiles/18310820688/count/ HTTP/1.1" 404 2716
+INFO 2021-01-03 03:58:40,486 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/verifications/views.py changed, reloading.
+INFO 2021-01-03 03:58:42,068 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-03 03:59:18,620 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/verifications/views.py changed, reloading.
+INFO 2021-01-03 03:59:19,414 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-03 03:59:28,152 basehttp 154 "GET /image_codes/6a2d081d-43d9-4179-bd17-bbc59cfbc494/ HTTP/1.1" 200 3377
+WARNING 2021-01-03 03:59:30,977 log 228 Not Found: /mobiles/18310820688/count/
+WARNING 2021-01-03 03:59:30,978 basehttp 154 "GET /mobiles/18310820688/count/ HTTP/1.1" 404 2716
+WARNING 2021-01-03 03:59:43,155 log 228 Not Found: /mobiles/18310820688/count/
+WARNING 2021-01-03 03:59:43,156 basehttp 154 "GET /mobiles/18310820688/count/ HTTP/1.1" 404 2716
+WARNING 2021-01-03 03:59:43,175 log 228 Bad Request: /sms_codes/18310820688/
+WARNING 2021-01-03 03:59:43,176 basehttp 154 "GET /sms_codes/18310820688/?image_code=xrw4&image_code_id=6a2d081d-43d9-4179-bd17-bbc59cfbc494 HTTP/1.1" 400 18
+INFO 2021-01-03 04:14:50,973 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/verifications/views.py changed, reloading.
+INFO 2021-01-03 04:14:51,787 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-03 04:14:56,581 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-03 04:15:32,022 basehttp 154 "GET /image_codes/6b0c9daf-5a40-4222-b928-83a4eebb892e/ HTTP/1.1" 200 3420
+WARNING 2021-01-03 04:15:34,822 log 228 Not Found: /mobiles/18310820688/count/
+WARNING 2021-01-03 04:15:34,824 basehttp 154 "GET /mobiles/18310820688/count/ HTTP/1.1" 404 2716
+WARNING 2021-01-03 04:15:40,073 log 228 Not Found: /mobiles/18310820688/count/
+WARNING 2021-01-03 04:15:40,076 basehttp 154 "GET /mobiles/18310820688/count/ HTTP/1.1" 404 2716
+INFO 2021-01-03 04:15:40,631 basehttp 154 "GET /sms_codes/18310820688/?image_code=tclp&image_code_id=6b0c9daf-5a40-4222-b928-83a4eebb892e HTTP/1.1" 200 27
+INFO 2021-01-03 06:28:04,432 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-03 06:31:31,719 basehttp 154 "GET /image_codes/9d110f21-a7b8-4c5e-ae8b-231f4b315fa2/ HTTP/1.1" 200 3011
+INFO 2021-01-03 09:31:51,391 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/verifications/views.py changed, reloading.
+INFO 2021-01-03 09:31:52,552 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-03 09:31:58,601 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-03 09:32:30,042 basehttp 154 "GET /image_codes/bae5107f-f6fe-4f40-a29c-2ef78aac8ab3/ HTTP/1.1" 200 3412
+WARNING 2021-01-03 09:32:33,557 log 228 Not Found: /mobiles/18310820688/count/
+WARNING 2021-01-03 09:32:33,559 basehttp 154 "GET /mobiles/18310820688/count/ HTTP/1.1" 404 2716
+WARNING 2021-01-03 09:33:00,537 log 228 Not Found: /mobiles/18310820688/count/
+WARNING 2021-01-03 09:33:00,543 basehttp 154 "GET /mobiles/18310820688/count/ HTTP/1.1" 404 2716
+INFO 2021-01-03 09:33:01,153 basehttp 154 "GET /sms_codes/18310820688/?image_code=mgfb&image_code_id=bae5107f-f6fe-4f40-a29c-2ef78aac8ab3 HTTP/1.1" 200 27
+INFO 2021-01-03 10:03:51,403 basehttp 154 "GET /image_codes/9bdcaaea-b504-4d76-8d8d-ec2e62380849/ HTTP/1.1" 200 3145
+WARNING 2021-01-03 10:03:54,076 log 228 Not Found: /mobiles/18310820688/count/
+WARNING 2021-01-03 10:03:54,081 basehttp 154 "GET /mobiles/18310820688/count/ HTTP/1.1" 404 2716
+WARNING 2021-01-03 10:03:59,895 log 228 Not Found: /mobiles/18310820688/count/
+WARNING 2021-01-03 10:03:59,900 basehttp 154 "GET /mobiles/18310820688/count/ HTTP/1.1" 404 2716
+INFO 2021-01-03 10:03:59,907 basehttp 154 "GET /sms_codes/18310820688/?image_code=j6df&image_code_id=9bdcaaea-b504-4d76-8d8d-ec2e62380849 HTTP/1.1" 200 27
+INFO 2021-01-03 10:04:04,315 basehttp 154 "GET /image_codes/6a143c3e-7a42-4b28-a607-d9654363c2e5/ HTTP/1.1" 200 3367
+WARNING 2021-01-03 10:04:07,716 log 228 Not Found: /mobiles/18310820687/count/
+WARNING 2021-01-03 10:04:07,717 basehttp 154 "GET /mobiles/18310820687/count/ HTTP/1.1" 404 2716
+WARNING 2021-01-03 10:04:11,885 log 228 Not Found: /mobiles/18310820687/count/
+WARNING 2021-01-03 10:04:11,887 basehttp 154 "GET /mobiles/18310820687/count/ HTTP/1.1" 404 2716
+INFO 2021-01-03 10:04:11,899 basehttp 154 "GET /sms_codes/18310820687/?image_code=njvo&image_code_id=6a143c3e-7a42-4b28-a607-d9654363c2e5 HTTP/1.1" 200 27
+INFO 2021-01-03 10:04:14,737 basehttp 154 "GET /image_codes/35054edf-7c66-4fae-8089-43cabbe8ea41/ HTTP/1.1" 200 3272
+WARNING 2021-01-03 10:04:17,960 log 228 Not Found: /mobiles/18310820689/count/
+WARNING 2021-01-03 10:04:17,964 basehttp 154 "GET /mobiles/18310820689/count/ HTTP/1.1" 404 2716
+WARNING 2021-01-03 10:04:21,162 log 228 Not Found: /mobiles/18310820689/count/
+WARNING 2021-01-03 10:04:21,169 basehttp 154 "GET /mobiles/18310820689/count/ HTTP/1.1" 404 2716
+INFO 2021-01-03 10:04:21,171 basehttp 154 "GET /sms_codes/18310820689/?image_code=bzil&image_code_id=35054edf-7c66-4fae-8089-43cabbe8ea41 HTTP/1.1" 200 27
+INFO 2021-01-05 00:22:22,431 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-05 00:22:37,363 basehttp 154 "GET /image_codes/1a7d844e-6933-45ef-9f51-d476ef5eec28/ HTTP/1.1" 200 3743
+INFO 2021-01-05 01:04:36,314 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-05 01:04:38,132 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-05 01:17:13,906 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-05 01:17:14,797 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-05 01:17:22,908 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-05 01:18:28,132 basehttp 154 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2021-01-05 01:18:28,366 basehttp 154 "POST /login/ HTTP/1.1" 200 27
+WARNING 2021-01-05 01:18:30,962 log 228 Not Found: /carts/simple/
+WARNING 2021-01-05 01:18:30,964 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 2830
+INFO 2021-01-05 01:40:41,582 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-05 01:40:58,147 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-05 01:41:20,655 basehttp 154 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2021-01-05 01:44:50,563 basehttp 154 "POST /login/ HTTP/1.1" 200 27
+WARNING 2021-01-05 01:44:52,374 log 228 Not Found: /carts/simple/
+WARNING 2021-01-05 01:44:52,379 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 2830
+INFO 2021-01-05 01:45:37,290 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-05 01:46:20,565 basehttp 154 "POST /login/ HTTP/1.1" 200 27
+WARNING 2021-01-05 01:46:22,083 log 228 Not Found: /carts/simple/
+WARNING 2021-01-05 01:46:22,109 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 2830
+INFO 2021-01-05 01:57:53,940 basehttp 154 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2021-01-05 01:58:29,374 basehttp 154 "POST /login/ HTTP/1.1" 200 81
+INFO 2021-01-05 01:58:35,804 basehttp 154 "POST /login/ HTTP/1.1" 200 81
+INFO 2021-01-05 02:05:20,965 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-05 02:05:57,074 basehttp 154 "POST /login/ HTTP/1.1" 200 27
+WARNING 2021-01-05 02:05:58,792 log 228 Not Found: /carts/simple/
+WARNING 2021-01-05 02:05:58,818 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 2830
+INFO 2021-01-05 02:06:37,617 basehttp 154 "POST /login/ HTTP/1.1" 200 27
+WARNING 2021-01-05 02:06:39,184 log 228 Not Found: /carts/simple/
+WARNING 2021-01-05 02:06:39,185 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 2830
+INFO 2021-01-05 02:13:33,184 basehttp 154 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2021-01-05 02:13:43,885 basehttp 154 "POST /login/ HTTP/1.1" 200 27
+WARNING 2021-01-05 02:13:45,331 log 228 Not Found: /carts/simple/
+WARNING 2021-01-05 02:13:45,386 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 2830
+INFO 2021-01-05 02:19:20,715 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-05 02:19:41,527 basehttp 154 "POST /login/ HTTP/1.1" 200 27
+WARNING 2021-01-05 02:19:43,117 log 228 Not Found: /carts/simple/
+WARNING 2021-01-05 02:19:43,120 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 2830
+INFO 2021-01-05 02:42:20,439 basehttp 154 "OPTIONS /logout/ HTTP/1.1" 200 0
+WARNING 2021-01-05 02:42:20,504 log 228 Not Found: /logout/
+WARNING 2021-01-05 02:42:20,507 basehttp 154 "DELETE /logout/ HTTP/1.1" 404 2815
+WARNING 2021-01-05 02:42:27,122 log 228 Not Found: /logout/
+WARNING 2021-01-05 02:42:27,123 basehttp 154 "DELETE /logout/ HTTP/1.1" 404 2815
+WARNING 2021-01-05 02:42:37,520 log 228 Not Found: /logout/
+WARNING 2021-01-05 02:42:37,522 basehttp 154 "DELETE /logout/ HTTP/1.1" 404 2815
+WARNING 2021-01-05 02:42:59,515 log 228 Not Found: /logout/
+WARNING 2021-01-05 02:42:59,526 basehttp 154 "DELETE /logout/ HTTP/1.1" 404 2815
+WARNING 2021-01-05 02:43:04,198 log 228 Not Found: /logout/
+WARNING 2021-01-05 02:43:04,201 basehttp 154 "DELETE /logout/ HTTP/1.1" 404 2815
+INFO 2021-01-05 02:50:24,760 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-05 02:51:07,912 basehttp 154 "DELETE /logout/ HTTP/1.1" 200 27
+WARNING 2021-01-05 02:51:27,636 log 228 Not Found: /carts/simple/
+WARNING 2021-01-05 02:51:27,637 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 2984
+INFO 2021-01-05 02:52:07,469 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-05 02:52:10,153 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-05 02:55:02,943 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-05 02:55:07,185 basehttp 154 "OPTIONS /logout/ HTTP/1.1" 200 0
+INFO 2021-01-05 02:55:16,509 basehttp 154 "DELETE /logout/ HTTP/1.1" 200 27
+WARNING 2021-01-05 02:55:22,486 log 228 Not Found: /carts/simple/
+WARNING 2021-01-05 02:55:22,491 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 2984
+INFO 2021-01-05 03:08:10,979 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-05 03:08:14,312 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-05 03:08:22,416 log 228 Not Found: /browse_histories/
+WARNING 2021-01-05 03:08:22,449 log 228 Not Found: /info/
+WARNING 2021-01-05 03:08:22,451 basehttp 154 "GET /browse_histories/ HTTP/1.1" 404 2996
+WARNING 2021-01-05 03:08:22,465 basehttp 154 "GET /info/ HTTP/1.1" 404 2960
+INFO 2021-01-05 03:27:56,717 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-05 03:27:59,654 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-05 03:30:24,439 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-05 03:30:28,676 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-05 03:30:36,430 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-05 03:30:51,530 basehttp 154 "GET /info/ HTTP/1.1" 200 70
+WARNING 2021-01-05 03:30:51,731 log 228 Not Found: /favicon.ico
+WARNING 2021-01-05 03:30:51,733 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 3130
+INFO 2021-01-05 03:31:14,935 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-05 03:31:19,649 basehttp 154 "GET /info/ HTTP/1.1" 302 0
+WARNING 2021-01-05 03:31:19,770 log 228 Not Found: /accounts/login/
+WARNING 2021-01-05 03:31:19,772 basehttp 154 "GET /accounts/login/?next=/info/ HTTP/1.1" 404 3154
+INFO 2021-01-05 03:33:12,315 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-05 03:33:14,839 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-05 03:53:42,659 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-05 03:53:45,798 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-05 03:54:07,008 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-05 03:54:09,765 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-05 03:54:47,552 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-05 03:54:50,535 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-05 04:01:33,914 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-05 04:01:51,288 basehttp 154 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2021-01-05 04:01:51,653 basehttp 154 "POST /login/ HTTP/1.1" 200 27
+WARNING 2021-01-05 04:01:53,396 log 228 Not Found: /carts/simple/
+WARNING 2021-01-05 04:01:53,401 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 3136
+WARNING 2021-01-05 04:01:57,339 log 228 Not Found: /browse_histories/
+INFO 2021-01-05 04:01:57,369 basehttp 154 "GET /info/ HTTP/1.1" 200 128
+WARNING 2021-01-05 04:01:57,390 basehttp 154 "GET /browse_histories/ HTTP/1.1" 404 3148
+INFO 2021-01-05 04:14:14,216 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-05 04:14:16,698 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-05 07:22:02,829 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/meiduo_mall/settings.py changed, reloading.
+INFO 2021-01-05 07:22:04,991 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-05 07:53:35,558 basehttp 154 "OPTIONS /logout/ HTTP/1.1" 200 0
+INFO 2021-01-05 07:53:41,276 basehttp 154 "DELETE /logout/ HTTP/1.1" 200 27
+WARNING 2021-01-05 07:55:29,104 log 228 Not Found: /oauth_callback/
+WARNING 2021-01-05 07:55:29,107 basehttp 154 "GET /oauth_callback/?code=F34E8E0CEAC2D7FE1A8E2442E363A444 HTTP/1.1" 404 3180
+INFO 2021-01-05 08:06:58,123 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-05 08:07:30,753 log 228 Not Found: /oauth_callback/
+WARNING 2021-01-05 08:07:30,759 basehttp 154 "GET /oauth_callback/?code=92E377071CD3C1D1853737677C0A1927 HTTP/1.1" 404 3180
+INFO 2021-01-05 08:08:38,977 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-05 08:14:26,679 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/oauth/views.py changed, reloading.
+INFO 2021-01-05 08:14:28,870 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-05 08:27:24,991 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/oauth/views.py changed, reloading.
+INFO 2021-01-05 08:27:26,874 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-05 08:53:29,554 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/oauth/views.py changed, reloading.
+INFO 2021-01-05 08:53:33,827 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-05 08:54:57,336 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-05 08:56:18,992 basehttp 154 "GET /oauth_callback/?code=828D6763BD367735D0F17E642243E294 HTTP/1.1" 200 65
+INFO 2021-01-05 08:56:19,215 basehttp 154 "GET /image_codes/cd048383-a4de-4018-8d6b-fe796357f9ca/ HTTP/1.1" 200 2832
+INFO 2021-01-06 00:21:54,482 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-06 00:41:57,221 basehttp 154 "GET /oauth_callback/?code=A352BD8543B372DAFBFC025764E9B908 HTTP/1.1" 200 65
+INFO 2021-01-06 00:41:57,521 basehttp 154 "GET /image_codes/db8c9dd7-ed43-4cbf-9c7f-ac0157c14726/ HTTP/1.1" 200 3175
+INFO 2021-01-06 00:57:25,246 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/oauth/views.py changed, reloading.
+INFO 2021-01-06 00:57:27,941 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-06 01:07:33,487 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/oauth/views.py changed, reloading.
+INFO 2021-01-06 01:07:36,737 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-06 01:14:47,305 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-06 01:15:22,481 basehttp 154 "GET /oauth_callback/?code=3B806502BD4EE840CFBA2C1A244A6274 HTTP/1.1" 200 65
+INFO 2021-01-06 01:15:23,144 basehttp 154 "GET /image_codes/f261b547-d59c-4ca4-8491-547d3d32330a/ HTTP/1.1" 200 2902
+INFO 2021-01-06 01:15:36,818 basehttp 154 "GET /sms_codes/18310820688/?image_code=kl8d&image_code_id=f261b547-d59c-4ca4-8491-547d3d32330a HTTP/1.1" 200 27
+INFO 2021-01-06 01:15:58,446 basehttp 154 "OPTIONS /oauth_callback/ HTTP/1.1" 200 0
+INFO 2021-01-06 01:16:45,079 basehttp 154 "POST /oauth_callback/ HTTP/1.1" 200 27
+WARNING 2021-01-06 01:16:47,872 log 228 Not Found: /carts/simple/
+WARNING 2021-01-06 01:16:47,874 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 3298
+INFO 2021-01-06 01:17:34,351 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/oauth/views.py changed, reloading.
+INFO 2021-01-06 01:17:37,074 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-06 01:17:53,279 basehttp 154 "OPTIONS /logout/ HTTP/1.1" 200 0
+INFO 2021-01-06 01:17:53,448 basehttp 154 "DELETE /logout/ HTTP/1.1" 200 27
+INFO 2021-01-06 01:18:14,592 basehttp 154 "GET /oauth_callback/?code=DB60C52C1876ACA099F3D8D3BB2B4E72 HTTP/1.1" 200 27
+WARNING 2021-01-06 01:18:17,111 log 228 Not Found: /carts/simple/
+WARNING 2021-01-06 01:18:17,122 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 3298
+INFO 2021-01-06 02:25:13,100 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-06 02:25:43,139 basehttp 154 "OPTIONS /logout/ HTTP/1.1" 200 0
+INFO 2021-01-06 02:25:43,500 basehttp 154 "DELETE /logout/ HTTP/1.1" 200 27
+INFO 2021-01-06 02:26:58,245 basehttp 154 "GET /oauth_callback/?code=00F994EAF4B96A1107B743BEBD70F420 HTTP/1.1" 200 247
+INFO 2021-01-06 02:26:59,266 basehttp 154 "GET /image_codes/ccaecfd3-ba0a-440f-8997-08104a16ac9d/ HTTP/1.1" 200 2927
+INFO 2021-01-06 02:27:10,865 basehttp 154 "GET /image_codes/1ed8fb40-59a0-4d2a-a2e7-cd46ffabc87b/ HTTP/1.1" 200 3164
+INFO 2021-01-06 02:27:20,931 basehttp 154 "GET /sms_codes/18310820680/?image_code=evg6&image_code_id=1ed8fb40-59a0-4d2a-a2e7-cd46ffabc87b HTTP/1.1" 200 27
+INFO 2021-01-06 02:27:43,816 basehttp 154 "OPTIONS /oauth_callback/ HTTP/1.1" 200 0
+INFO 2021-01-06 02:28:40,885 basehttp 154 "POST /oauth_callback/ HTTP/1.1" 200 27
+WARNING 2021-01-06 02:28:43,932 log 228 Not Found: /carts/simple/
+WARNING 2021-01-06 02:28:43,943 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 3298
+INFO 2021-01-06 02:46:19,155 basehttp 154 "GET /info/ HTTP/1.1" 200 130
+WARNING 2021-01-06 02:46:19,193 log 228 Not Found: /browse_histories/
+WARNING 2021-01-06 02:46:19,230 basehttp 154 "GET /browse_histories/ HTTP/1.1" 404 3310
+INFO 2021-01-06 02:47:50,074 basehttp 154 "OPTIONS /emails/ HTTP/1.1" 200 0
+WARNING 2021-01-06 02:47:50,202 log 228 Not Found: /emails/
+WARNING 2021-01-06 02:47:50,226 basehttp 154 "PUT /emails/ HTTP/1.1" 404 3280
+WARNING 2021-01-06 02:47:54,139 log 228 Not Found: /emails/
+WARNING 2021-01-06 02:47:54,151 basehttp 154 "PUT /emails/ HTTP/1.1" 404 3280
+WARNING 2021-01-06 02:47:58,927 log 228 Not Found: /emails/
+WARNING 2021-01-06 02:47:58,974 basehttp 154 "PUT /emails/ HTTP/1.1" 404 3280
+INFO 2021-01-06 02:52:20,887 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/users/models.py changed, reloading.
+INFO 2021-01-06 02:52:23,003 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-06 02:55:13,985 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-06 02:55:20,421 log 228 Not Found: /browse_histories/
+WARNING 2021-01-06 02:55:20,480 basehttp 154 "GET /browse_histories/ HTTP/1.1" 404 3310
+INFO 2021-01-06 02:55:20,607 basehttp 154 "GET /info/ HTTP/1.1" 200 130
+WARNING 2021-01-06 02:55:22,111 log 228 Not Found: /browse_histories/
+WARNING 2021-01-06 02:55:22,121 basehttp 154 "GET /browse_histories/ HTTP/1.1" 404 3310
+INFO 2021-01-06 02:55:22,126 basehttp 154 "GET /info/ HTTP/1.1" 200 130
+INFO 2021-01-06 02:58:58,918 basehttp 154 "OPTIONS /emails/verification/?token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTYwMjI5OTMzMSwiZXhwIjoxNjAyMzg1NzMxfQ.eyJ1c2VyX2lkIjozfQ.mX8OXkkd4MLhTQwCSgXQqHfh3TbcStmDmjXLCwvdErpq2zzhFfSEuRqR5wbL7cpj9DQbC8ZT1ZVc1_1CAqFK_A HTTP/1.1" 200 0
+WARNING 2021-01-06 02:58:59,180 log 228 Not Found: /emails/verification/
+WARNING 2021-01-06 02:58:59,187 basehttp 154 "PUT /emails/verification/?token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTYwMjI5OTMzMSwiZXhwIjoxNjAyMzg1NzMxfQ.eyJ1c2VyX2lkIjozfQ.mX8OXkkd4MLhTQwCSgXQqHfh3TbcStmDmjXLCwvdErpq2zzhFfSEuRqR5wbL7cpj9DQbC8ZT1ZVc1_1CAqFK_A HTTP/1.1" 404 3498
+INFO 2021-01-06 03:14:19,055 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-06 03:14:46,235 basehttp 154 "OPTIONS /emails/ HTTP/1.1" 200 0
+WARNING 2021-01-06 03:14:46,413 log 228 Not Found: /emails/
+WARNING 2021-01-06 03:14:46,425 basehttp 154 "PUT /emails/ HTTP/1.1" 404 3433
+INFO 2021-01-06 03:15:52,412 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-06 03:16:20,148 basehttp 154 "PUT /emails/ HTTP/1.1" 200 11
+INFO 2021-01-06 03:40:57,328 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-06 03:40:59,376 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-06 03:48:03,387 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/meiduo_mall/settings.py changed, reloading.
+INFO 2021-01-06 03:48:06,266 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-06 03:50:33,640 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-06 03:50:37,722 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-06 03:52:40,528 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-06 03:52:43,884 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-06 03:54:21,937 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-06 03:54:24,598 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-06 03:54:29,469 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-06 03:54:37,823 log 228 Not Found: /browse_histories/
+WARNING 2021-01-06 03:54:37,851 basehttp 154 "GET /browse_histories/ HTTP/1.1" 404 3464
+INFO 2021-01-06 03:54:37,925 basehttp 154 "GET /info/ HTTP/1.1" 200 148
+INFO 2021-01-06 03:55:01,061 basehttp 154 "OPTIONS /emails/ HTTP/1.1" 200 0
+INFO 2021-01-06 03:55:17,499 basehttp 154 "PUT /emails/ HTTP/1.1" 200 11
+INFO 2021-01-06 03:55:22,538 basehttp 154 "GET /info/ HTTP/1.1" 200 148
+WARNING 2021-01-06 03:55:22,581 log 228 Not Found: /browse_histories/
+WARNING 2021-01-06 03:55:22,585 basehttp 154 "GET /browse_histories/ HTTP/1.1" 404 3464
+INFO 2021-01-06 04:12:02,720 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-06 04:12:06,420 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-06 04:13:37,606 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-06 04:13:45,035 log 228 Not Found: /browse_histories/
+WARNING 2021-01-06 04:13:45,055 basehttp 154 "GET /browse_histories/ HTTP/1.1" 404 3464
+INFO 2021-01-06 04:13:45,097 basehttp 154 "GET /info/ HTTP/1.1" 200 148
+INFO 2021-01-06 04:13:46,478 basehttp 154 "OPTIONS /emails/ HTTP/1.1" 200 0
+INFO 2021-01-06 04:14:01,102 basehttp 154 "PUT /emails/ HTTP/1.1" 200 11
+INFO 2021-01-06 04:22:12,585 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-06 04:23:05,909 log 228 Not Found: /browse_histories/
+WARNING 2021-01-06 04:23:05,915 basehttp 154 "GET /browse_histories/ HTTP/1.1" 404 3464
+INFO 2021-01-06 04:23:05,948 basehttp 154 "GET /info/ HTTP/1.1" 200 148
+INFO 2021-01-06 04:23:19,772 basehttp 154 "PUT /emails/ HTTP/1.1" 200 11
+INFO 2021-01-06 04:27:19,932 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/celery_tasks/main.py changed, reloading.
+INFO 2021-01-06 04:27:22,082 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-06 04:27:33,836 log 228 Not Found: /browse_histories/
+WARNING 2021-01-06 04:27:33,854 basehttp 154 "GET /browse_histories/ HTTP/1.1" 404 3464
+INFO 2021-01-06 04:27:33,946 basehttp 154 "GET /info/ HTTP/1.1" 200 148
+INFO 2021-01-06 04:27:35,322 basehttp 154 "OPTIONS /emails/ HTTP/1.1" 200 0
+INFO 2021-01-06 04:27:40,193 basehttp 154 "PUT /emails/ HTTP/1.1" 200 11
+INFO 2021-01-06 04:27:48,000 basehttp 154 "GET /info/ HTTP/1.1" 200 148
+WARNING 2021-01-06 04:27:48,012 log 228 Not Found: /browse_histories/
+WARNING 2021-01-06 04:27:48,020 basehttp 154 "GET /browse_histories/ HTTP/1.1" 404 3464
+INFO 2021-01-06 04:27:48,707 basehttp 154 "PUT /emails/ HTTP/1.1" 200 11
+WARNING 2021-01-06 04:27:50,507 log 228 Not Found: /browse_histories/
+WARNING 2021-01-06 04:27:50,542 basehttp 154 "GET /browse_histories/ HTTP/1.1" 404 3464
+INFO 2021-01-06 04:27:50,544 basehttp 154 "GET /info/ HTTP/1.1" 200 148
+INFO 2021-01-06 04:27:51,086 basehttp 154 "PUT /emails/ HTTP/1.1" 200 11
+WARNING 2021-01-06 04:27:52,132 log 228 Not Found: /browse_histories/
+WARNING 2021-01-06 04:27:52,135 basehttp 154 "GET /browse_histories/ HTTP/1.1" 404 3464
+INFO 2021-01-06 04:27:52,178 basehttp 154 "GET /info/ HTTP/1.1" 200 148
+INFO 2021-01-06 04:27:52,964 basehttp 154 "PUT /emails/ HTTP/1.1" 200 11
+WARNING 2021-01-06 04:28:10,487 log 228 Not Found: /browse_histories/
+WARNING 2021-01-06 04:28:10,491 basehttp 154 "GET /browse_histories/ HTTP/1.1" 404 3464
+INFO 2021-01-06 04:28:10,530 basehttp 154 "GET /info/ HTTP/1.1" 200 148
+INFO 2021-01-06 04:28:11,512 basehttp 154 "PUT /emails/ HTTP/1.1" 200 11
+INFO 2021-01-06 07:01:32,055 basehttp 154 "OPTIONS /emails/verification/?token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTYwMjI5OTMzMSwiZXhwIjoxNjAyMzg1NzMxfQ.eyJ1c2VyX2lkIjozfQ.mX8OXkkd4MLhTQwCSgXQqHfh3TbcStmDmjXLCwvdErpq2zzhFfSEuRqR5wbL7cpj9DQbC8ZT1ZVc1_1CAqFK_A HTTP/1.1" 200 0
+WARNING 2021-01-06 07:01:32,382 log 228 Not Found: /emails/verification/
+WARNING 2021-01-06 07:01:32,390 basehttp 154 "PUT /emails/verification/?token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTYwMjI5OTMzMSwiZXhwIjoxNjAyMzg1NzMxfQ.eyJ1c2VyX2lkIjozfQ.mX8OXkkd4MLhTQwCSgXQqHfh3TbcStmDmjXLCwvdErpq2zzhFfSEuRqR5wbL7cpj9DQbC8ZT1ZVc1_1CAqFK_A HTTP/1.1" 404 3652
+WARNING 2021-01-06 07:02:29,233 log 228 Not Found: /browse_histories/
+WARNING 2021-01-06 07:02:29,247 basehttp 154 "GET /browse_histories/ HTTP/1.1" 404 3464
+INFO 2021-01-06 07:02:29,291 basehttp 154 "GET /info/ HTTP/1.1" 200 148
+INFO 2021-01-06 07:03:29,932 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/celery_tasks/email/tasks.py changed, reloading.
+INFO 2021-01-06 07:03:32,909 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-06 07:04:00,521 log 228 Not Found: /browse_histories/
+WARNING 2021-01-06 07:04:00,557 basehttp 154 "GET /browse_histories/ HTTP/1.1" 404 3464
+INFO 2021-01-06 07:04:00,642 basehttp 154 "GET /info/ HTTP/1.1" 200 148
+INFO 2021-01-06 07:04:01,733 basehttp 154 "OPTIONS /emails/ HTTP/1.1" 200 0
+INFO 2021-01-06 07:04:03,675 basehttp 154 "PUT /emails/ HTTP/1.1" 200 11
+WARNING 2021-01-06 07:04:26,644 log 228 Not Found: /carts/simple/
+WARNING 2021-01-06 07:04:26,659 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 3452
+WARNING 2021-01-06 07:06:29,469 log 228 Not Found: /carts/simple/
+WARNING 2021-01-06 07:06:29,475 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 3452
+WARNING 2021-01-06 07:06:32,416 log 228 Not Found: /carts/simple/
+WARNING 2021-01-06 07:06:32,434 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 3452
+WARNING 2021-01-06 07:06:34,957 log 228 Not Found: /carts/simple/
+WARNING 2021-01-06 07:06:34,963 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 3452
+WARNING 2021-01-06 07:06:37,898 log 228 Not Found: /carts/simple/
+WARNING 2021-01-06 07:06:37,935 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 3452
+INFO 2021-01-06 07:11:13,974 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-06 07:11:16,149 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-06 07:15:47,442 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-06 07:15:49,742 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-06 07:15:58,083 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-06 07:16:11,250 log 228 Not Found: /browse_histories/
+WARNING 2021-01-06 07:16:11,312 basehttp 154 "GET /browse_histories/ HTTP/1.1" 404 3464
+INFO 2021-01-06 07:16:11,319 basehttp 154 "GET /info/ HTTP/1.1" 200 148
+INFO 2021-01-06 07:16:14,061 basehttp 154 "OPTIONS /emails/ HTTP/1.1" 200 0
+INFO 2021-01-06 07:17:15,077 basehttp 154 "PUT /emails/ HTTP/1.1" 200 11
+INFO 2021-01-06 07:18:21,598 basehttp 154 "OPTIONS /emails/verification/?user_id=5 HTTP/1.1" 200 0
+WARNING 2021-01-06 07:18:21,774 log 228 Not Found: /emails/verification/
+WARNING 2021-01-06 07:18:21,780 basehttp 154 "PUT /emails/verification/?user_id=5 HTTP/1.1" 404 3483
+INFO 2021-01-06 07:30:08,613 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/users/utils.py changed, reloading.
+INFO 2021-01-06 07:30:10,478 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-06 07:51:11,335 log 228 Not Found: /browse_histories/
+WARNING 2021-01-06 07:51:11,356 basehttp 154 "GET /browse_histories/ HTTP/1.1" 404 3464
+INFO 2021-01-06 07:51:11,440 basehttp 154 "GET /info/ HTTP/1.1" 200 148
+INFO 2021-01-06 07:51:26,673 basehttp 154 "OPTIONS /emails/verification/?token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTYwOTkxNzM5NSwiZXhwIjoxNjA5OTIwOTk1fQ.eyJ1c2VyX2lkIjozfQ.zBmR1dMoJOtVUKMuGkL2YMxkOJz3I2xglbcIPtVYIId4eKOkvKFs_ae-4XWZVSupqNHf4-9tkBDBZU3fyDgXCg HTTP/1.1" 200 0
+WARNING 2021-01-06 07:51:26,885 log 228 Not Found: /emails/verification/
+WARNING 2021-01-06 07:51:26,900 basehttp 154 "PUT /emails/verification/?token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTYwOTkxNzM5NSwiZXhwIjoxNjA5OTIwOTk1fQ.eyJ1c2VyX2lkIjozfQ.zBmR1dMoJOtVUKMuGkL2YMxkOJz3I2xglbcIPtVYIId4eKOkvKFs_ae-4XWZVSupqNHf4-9tkBDBZU3fyDgXCg HTTP/1.1" 404 3652
+INFO 2021-01-06 08:05:41,803 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-06 08:05:46,962 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-06 08:07:25,510 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-06 08:07:27,549 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-06 08:07:52,836 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-06 08:07:58,046 basehttp 154 "OPTIONS /emails/ HTTP/1.1" 200 0
+INFO 2021-01-06 08:08:05,217 basehttp 154 "PUT /emails/ HTTP/1.1" 200 11
+INFO 2021-01-06 08:08:13,907 basehttp 154 "OPTIONS /emails/verification/?token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTYwOTkyMDQ4NCwiZXhwIjoxNjA5OTI0MDg0fQ.eyJ1c2VyX2lkIjozfQ.L6n-jq9_drgYnnLfT2mPSCSEwUe8fgNDHm8l7r-GREZBLDnBWWt3tgXkxbqSOSTJ88hNbrKQ-8uXs6T63EzCTg HTTP/1.1" 200 0
+WARNING 2021-01-06 08:08:14,051 base 90 Method Not Allowed (PUT): /emails/verification/
+WARNING 2021-01-06 08:08:14,088 log 228 Method Not Allowed: /emails/verification/
+WARNING 2021-01-06 08:08:14,103 basehttp 154 "PUT /emails/verification/?token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTYwOTkyMDQ4NCwiZXhwIjoxNjA5OTI0MDg0fQ.eyJ1c2VyX2lkIjozfQ.L6n-jq9_drgYnnLfT2mPSCSEwUe8fgNDHm8l7r-GREZBLDnBWWt3tgXkxbqSOSTJ88hNbrKQ-8uXs6T63EzCTg HTTP/1.1" 405 0
+INFO 2021-01-06 08:09:54,023 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-06 08:10:15,797 basehttp 154 "OPTIONS /emails/verification/?token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTYwOTkyMDQ4NCwiZXhwIjoxNjA5OTI0MDg0fQ.eyJ1c2VyX2lkIjozfQ.L6n-jq9_drgYnnLfT2mPSCSEwUe8fgNDHm8l7r-GREZBLDnBWWt3tgXkxbqSOSTJ88hNbrKQ-8uXs6T63EzCTg HTTP/1.1" 200 0
+INFO 2021-01-06 08:10:37,299 basehttp 154 "PUT /emails/verification/?token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTYwOTkyMDQ4NCwiZXhwIjoxNjA5OTI0MDg0fQ.eyJ1c2VyX2lkIjozfQ.L6n-jq9_drgYnnLfT2mPSCSEwUe8fgNDHm8l7r-GREZBLDnBWWt3tgXkxbqSOSTJ88hNbrKQ-8uXs6T63EzCTg HTTP/1.1" 200 27
+WARNING 2021-01-06 08:41:55,154 log 228 Not Found: /addresses/
+WARNING 2021-01-06 08:41:55,167 log 228 Not Found: /areas/
+WARNING 2021-01-06 08:41:55,170 basehttp 154 "GET /addresses/ HTTP/1.1" 404 3610
+WARNING 2021-01-06 08:41:55,176 basehttp 154 "GET /areas/ HTTP/1.1" 404 3598
+INFO 2021-01-06 08:51:58,185 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/meiduo_mall/settings.py changed, reloading.
+INFO 2021-01-06 08:52:00,386 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-06 09:08:05,719 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-06 09:08:23,172 basehttp 154 "GET /areas/ HTTP/1.1" 200 1772
+WARNING 2021-01-06 09:08:23,371 log 228 Not Found: /favicon.ico
+WARNING 2021-01-06 09:08:23,374 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 3766
+WARNING 2021-01-06 09:08:32,600 log 228 Not Found: /addresses/
+WARNING 2021-01-06 09:08:32,605 basehttp 154 "GET /addresses/ HTTP/1.1" 404 3763
+INFO 2021-01-06 09:08:32,644 basehttp 154 "GET /areas/ HTTP/1.1" 200 1772
+INFO 2021-01-07 09:57:37,250 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-07 09:57:52,357 log 228 Not Found: /carts/simple/
+WARNING 2021-01-07 09:57:52,359 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 3772
+INFO 2021-01-07 09:57:54,226 basehttp 154 "GET /image_codes/331eff7a-9d4e-406e-a9e9-7f51cc62cf1c/ HTTP/1.1" 200 2962
+INFO 2021-01-07 09:58:05,577 basehttp 154 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2021-01-07 09:58:05,721 basehttp 154 "POST /login/ HTTP/1.1" 200 27
+WARNING 2021-01-07 09:58:06,235 log 228 Not Found: /carts/simple/
+WARNING 2021-01-07 09:58:06,236 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 3772
+INFO 2021-01-07 09:58:09,376 basehttp 154 "GET /info/ HTTP/1.1" 200 70
+WARNING 2021-01-07 09:58:09,386 log 228 Not Found: /browse_histories/
+WARNING 2021-01-07 09:58:09,387 basehttp 154 "GET /browse_histories/ HTTP/1.1" 404 3784
+WARNING 2021-01-07 09:58:21,672 log 228 Not Found: /carts/simple/
+WARNING 2021-01-07 09:58:21,673 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 3772
+INFO 2021-01-07 09:58:23,791 basehttp 154 "GET /info/ HTTP/1.1" 200 128
+WARNING 2021-01-07 09:58:23,796 log 228 Not Found: /browse_histories/
+WARNING 2021-01-07 09:58:23,798 basehttp 154 "GET /browse_histories/ HTTP/1.1" 404 3784
+INFO 2021-01-07 09:58:31,327 basehttp 154 "OPTIONS /emails/ HTTP/1.1" 200 0
+INFO 2021-01-07 09:58:31,830 basehttp 154 "PUT /emails/ HTTP/1.1" 200 11
+WARNING 2021-01-07 10:01:25,887 log 228 Not Found: /browse_histories/
+INFO 2021-01-07 10:01:25,890 basehttp 154 "GET /info/ HTTP/1.1" 200 146
+WARNING 2021-01-07 10:01:25,892 basehttp 154 "GET /browse_histories/ HTTP/1.1" 404 3784
+INFO 2021-01-07 10:01:27,042 basehttp 154 "PUT /emails/ HTTP/1.1" 200 11
+INFO 2021-01-07 10:01:41,126 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-07 10:01:41,988 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-08 00:24:09,472 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-08 00:41:10,730 log 228 Not Found: /carts/simple/
+WARNING 2021-01-08 00:41:10,744 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 3772
+INFO 2021-01-08 00:41:12,663 basehttp 154 "GET /info/ HTTP/1.1" 200 70
+WARNING 2021-01-08 00:41:12,791 log 228 Not Found: /browse_histories/
+WARNING 2021-01-08 00:41:12,821 basehttp 154 "GET /browse_histories/ HTTP/1.1" 404 3784
+INFO 2021-01-08 00:41:17,189 basehttp 154 "OPTIONS /logout/ HTTP/1.1" 200 0
+INFO 2021-01-08 00:41:17,201 basehttp 154 "DELETE /logout/ HTTP/1.1" 200 27
+INFO 2021-01-08 00:41:25,130 basehttp 154 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2021-01-08 00:41:25,380 basehttp 154 "POST /login/ HTTP/1.1" 200 27
+WARNING 2021-01-08 00:41:26,803 log 228 Not Found: /carts/simple/
+WARNING 2021-01-08 00:41:26,806 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 3772
+WARNING 2021-01-08 00:41:29,356 log 228 Not Found: /browse_histories/
+INFO 2021-01-08 00:41:29,362 basehttp 154 "GET /info/ HTTP/1.1" 200 146
+WARNING 2021-01-08 00:41:29,381 basehttp 154 "GET /browse_histories/ HTTP/1.1" 404 3784
+INFO 2021-01-08 00:41:33,576 basehttp 154 "GET /areas/ HTTP/1.1" 200 1772
+WARNING 2021-01-08 00:41:33,586 log 228 Not Found: /addresses/
+WARNING 2021-01-08 00:41:33,592 basehttp 154 "GET /addresses/ HTTP/1.1" 404 3763
+WARNING 2021-01-08 00:41:49,469 log 228 Not Found: /areas/130000/
+WARNING 2021-01-08 00:41:49,471 basehttp 154 "GET /areas/130000/ HTTP/1.1" 404 3772
+INFO 2021-01-08 00:58:35,635 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/areas/urls.py changed, reloading.
+INFO 2021-01-08 00:58:38,552 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-08 01:03:38,791 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-08 01:04:23,316 basehttp 154 "GET /areas/140000/ HTTP/1.1" 200 557
+INFO 2021-01-08 01:04:48,488 basehttp 154 "GET /areas/140100/ HTTP/1.1" 200 529
+INFO 2021-01-08 01:05:04,446 basehttp 154 "GET /areas/130000/ HTTP/1.1" 200 657
+INFO 2021-01-08 01:05:16,521 basehttp 154 "GET /areas/130100/ HTTP/1.1" 200 1017
+INFO 2021-01-08 01:16:17,455 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/areas/views.py changed, reloading.
+INFO 2021-01-08 01:16:19,669 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-08 01:27:42,996 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-08 01:27:55,157 log 228 Not Found: /addresses/
+WARNING 2021-01-08 01:27:55,170 basehttp 154 "GET /addresses/ HTTP/1.1" 404 3927
+INFO 2021-01-08 01:28:13,190 basehttp 154 "GET /areas/ HTTP/1.1" 200 1772
+WARNING 2021-01-08 01:28:18,280 log 228 Not Found: /addresses/
+WARNING 2021-01-08 01:28:18,289 basehttp 154 "GET /addresses/ HTTP/1.1" 404 3927
+INFO 2021-01-08 01:28:31,188 basehttp 154 "GET /areas/ HTTP/1.1" 200 1772
+WARNING 2021-01-08 01:28:38,871 log 228 Not Found: /addresses/
+WARNING 2021-01-08 01:28:38,875 basehttp 154 "GET /addresses/ HTTP/1.1" 404 3927
+INFO 2021-01-08 01:28:43,204 basehttp 154 "GET /areas/ HTTP/1.1" 200 1772
+INFO 2021-01-08 01:48:50,661 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-08 01:49:13,257 basehttp 154 "GET /areas/130000/ HTTP/1.1" 200 657
+INFO 2021-01-08 01:50:17,193 basehttp 154 "GET /areas/130100/ HTTP/1.1" 200 657
+INFO 2021-01-08 01:50:45,938 basehttp 154 "GET /areas/140000/ HTTP/1.1" 200 657
+INFO 2021-01-08 01:51:43,801 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-08 01:52:07,238 basehttp 154 "GET /areas/130000/ HTTP/1.1" 200 657
+INFO 2021-01-08 01:52:24,795 basehttp 154 "GET /areas/140000/ HTTP/1.1" 200 557
+INFO 2021-01-08 01:52:36,467 basehttp 154 "GET /areas/130000/ HTTP/1.1" 200 657
+INFO 2021-01-08 01:52:48,413 basehttp 154 "GET /areas/140000/ HTTP/1.1" 200 557
+INFO 2021-01-08 01:53:00,037 basehttp 154 "GET /areas/140100/ HTTP/1.1" 200 529
+INFO 2021-01-08 01:56:05,973 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/areas/views.py changed, reloading.
+INFO 2021-01-08 01:56:08,048 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-08 02:02:13,544 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/users/models.py changed, reloading.
+INFO 2021-01-08 02:02:15,855 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-08 02:29:06,067 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-08 02:29:09,494 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-08 02:29:27,590 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-08 02:29:38,899 basehttp 154 "GET /areas/120000/ HTTP/1.1" 200 97
+INFO 2021-01-08 02:29:42,193 basehttp 154 "GET /areas/110000/ HTTP/1.1" 200 97
+INFO 2021-01-08 02:29:43,633 basehttp 154 "GET /areas/110100/ HTTP/1.1" 200 799
+INFO 2021-01-08 02:30:04,918 basehttp 154 "OPTIONS /addresses/create/ HTTP/1.1" 200 0
+INFO 2021-01-08 02:30:27,334 basehttp 154 "POST /addresses/create/ HTTP/1.1" 200 276
+WARNING 2021-01-08 02:30:27,901 log 228 Not Found: /addresses/
+WARNING 2021-01-08 02:30:27,920 basehttp 154 "GET /addresses/ HTTP/1.1" 404 4091
+INFO 2021-01-08 02:30:31,246 basehttp 154 "GET /areas/ HTTP/1.1" 200 1772
+INFO 2021-01-08 03:04:19,738 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-08 03:04:24,935 basehttp 154 "GET /areas/ HTTP/1.1" 200 1772
+INFO 2021-01-08 03:04:38,488 basehttp 154 "GET /addresses/ HTTP/1.1" 200 308
+INFO 2021-01-08 03:05:08,633 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-08 03:05:11,792 basehttp 154 "GET /areas/ HTTP/1.1" 200 1772
+INFO 2021-01-08 03:05:14,508 basehttp 154 "GET /addresses/ HTTP/1.1" 200 308
+INFO 2021-01-08 03:52:38,285 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/meiduo_mall/settings.py changed, reloading.
+INFO 2021-01-08 03:52:40,919 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-08 03:58:17,503 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/meiduo_mall/settings.py changed, reloading.
+INFO 2021-01-08 03:58:19,657 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-08 08:20:23,138 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/meiduo_mall/settings.py changed, reloading.
+INFO 2021-01-08 08:20:32,278 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-08 08:26:18,560 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-08 08:26:51,987 basehttp 154 "GET /index/ HTTP/1.1" 200 123412
+WARNING 2021-01-08 08:26:52,276 basehttp 154 "GET /static/images/logo.png HTTP/1.1" 404 1675
+WARNING 2021-01-08 08:26:53,000 log 228 Not Found: /index/CtM3BVrLmc-AJdVSAAEI5Wm7zaw8639396.png
+WARNING 2021-01-08 08:26:53,025 basehttp 154 "GET /index/CtM3BVrLmc-AJdVSAAEI5Wm7zaw8639396.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:26:53,366 log 228 Not Found: /index/CtM3BVrLmnaADtSKAAGlxZuk7uk4998927.png
+WARNING 2021-01-08 08:26:55,883 log 228 Not Found: /index/CtM3BVrLmkaAPIMJAAESCG7GAh43642702.png
+WARNING 2021-01-08 08:26:55,944 log 228 Not Found: /index/CtM3BVrLmiKANEeLAAFfMRWFbY86177278.png
+WARNING 2021-01-08 08:26:55,954 basehttp 154 "GET /index/CtM3BVrLmnaADtSKAAGlxZuk7uk4998927.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:26:56,004 basehttp 154 "GET /index/CtM3BVrLmkaAPIMJAAESCG7GAh43642702.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:26:56,031 basehttp 154 "GET /index/CtM3BVrLmiKANEeLAAFfMRWFbY86177278.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:26:53,816 log 228 Not Found: /index/CtM3BVrMexWAfodJAAAhg8MeEWU8364862.png
+WARNING 2021-01-08 08:26:53,912 log 228 Not Found: /index/CtM3BVrLnHaATJWfAABcalxfbWk5995788.png
+WARNING 2021-01-08 08:26:53,928 basehttp 154 "GET /index/CtM3BVrMexWAfodJAAAhg8MeEWU8364862.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:26:54,109 basehttp 154 "GET /index/CtM3BVrLnHaATJWfAABcalxfbWk5995788.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:26:54,430 log 228 Not Found: /index/CtM3BVrMe2KAGXDKAAAVASh8SzY6938726.png
+WARNING 2021-01-08 08:26:54,557 basehttp 154 "GET /index/CtM3BVrMe2KAGXDKAAAVASh8SzY6938726.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:26:54,564 log 228 Not Found: /index/CtM3BVrMgWyAH_f1AAAQuFJkR2o1196559.png
+WARNING 2021-01-08 08:26:54,657 basehttp 154 "GET /index/CtM3BVrMgWyAH_f1AAAQuFJkR2o1196559.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:26:54,695 log 228 Not Found: /index/CtM3BVrMgQuAM4-sAABPvjDmrZE7647305.png
+WARNING 2021-01-08 08:26:54,807 log 228 Not Found: /index/CtM3BVrMgX2AeXiGAABuWTn7Wr09762364.png
+WARNING 2021-01-08 08:26:54,814 basehttp 154 "GET /index/CtM3BVrMgQuAM4-sAABPvjDmrZE7647305.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:26:54,843 basehttp 154 "GET /index/CtM3BVrMgX2AeXiGAABuWTn7Wr09762364.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:26:54,953 log 228 Not Found: /index/CtM3BVrMgbiARBnzAABbhp78Lqs6191821.png
+WARNING 2021-01-08 08:26:55,008 basehttp 154 "GET /index/CtM3BVrMgbiARBnzAABbhp78Lqs6191821.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:26:55,321 log 228 Not Found: /index/CtM3BVrMgeuAYEocAABd3TzhhGw1571126.png
+WARNING 2021-01-08 08:26:55,397 basehttp 154 "GET /index/CtM3BVrMgeuAYEocAABd3TzhhGw1571126.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:26:55,675 log 228 Not Found: /index/CtM3BVrMgo6Aa3OTAAA82h3PXzw9976088.png
+WARNING 2021-01-08 08:26:55,720 log 228 Not Found: /index/CtM3BVrMgmyAB_1AAABoaAzPPW86045138.png
+WARNING 2021-01-08 08:26:55,797 basehttp 154 "GET /index/CtM3BVrMgo6Aa3OTAAA82h3PXzw9976088.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:26:55,823 basehttp 154 "GET /index/CtM3BVrMgmyAB_1AAABoaAzPPW86045138.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:26:55,874 log 228 Not Found: /index/CtM3BVrMgkaAWyHAAABbrVH9a7o5762009.png
+WARNING 2021-01-08 08:26:55,949 basehttp 154 "GET /index/CtM3BVrMgkaAWyHAAABbrVH9a7o5762009.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:26:55,983 log 228 Not Found: /index/CtM3BVrMg_qACjBsAAActVXQUoc6433633.png
+WARNING 2021-01-08 08:26:56,061 log 228 Not Found: /carts/simple/
+WARNING 2021-01-08 08:26:56,146 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4410
+WARNING 2021-01-08 08:26:56,192 basehttp 154 "GET /index/CtM3BVrMg_qACjBsAAActVXQUoc6433633.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:26:56,306 log 228 Not Found: /index/CtM3BVrLm_iAILnwAACbl1lbG3U8255973.png
+WARNING 2021-01-08 08:26:56,410 basehttp 154 "GET /static/images/logo.png HTTP/1.1" 404 1675
+WARNING 2021-01-08 08:26:56,413 basehttp 154 "GET /index/CtM3BVrLm_iAILnwAACbl1lbG3U8255973.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:26:56,824 log 228 Not Found: /index/CtM3BVrMhBeAaZ9OAABuZHjPsV88472096.png
+WARNING 2021-01-08 08:26:56,931 log 228 Not Found: /index/CtM3BVrMhFuAB5eZAAAaQIF-UNs3707070.png
+WARNING 2021-01-08 08:26:56,936 log 228 Not Found: /index/CtM3BVrMhH6AAjD4AABS1vBu6x01229529.png
+WARNING 2021-01-08 08:26:56,952 log 228 Not Found: /index/CtM3BVrMhDWAEwgEAABPce7je4w1228836.png
+WARNING 2021-01-08 08:26:56,979 basehttp 154 "GET /index/CtM3BVrMhBeAaZ9OAABuZHjPsV88472096.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:26:57,003 basehttp 154 "GET /index/CtM3BVrMhFuAB5eZAAAaQIF-UNs3707070.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:26:57,090 basehttp 154 "GET /index/CtM3BVrMhDWAEwgEAABPce7je4w1228836.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:26:57,176 basehttp 154 "GET /index/CtM3BVrMhH6AAjD4AABS1vBu6x01229529.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:26:57,430 log 228 Not Found: /index/CtM3BVrMhVCAFC8tAABonSNLGHA3584281.png
+WARNING 2021-01-08 08:26:57,499 basehttp 154 "GET /index/CtM3BVrMhVCAFC8tAABonSNLGHA3584281.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:26:57,978 log 228 Not Found: /index/CtM3BVrMhYyAOjMVAABU1kCuf_48013827.png
+WARNING 2021-01-08 08:26:58,054 log 228 Not Found: /index/CtM3BVrMhW6Ac7QMAABd3TzhhGw0583536.png
+WARNING 2021-01-08 08:26:58,108 log 228 Not Found: /index/CtM3BVrMhaSAK3QLAAA7LKRGwzQ0348867.png
+WARNING 2021-01-08 08:26:58,109 basehttp 154 "GET /index/CtM3BVrMhYyAOjMVAABU1kCuf_48013827.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:26:58,112 basehttp 154 "GET /index/CtM3BVrMhW6Ac7QMAABd3TzhhGw0583536.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:26:58,126 log 228 Not Found: /index/CtM3BVrMhjOAdMNbAAAR1JGA_cA5064317.png
+WARNING 2021-01-08 08:26:58,131 basehttp 154 "GET /index/CtM3BVrMhaSAK3QLAAA7LKRGwzQ0348867.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:26:58,351 log 228 Not Found: /index/CtM3BVrMhlSAP_27AAAW_YBdNEk8530912.png
+WARNING 2021-01-08 08:26:58,397 basehttp 154 "GET /index/CtM3BVrMhjOAdMNbAAAR1JGA_cA5064317.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:26:58,411 basehttp 154 "GET /index/CtM3BVrMhlSAP_27AAAW_YBdNEk8530912.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:26:58,707 log 228 Not Found: /index/CtM3BVrMhniADXZpAAALTWT-dfQ6160056.png
+WARNING 2021-01-08 08:26:58,711 basehttp 154 "GET /index/CtM3BVrMhniADXZpAAALTWT-dfQ6160056.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:26:59,279 log 228 Not Found: /index/CtM3BVrMhpiAV3lJAABiLlkgy2Y9166507.png
+WARNING 2021-01-08 08:26:59,347 log 228 Not Found: /index/CtM3BVrMhveAOh8EAAA1ykQ-kAU6900992.png
+WARNING 2021-01-08 08:26:59,402 log 228 Not Found: /index/CtM3BVrMh0qAavITAABOVXYg3SI5232882.png
+WARNING 2021-01-08 08:26:59,328 basehttp 154 "GET /index/CtM3BVrMhpiAV3lJAABiLlkgy2Y9166507.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:26:59,406 log 228 Not Found: /index/CtM3BVrMhyuAEf95AABFDj_owsg4241256.png
+WARNING 2021-01-08 08:26:59,419 basehttp 154 "GET /index/CtM3BVrMh0qAavITAABOVXYg3SI5232882.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:26:59,444 basehttp 154 "GET /index/CtM3BVrMhveAOh8EAAA1ykQ-kAU6900992.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:26:59,611 basehttp 154 "GET /index/CtM3BVrMhyuAEf95AABFDj_owsg4241256.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:26:59,932 log 228 Not Found: /index/CtM3BVrMh4eAWdF2AAA-Fkkc5rM1921911.png
+WARNING 2021-01-08 08:26:59,976 basehttp 154 "GET /index/CtM3BVrMh4eAWdF2AAA-Fkkc5rM1921911.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:00,281 log 228 Not Found: /index/CtM3BVrMh62AUlDTAAA-SfqPszY5890026.png
+WARNING 2021-01-08 08:27:00,303 basehttp 154 "GET /index/CtM3BVrMh62AUlDTAAA-SfqPszY5890026.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:00,321 log 228 Not Found: /index/CtM3BVrMhRCAB5hsAAAQZye4aIM5257140.png
+WARNING 2021-01-08 08:27:00,445 basehttp 154 "GET /index/CtM3BVrMhRCAB5hsAAAQZye4aIM5257140.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:00,607 log 228 Not Found: /index/CtM3BVrNr2-AbNUxAABwpN-gR8E7784256.png
+WARNING 2021-01-08 08:27:00,620 basehttp 154 "GET /index/CtM3BVrNr2-AbNUxAABwpN-gR8E7784256.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:00,657 log 228 Not Found: /index/CtM3BVrNr0iAAbCEAABZEWPGxc48830214.png
+WARNING 2021-01-08 08:27:00,673 log 228 Not Found: /index/CtM3BVrNsOuAQbJYAABoachTxTo8223966.png
+WARNING 2021-01-08 08:27:00,744 basehttp 154 "GET /index/CtM3BVrNsOuAQbJYAABoachTxTo8223966.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:00,768 basehttp 154 "GET /index/CtM3BVrNr0iAAbCEAABZEWPGxc48830214.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:01,247 log 228 Not Found: /index/CtM3BVrNr6iAWKHsAAAcWfJ6OD00441704.png
+WARNING 2021-01-08 08:27:01,309 basehttp 154 "GET /index/CtM3BVrNr6iAWKHsAAAcWfJ6OD00441704.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:01,627 log 228 Not Found: /index/CtM3BVrNr8KAD6b2AAByGLpNQV01684706.png
+WARNING 2021-01-08 08:27:01,788 basehttp 154 "GET /index/CtM3BVrNr8KAD6b2AAByGLpNQV01684706.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:01,797 log 228 Not Found: /index/CtM3BVrNsCuAUvllAAAOkY17G984349519.png
+WARNING 2021-01-08 08:27:01,965 basehttp 154 "GET /index/CtM3BVrNsCuAUvllAAAOkY17G984349519.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:02,196 log 228 Not Found: /index/CtM3BVrNsA2AQUMbAAAbb_vBV6I1599925.png
+WARNING 2021-01-08 08:27:02,311 log 228 Not Found: /index/CtM3BVrNsEGAZTfyAAAasplERbc8856337.png
+WARNING 2021-01-08 08:27:02,344 basehttp 154 "GET /index/CtM3BVrNsA2AQUMbAAAbb_vBV6I1599925.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:02,447 basehttp 154 "GET /index/CtM3BVrNsEGAZTfyAAAasplERbc8856337.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:02,694 log 228 Not Found: /index/CtM3BVrNsGCAeDZeAABtIYY5-s41601603.png
+WARNING 2021-01-08 08:27:02,762 basehttp 154 "GET /index/CtM3BVrNsGCAeDZeAABtIYY5-s41601603.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:03,261 log 228 Not Found: /index/CtM3BVrMisuAJnyWAABYJxXfN8w9822011.png
+WARNING 2021-01-08 08:27:03,298 log 228 Not Found: /index/CtM3BVrNsHyANXdyAABeDo_Qzeg1095047.png
+WARNING 2021-01-08 08:27:03,325 basehttp 154 "GET /index/CtM3BVrMisuAJnyWAABYJxXfN8w9822011.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:03,392 basehttp 154 "GET /index/CtM3BVrNsHyANXdyAABeDo_Qzeg1095047.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:03,626 log 228 Not Found: /index/CtM3BVrMivSAUTWcAAANpJ-t9xg5938130.png
+WARNING 2021-01-08 08:27:03,749 basehttp 154 "GET /index/CtM3BVrMivSAUTWcAAANpJ-t9xg5938130.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:03,926 log 228 Not Found: /index/CtM3BVrNrd2AbRH-AAALOATUqqM8030242.png
+WARNING 2021-01-08 08:27:03,935 log 228 Not Found: /index/CtM3BVrNrY-AdBacAAA7DYB8sjU0120233.png
+WARNING 2021-01-08 08:27:03,980 basehttp 154 "GET /index/CtM3BVrNrY-AdBacAAA7DYB8sjU0120233.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:03,989 basehttp 154 "GET /index/CtM3BVrNrd2AbRH-AAALOATUqqM8030242.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:04,198 log 228 Not Found: /index/CtM3BVrNrf-AJ1ZjAAB_vAApFkw8201014.png
+WARNING 2021-01-08 08:27:04,253 basehttp 154 "GET /index/CtM3BVrNrf-AJ1ZjAAB_vAApFkw8201014.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:04,270 log 228 Not Found: /index/CtM3BVrNrkOAYXcbAABQocGJtes4517631.png
+WARNING 2021-01-08 08:27:04,384 basehttp 154 "GET /index/CtM3BVrNrkOAYXcbAABQocGJtes4517631.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:04,934 log 228 Not Found: /index/CtM3BVrNrq-AbFajAABb8Hp05302964728.png
+WARNING 2021-01-08 08:27:04,981 log 228 Not Found: /index/CtM3BVrNrmeAPQkiAAAKCg08y3w4028142.png
+WARNING 2021-01-08 08:27:05,047 basehttp 154 "GET /index/CtM3BVrNrq-AbFajAABb8Hp05302964728.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:05,065 basehttp 154 "GET /index/CtM3BVrNrmeAPQkiAAAKCg08y3w4028142.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:05,070 log 228 Not Found: /index/CtM3BVrhyhmAehqbAAA3XtuXCto1322736.png
+WARNING 2021-01-08 08:27:05,161 log 228 Not Found: /index/CtM3BVrNroeAUxHkAAAKhSBwnSk3723835.png
+WARNING 2021-01-08 08:27:05,220 basehttp 154 "GET /index/CtM3BVrhyhmAehqbAAA3XtuXCto1322736.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:05,246 log 228 Not Found: /index/CtM3BVrNsbqAbi4CAABYmW4pmPA1782942.png
+WARNING 2021-01-08 08:27:05,247 basehttp 154 "GET /index/CtM3BVrNroeAUxHkAAAKhSBwnSk3723835.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:05,291 log 228 Not Found: /index/CtM3BVrNrs2AMHPbAABMxVYJeMo0602527.png
+WARNING 2021-01-08 08:27:05,378 basehttp 154 "GET /index/CtM3BVrNsbqAbi4CAABYmW4pmPA1782942.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:05,481 basehttp 154 "GET /index/CtM3BVrNrs2AMHPbAABMxVYJeMo0602527.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:05,697 log 228 Not Found: /index/CtM3BVrNsxaAeU4HAAAkQDJCGSY6809195.png
+WARNING 2021-01-08 08:27:05,719 basehttp 154 "GET /index/CtM3BVrNsxaAeU4HAAAkQDJCGSY6809195.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:05,934 log 228 Not Found: /index/CtM3BVrNsuuAQo25AAAmP_AGNMA9808303.png
+WARNING 2021-01-08 08:27:06,000 basehttp 154 "GET /index/CtM3BVrNsuuAQo25AAAmP_AGNMA9808303.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:06,232 log 228 Not Found: /index/CtM3BVrNs4KAIlJKAAAQmKypd2c1901811.png
+WARNING 2021-01-08 08:27:06,386 basehttp 154 "GET /index/CtM3BVrNs4KAIlJKAAAQmKypd2c1901811.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:06,719 log 228 Not Found: /index/CtM3BVrNs2SAf2DEAAAGl2-3v5k2172012.png
+WARNING 2021-01-08 08:27:06,729 log 228 Not Found: /index/CtM3BVrNs6aAea7bAAAIoddXpoA5854653.png
+WARNING 2021-01-08 08:27:06,749 basehttp 154 "GET /index/CtM3BVrNs6aAea7bAAAIoddXpoA5854653.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:06,768 log 228 Not Found: /index/CtM3BVrNs8WAZsplAAB-c4wo3kI9077289.png
+WARNING 2021-01-08 08:27:06,825 basehttp 154 "GET /index/CtM3BVrNs8WAZsplAAB-c4wo3kI9077289.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:06,848 basehttp 154 "GET /index/CtM3BVrNs2SAf2DEAAAGl2-3v5k2172012.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:07,202 log 228 Not Found: /index/CtM3BVrNs-SAaLqBAAAPB44z-fw7327519.png
+WARNING 2021-01-08 08:27:07,280 basehttp 154 "GET /index/CtM3BVrNs-SAaLqBAAAPB44z-fw7327519.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:07,596 log 228 Not Found: /index/CtM3BVrNtMWANuqTAACac0TCaxU2674435.png
+WARNING 2021-01-08 08:27:07,655 log 228 Not Found: /index/CtM3BVrNtA6AFtbDAAAVJIjSdl43078544.png
+WARNING 2021-01-08 08:27:07,665 basehttp 154 "GET /index/CtM3BVrNtMWANuqTAACac0TCaxU2674435.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:07,758 log 228 Not Found: /index/CtM3BVrNtDGAdlzlAAAZZRjOIrQ5323041.png
+WARNING 2021-01-08 08:27:07,753 basehttp 154 "GET /index/CtM3BVrNtA6AFtbDAAAVJIjSdl43078544.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:07,802 log 228 Not Found: /index/CtM3BVrNtOiAKex1AAAOZc14LLQ2319263.png
+WARNING 2021-01-08 08:27:07,807 basehttp 154 "GET /index/CtM3BVrNtDGAdlzlAAAZZRjOIrQ5323041.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:07,862 basehttp 154 "GET /index/CtM3BVrNtOiAKex1AAAOZc14LLQ2319263.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:08,053 log 228 Not Found: /index/CtM3BVrNtRGAGUbMAACY-WS_oQg9101415.png
+WARNING 2021-01-08 08:27:08,214 basehttp 154 "GET /index/CtM3BVrNtRGAGUbMAACY-WS_oQg9101415.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:08,356 log 228 Not Found: /index/CtM3BVrNszaAMu2PAACwnbap8zI9797082.png
+WARNING 2021-01-08 08:27:08,526 basehttp 154 "GET /index/CtM3BVrNszaAMu2PAACwnbap8zI9797082.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:08,565 log 228 Not Found: /index/CtM3BVrNtUGACPW-AAAWNwYc_Yg9317761.png
+WARNING 2021-01-08 08:27:08,862 log 228 Not Found: /index/CtM3BVrNtWKAUKPkAADhQEAcAgQ4155172.png
+WARNING 2021-01-08 08:27:08,865 basehttp 154 "GET /index/CtM3BVrNtUGACPW-AAAWNwYc_Yg9317761.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:08,893 log 228 Not Found: /index/CtM3BVrNtY2ABEOfAAAWaWuGKss3304555.png
+WARNING 2021-01-08 08:27:08,932 basehttp 154 "GET /index/CtM3BVrNtY2ABEOfAAAWaWuGKss3304555.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:08,939 basehttp 154 "GET /index/CtM3BVrNtWKAUKPkAADhQEAcAgQ4155172.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:09,012 log 228 Not Found: /index/CtM3BVrNtamAdrqPAAAYsg3AvQ86108884.png
+WARNING 2021-01-08 08:27:09,078 basehttp 154 "GET /index/CtM3BVrNtamAdrqPAAAYsg3AvQ86108884.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:09,188 log 228 Not Found: /index/CtM3BVrNtcOAYTH1AABVIz70wKU1556174.png
+WARNING 2021-01-08 08:27:09,348 basehttp 154 "GET /index/CtM3BVrNtcOAYTH1AABVIz70wKU1556174.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:09,724 log 228 Not Found: /index/CtM3BVrNtf-AY0FGAAAZwGscZq42512400.png
+WARNING 2021-01-08 08:27:09,789 basehttp 154 "GET /index/CtM3BVrNtf-AY0FGAAAZwGscZq42512400.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:09,764 log 228 Not Found: /index/CtM3BVrLmc-AJdVSAAEI5Wm7zaw8639396.png
+WARNING 2021-01-08 08:27:09,834 basehttp 154 "GET /index/CtM3BVrLmc-AJdVSAAEI5Wm7zaw8639396.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:09,859 log 228 Not Found: /index/CtM3BVrLmkaAPIMJAAESCG7GAh43642702.png
+WARNING 2021-01-08 08:27:10,011 log 228 Not Found: /index/CtM3BVrLmiKANEeLAAFfMRWFbY86177278.png
+WARNING 2021-01-08 08:27:10,021 basehttp 154 "GET /index/CtM3BVrLmkaAPIMJAAESCG7GAh43642702.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:10,115 basehttp 154 "GET /index/CtM3BVrLmiKANEeLAAFfMRWFbY86177278.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:10,228 log 228 Not Found: /index/CtM3BVrLmnaADtSKAAGlxZuk7uk4998927.png
+WARNING 2021-01-08 08:27:10,261 basehttp 154 "GET /index/CtM3BVrLmnaADtSKAAGlxZuk7uk4998927.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:10,398 log 228 Not Found: /index/CtM3BVrLnHaATJWfAABcalxfbWk5995788.png
+WARNING 2021-01-08 08:27:10,410 log 228 Not Found: /index/CtM3BVrMexWAfodJAAAhg8MeEWU8364862.png
+WARNING 2021-01-08 08:27:10,414 basehttp 154 "GET /index/CtM3BVrMexWAfodJAAAhg8MeEWU8364862.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:10,417 basehttp 154 "GET /index/CtM3BVrLnHaATJWfAABcalxfbWk5995788.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:10,635 log 228 Not Found: /index/CtM3BVrNteKAZhHCAAAMrIL-ugE2533088.png
+WARNING 2021-01-08 08:27:10,677 basehttp 154 "GET /index/CtM3BVrNteKAZhHCAAAMrIL-ugE2533088.png HTTP/1.1" 404 4503
+WARNING 2021-01-08 08:27:11,079 log 228 Not Found: /favicon.ico
+WARNING 2021-01-08 08:27:11,090 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 4404
+WARNING 2021-01-08 08:52:01,624 log 228 Not Found: /index/CtM3BVrLmc-AJdVSAAEI5Wm7zaw8639396.png
+WARNING 2021-01-08 08:52:01,634 basehttp 154 "GET /index/CtM3BVrLmc-AJdVSAAEI5Wm7zaw8639396.png HTTP/1.1" 404 4503
+INFO 2021-01-08 09:09:55,343 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-08 09:10:12,883 basehttp 154 "GET /index/ HTTP/1.1" 200 126184
+WARNING 2021-01-08 09:10:13,144 basehttp 154 "GET /static/images/logo.png HTTP/1.1" 404 1675
+WARNING 2021-01-08 09:10:14,417 log 228 Not Found: /carts/simple/
+WARNING 2021-01-08 09:10:14,446 basehttp 154 "GET /static/images/logo.png HTTP/1.1" 404 1675
+WARNING 2021-01-08 09:10:14,462 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4410
+WARNING 2021-01-08 09:13:23,755 log 228 Not Found: /carts/simple/
+WARNING 2021-01-08 09:13:23,759 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4410
+INFO 2021-01-08 11:23:45,936 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-08 11:24:13,507 log 228 Not Found: /carts/simple/
+WARNING 2021-01-08 11:24:13,508 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4410
+INFO 2021-01-09 00:22:36,192 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-09 00:26:19,545 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 00:26:19,561 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4410
+INFO 2021-01-09 00:46:29,909 basehttp 154 "GET /index/ HTTP/1.1" 200 126184
+WARNING 2021-01-09 00:46:30,176 basehttp 154 "GET /static/images/logo.png HTTP/1.1" 404 1675
+WARNING 2021-01-09 00:46:33,723 basehttp 154 "GET /static/images/logo.png HTTP/1.1" 404 1675
+WARNING 2021-01-09 00:46:33,762 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 00:46:33,769 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4410
+WARNING 2021-01-09 00:46:33,876 log 228 Not Found: /favicon.ico
+WARNING 2021-01-09 00:46:33,887 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 4404
+INFO 2021-01-09 01:26:56,100 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-09 01:27:37,033 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 01:27:37,044 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4587
+WARNING 2021-01-09 01:27:37,197 log 228 Not Found: /hot/115/
+WARNING 2021-01-09 01:27:37,266 basehttp 154 "GET /hot/115/ HTTP/1.1" 404 4572
+INFO 2021-01-09 01:28:15,806 basehttp 154 "GET /list/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1526
+INFO 2021-01-09 01:28:40,274 basehttp 154 "GET /list/115/skus/?page=1&page_size=5&ordering=price HTTP/1.1" 200 1524
+INFO 2021-01-09 01:28:51,532 basehttp 154 "GET /list/115/skus/?page=2&page_size=5&ordering=price HTTP/1.1" 200 1465
+INFO 2021-01-09 02:03:31,272 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-09 02:03:36,884 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 02:03:36,915 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4758
+INFO 2021-01-09 02:03:45,211 basehttp 154 "GET /hot/115/ HTTP/1.1" 200 568
+INFO 2021-01-09 02:03:45,298 basehttp 154 "GET /list/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1526
+INFO 2021-01-09 02:32:05,634 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/goods/views.py changed, reloading.
+INFO 2021-01-09 02:32:10,472 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-09 02:32:41,611 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-09 02:32:51,539 basehttp 154 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2021-01-09 02:32:51,564 basehttp 154 "OPTIONS /detail/visit/115/ HTTP/1.1" 200 0
+WARNING 2021-01-09 02:32:52,066 log 228 Not Found: /browse_histories/
+WARNING 2021-01-09 02:32:52,113 log 228 Not Found: /detail/visit/115/
+WARNING 2021-01-09 02:32:52,127 basehttp 154 "POST /browse_histories/ HTTP/1.1" 404 4940
+WARNING 2021-01-09 02:32:52,139 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 02:32:52,163 basehttp 154 "POST /detail/visit/115/ HTTP/1.1" 404 4940
+WARNING 2021-01-09 02:32:52,169 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4927
+INFO 2021-01-09 02:33:07,536 basehttp 154 "GET /detail/1/ HTTP/1.1" 200 108983
+WARNING 2021-01-09 02:33:07,872 log 228 Not Found: /images/logo.png
+WARNING 2021-01-09 02:33:07,910 basehttp 154 "GET /images/logo.png HTTP/1.1" 404 4933
+WARNING 2021-01-09 02:33:08,778 log 228 Not Found: /images/logo.png
+WARNING 2021-01-09 02:33:08,817 basehttp 154 "GET /images/logo.png HTTP/1.1" 404 4933
+INFO 2021-01-09 02:33:13,776 basehttp 154 "GET /detail/1/ HTTP/1.1" 200 108983
+INFO 2021-01-09 02:33:34,441 basehttp 154 "GET /detail/10/ HTTP/1.1" 200 107266
+WARNING 2021-01-09 02:33:34,642 log 228 Not Found: /images/logo.png
+WARNING 2021-01-09 02:33:34,688 basehttp 154 "GET /images/logo.png HTTP/1.1" 404 4933
+INFO 2021-01-09 02:33:39,393 basehttp 154 "GET /detail/10/ HTTP/1.1" 200 107266
+WARNING 2021-01-09 02:33:55,850 log 228 Not Found: /browse_histories/
+WARNING 2021-01-09 02:33:55,867 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 02:33:55,886 log 228 Not Found: /detail/visit/115/
+WARNING 2021-01-09 02:33:55,899 basehttp 154 "POST /detail/visit/115/ HTTP/1.1" 404 4940
+WARNING 2021-01-09 02:33:55,903 basehttp 154 "POST /browse_histories/ HTTP/1.1" 404 4940
+WARNING 2021-01-09 02:33:55,912 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4927
+INFO 2021-01-09 02:35:51,288 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/goods/views.py changed, reloading.
+INFO 2021-01-09 02:35:54,170 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-09 02:59:29,661 basehttp 154 "GET /index/ HTTP/1.1" 200 126184
+WARNING 2021-01-09 02:59:29,928 basehttp 154 "GET /static/images/logo.png HTTP/1.1" 404 1675
+WARNING 2021-01-09 02:59:31,269 basehttp 154 "GET /static/images/logo.png HTTP/1.1" 404 1675
+WARNING 2021-01-09 02:59:31,421 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 02:59:31,431 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4927
+INFO 2021-01-09 03:04:26,431 basehttp 154 "GET /index/ HTTP/1.1" 200 126184
+WARNING 2021-01-09 03:04:26,598 basehttp 154 "GET /static/images/logo.png HTTP/1.1" 404 1675
+WARNING 2021-01-09 03:04:28,905 basehttp 154 "GET /static/images/logo.png HTTP/1.1" 404 1675
+WARNING 2021-01-09 03:04:28,973 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 03:04:28,988 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4927
+WARNING 2021-01-09 03:09:52,137 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 03:09:52,142 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4927
+WARNING 2021-01-09 03:10:43,559 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 03:10:43,579 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4927
+WARNING 2021-01-09 03:11:36,452 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 03:11:36,485 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4927
+WARNING 2021-01-09 03:29:45,843 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 03:29:45,864 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4927
+INFO 2021-01-09 03:30:01,768 basehttp 154 "GET /index/ HTTP/1.1" 200 126184
+WARNING 2021-01-09 03:30:01,883 basehttp 154 "GET /static/images/logo.png HTTP/1.1" 404 1675
+WARNING 2021-01-09 03:30:03,995 basehttp 154 "GET /static/images/logo.png HTTP/1.1" 404 1675
+WARNING 2021-01-09 03:30:04,076 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 03:30:04,081 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4927
+WARNING 2021-01-09 03:30:14,115 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 03:30:14,123 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4927
+INFO 2021-01-09 03:30:19,928 basehttp 154 "GET /index/ HTTP/1.1" 200 126184
+WARNING 2021-01-09 03:30:20,012 basehttp 154 "GET /static/images/logo.png HTTP/1.1" 404 1675
+WARNING 2021-01-09 03:30:20,975 basehttp 154 "GET /static/images/logo.png HTTP/1.1" 404 1675
+WARNING 2021-01-09 03:30:21,058 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 03:30:21,069 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4927
+INFO 2021-01-09 03:46:58,539 basehttp 154 "GET /index/ HTTP/1.1" 200 126184
+WARNING 2021-01-09 03:46:58,744 basehttp 154 "GET /static/images/logo.png HTTP/1.1" 404 1675
+WARNING 2021-01-09 03:46:59,711 basehttp 154 "GET /static/images/logo.png HTTP/1.1" 404 1675
+WARNING 2021-01-09 03:46:59,830 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 03:46:59,843 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4927
+WARNING 2021-01-09 03:50:11,287 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 03:50:11,299 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4927
+INFO 2021-01-09 04:05:03,789 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/meiduo_mall/settings.py changed, reloading.
+INFO 2021-01-09 04:05:08,433 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-09 04:06:11,420 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 04:06:11,441 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4927
+WARNING 2021-01-09 04:07:18,165 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 04:07:18,168 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4927
+WARNING 2021-01-09 04:07:41,342 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 04:07:41,349 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4927
+WARNING 2021-01-09 04:07:44,016 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 04:07:44,019 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4927
+WARNING 2021-01-09 04:07:47,156 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 04:07:47,165 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4927
+WARNING 2021-01-09 04:07:49,668 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 04:07:49,672 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4927
+WARNING 2021-01-09 04:07:51,879 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 04:07:51,885 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4927
+WARNING 2021-01-09 04:07:54,650 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 04:07:54,658 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4927
+WARNING 2021-01-09 04:07:56,633 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 04:07:56,639 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4927
+WARNING 2021-01-09 04:07:58,658 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 04:07:58,662 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4927
+WARNING 2021-01-09 04:08:01,806 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 04:08:01,841 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4927
+WARNING 2021-01-09 04:08:04,964 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 04:08:04,984 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4927
+WARNING 2021-01-09 04:08:08,305 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 04:08:08,322 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4927
+INFO 2021-01-09 07:02:33,544 basehttp 154 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2021-01-09 07:02:33,630 basehttp 154 "OPTIONS /detail/visit/115/ HTTP/1.1" 200 0
+WARNING 2021-01-09 07:02:33,838 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 07:02:33,899 log 228 Not Found: /browse_histories/
+WARNING 2021-01-09 07:02:33,908 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4927
+WARNING 2021-01-09 07:02:33,906 log 228 Not Found: /detail/visit/115/
+WARNING 2021-01-09 07:02:33,918 basehttp 154 "POST /browse_histories/ HTTP/1.1" 404 4940
+WARNING 2021-01-09 07:02:33,927 basehttp 154 "POST /detail/visit/115/ HTTP/1.1" 404 4940
+INFO 2021-01-09 07:02:56,247 basehttp 154 "GET /detail/1/ HTTP/1.1" 200 108983
+INFO 2021-01-09 07:03:01,033 basehttp 154 "GET /detail/1/ HTTP/1.1" 200 108983
+WARNING 2021-01-09 07:03:01,355 log 228 Not Found: /images/logo.png
+WARNING 2021-01-09 07:03:01,381 basehttp 154 "GET /images/logo.png HTTP/1.1" 404 4933
+WARNING 2021-01-09 07:03:02,670 log 228 Not Found: /images/logo.png
+WARNING 2021-01-09 07:03:02,697 basehttp 154 "GET /images/logo.png HTTP/1.1" 404 4933
+INFO 2021-01-09 07:03:08,221 basehttp 154 "GET /detail/1/ HTTP/1.1" 200 108983
+INFO 2021-01-09 07:13:35,931 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/goods/views.py changed, reloading.
+INFO 2021-01-09 07:13:39,452 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-09 07:16:40,364 basehttp 154 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2021-01-09 07:16:40,470 basehttp 154 "OPTIONS /detail/visit/115/ HTTP/1.1" 200 0
+WARNING 2021-01-09 07:16:41,255 log 228 Not Found: /detail/visit/115/
+WARNING 2021-01-09 07:16:41,280 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 07:16:41,302 basehttp 154 "POST /detail/visit/115/ HTTP/1.1" 404 4940
+WARNING 2021-01-09 07:16:41,307 log 228 Not Found: /browse_histories/
+WARNING 2021-01-09 07:16:41,316 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4927
+WARNING 2021-01-09 07:16:41,324 basehttp 154 "POST /browse_histories/ HTTP/1.1" 404 4940
+WARNING 2021-01-09 07:16:54,134 log 228 Not Found: /browse_histories/
+WARNING 2021-01-09 07:16:54,159 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 07:16:54,167 basehttp 154 "POST /browse_histories/ HTTP/1.1" 404 4940
+WARNING 2021-01-09 07:16:54,200 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4927
+WARNING 2021-01-09 07:16:54,230 log 228 Not Found: /detail/visit/115/
+WARNING 2021-01-09 07:16:54,234 basehttp 154 "POST /detail/visit/115/ HTTP/1.1" 404 4940
+INFO 2021-01-09 07:16:59,544 basehttp 154 "OPTIONS /detail/visit/157/ HTTP/1.1" 200 0
+WARNING 2021-01-09 07:16:59,785 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 07:16:59,884 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4927
+WARNING 2021-01-09 07:16:59,887 log 228 Not Found: /browse_histories/
+WARNING 2021-01-09 07:16:59,910 basehttp 154 "POST /browse_histories/ HTTP/1.1" 404 4940
+WARNING 2021-01-09 07:16:59,969 log 228 Not Found: /detail/visit/157/
+WARNING 2021-01-09 07:16:59,971 basehttp 154 "POST /detail/visit/157/ HTTP/1.1" 404 4940
+INFO 2021-01-09 07:40:52,153 basehttp 154 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2021-01-09 07:40:52,252 basehttp 154 "OPTIONS /detail/visit/157/ HTTP/1.1" 200 0
+WARNING 2021-01-09 07:40:52,543 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 07:40:52,589 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 4927
+WARNING 2021-01-09 07:40:52,781 log 228 Not Found: /browse_histories/
+WARNING 2021-01-09 07:40:52,791 log 228 Not Found: /detail/visit/157/
+WARNING 2021-01-09 07:40:52,802 basehttp 154 "POST /browse_histories/ HTTP/1.1" 404 4940
+WARNING 2021-01-09 07:40:52,821 basehttp 154 "POST /detail/visit/157/ HTTP/1.1" 404 4940
+INFO 2021-01-09 07:45:27,688 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/goods/models.py changed, reloading.
+INFO 2021-01-09 07:45:31,102 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-09 08:03:34,881 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-09 08:04:01,070 basehttp 154 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2021-01-09 08:04:01,122 basehttp 154 "OPTIONS /detail/visit/157/ HTTP/1.1" 200 0
+WARNING 2021-01-09 08:04:01,867 log 228 Not Found: /browse_histories/
+WARNING 2021-01-09 08:04:01,908 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 08:04:02,004 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5107
+WARNING 2021-01-09 08:04:02,005 basehttp 154 "POST /browse_histories/ HTTP/1.1" 404 5120
+INFO 2021-01-09 08:04:24,205 basehttp 154 "POST /detail/visit/157/ HTTP/1.1" 200 27
+WARNING 2021-01-09 08:04:38,066 log 228 Not Found: /browse_histories/
+WARNING 2021-01-09 08:04:38,068 basehttp 154 "POST /browse_histories/ HTTP/1.1" 404 5120
+WARNING 2021-01-09 08:04:38,287 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 08:04:38,290 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5107
+INFO 2021-01-09 08:04:47,815 basehttp 154 "POST /detail/visit/157/ HTTP/1.1" 200 27
+INFO 2021-01-09 08:05:01,785 basehttp 154 "OPTIONS /detail/visit/115/ HTTP/1.1" 200 0
+WARNING 2021-01-09 08:05:01,814 log 228 Not Found: /browse_histories/
+WARNING 2021-01-09 08:05:01,848 basehttp 154 "POST /browse_histories/ HTTP/1.1" 404 5120
+WARNING 2021-01-09 08:05:01,981 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 08:05:02,007 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5107
+INFO 2021-01-09 08:05:18,135 basehttp 154 "POST /detail/visit/115/ HTTP/1.1" 200 27
+INFO 2021-01-09 08:41:49,219 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/goods/views.py changed, reloading.
+INFO 2021-01-09 08:41:52,103 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-09 08:57:41,269 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/meiduo_mall/settings.py changed, reloading.
+INFO 2021-01-09 08:57:43,736 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-09 09:07:59,467 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-09 09:08:09,270 basehttp 154 "OPTIONS /detail/visit/115/ HTTP/1.1" 200 0
+INFO 2021-01-09 09:08:09,294 basehttp 154 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2021-01-09 09:08:09,665 basehttp 154 "POST /browse_histories/ HTTP/1.1" 200 70
+WARNING 2021-01-09 09:08:09,989 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 09:08:10,013 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5271
+INFO 2021-01-09 09:08:24,560 basehttp 154 "POST /detail/visit/115/ HTTP/1.1" 200 27
+INFO 2021-01-09 09:08:38,570 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-09 09:08:49,832 basehttp 154 "POST /browse_histories/ HTTP/1.1" 200 70
+WARNING 2021-01-09 09:08:50,035 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 09:08:50,065 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5271
+INFO 2021-01-09 09:08:50,134 basehttp 154 "POST /detail/visit/115/ HTTP/1.1" 200 27
+WARNING 2021-01-09 09:10:58,544 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 09:10:58,548 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5271
+INFO 2021-01-09 09:11:21,013 basehttp 154 "OPTIONS /logout/ HTTP/1.1" 200 0
+INFO 2021-01-09 09:11:21,031 basehttp 154 "DELETE /logout/ HTTP/1.1" 200 27
+INFO 2021-01-09 09:11:33,113 basehttp 154 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2021-01-09 09:11:33,361 basehttp 154 "POST /login/ HTTP/1.1" 200 27
+WARNING 2021-01-09 09:11:35,405 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 09:11:35,417 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5271
+WARNING 2021-01-09 09:12:01,032 log 228 Not Found: /carts/simple/
+INFO 2021-01-09 09:12:01,042 basehttp 154 "POST /detail/visit/115/ HTTP/1.1" 200 27
+WARNING 2021-01-09 09:12:01,063 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5271
+INFO 2021-01-09 09:12:38,372 basehttp 154 "POST /browse_histories/ HTTP/1.1" 200 27
+INFO 2021-01-09 09:13:09,166 basehttp 154 "POST /detail/visit/115/ HTTP/1.1" 200 27
+WARNING 2021-01-09 09:13:09,178 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 09:13:09,207 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5271
+INFO 2021-01-09 09:13:12,874 basehttp 154 "POST /browse_histories/ HTTP/1.1" 200 27
+INFO 2021-01-09 09:13:18,528 basehttp 154 "OPTIONS /detail/visit/157/ HTTP/1.1" 200 0
+INFO 2021-01-09 09:13:18,605 basehttp 154 "POST /browse_histories/ HTTP/1.1" 200 27
+WARNING 2021-01-09 09:13:18,660 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 09:13:18,671 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5271
+INFO 2021-01-09 09:13:18,696 basehttp 154 "POST /detail/visit/157/ HTTP/1.1" 200 27
+INFO 2021-01-09 09:13:30,995 basehttp 154 "POST /detail/visit/157/ HTTP/1.1" 200 27
+INFO 2021-01-09 09:13:31,194 basehttp 154 "POST /browse_histories/ HTTP/1.1" 200 27
+WARNING 2021-01-09 09:13:31,216 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 09:13:31,229 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5271
+INFO 2021-01-09 09:13:33,803 basehttp 154 "POST /detail/visit/157/ HTTP/1.1" 200 27
+WARNING 2021-01-09 09:13:33,892 log 228 Not Found: /carts/simple/
+WARNING 2021-01-09 09:13:33,903 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5271
+INFO 2021-01-09 09:13:33,906 basehttp 154 "POST /browse_histories/ HTTP/1.1" 200 27
+INFO 2021-01-11 00:23:12,395 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-11 00:23:16,669 basehttp 154 "OPTIONS /logout/ HTTP/1.1" 200 0
+INFO 2021-01-11 00:23:16,819 basehttp 154 "DELETE /logout/ HTTP/1.1" 200 27
+INFO 2021-01-11 00:23:25,400 basehttp 154 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2021-01-11 00:23:25,634 basehttp 154 "POST /login/ HTTP/1.1" 200 27
+WARNING 2021-01-11 00:23:27,134 log 228 Not Found: /carts/simple/
+WARNING 2021-01-11 00:23:27,137 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5271
+INFO 2021-01-11 00:54:50,122 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/users/views.py changed, reloading.
+INFO 2021-01-11 00:54:54,367 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-11 00:58:54,232 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-11 00:59:04,142 basehttp 154 "GET /info/ HTTP/1.1" 200 146
+INFO 2021-01-11 00:59:27,246 basehttp 154 "GET /browse_histories/ HTTP/1.1" 200 1073
+WARNING 2021-01-11 00:59:51,106 log 228 Not Found: /carts/simple/
+INFO 2021-01-11 00:59:51,133 basehttp 154 "OPTIONS /detail/visit/115/ HTTP/1.1" 200 0
+WARNING 2021-01-11 00:59:51,155 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5271
+INFO 2021-01-11 00:59:51,182 basehttp 154 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2021-01-11 00:59:51,344 basehttp 154 "POST /browse_histories/ HTTP/1.1" 200 27
+INFO 2021-01-11 00:59:51,369 basehttp 154 "POST /detail/visit/115/ HTTP/1.1" 200 27
+INFO 2021-01-11 00:59:56,836 basehttp 154 "GET /info/ HTTP/1.1" 200 146
+INFO 2021-01-11 01:00:01,103 basehttp 154 "GET /browse_histories/ HTTP/1.1" 200 1073
+INFO 2021-01-11 01:00:21,766 basehttp 154 "POST /browse_histories/ HTTP/1.1" 200 27
+WARNING 2021-01-11 01:00:21,832 log 228 Not Found: /carts/simple/
+WARNING 2021-01-11 01:00:21,845 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5271
+INFO 2021-01-11 01:00:21,993 basehttp 154 "POST /detail/visit/115/ HTTP/1.1" 200 27
+INFO 2021-01-11 01:00:24,167 basehttp 154 "POST /detail/visit/115/ HTTP/1.1" 200 27
+WARNING 2021-01-11 01:00:24,209 log 228 Not Found: /carts/simple/
+WARNING 2021-01-11 01:00:24,235 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5271
+INFO 2021-01-11 01:00:24,416 basehttp 154 "POST /browse_histories/ HTTP/1.1" 200 27
+INFO 2021-01-11 01:00:31,098 basehttp 154 "POST /detail/visit/115/ HTTP/1.1" 200 27
+WARNING 2021-01-11 01:00:31,151 log 228 Not Found: /carts/simple/
+WARNING 2021-01-11 01:00:31,176 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5271
+INFO 2021-01-11 01:00:31,274 basehttp 154 "POST /browse_histories/ HTTP/1.1" 200 27
+INFO 2021-01-11 01:00:41,005 basehttp 154 "GET /info/ HTTP/1.1" 200 146
+INFO 2021-01-11 01:00:45,794 basehttp 154 "GET /browse_histories/ HTTP/1.1" 200 1310
+INFO 2021-01-11 01:00:50,341 basehttp 154 "OPTIONS /detail/visit/157/ HTTP/1.1" 200 0
+INFO 2021-01-11 01:00:50,568 basehttp 154 "POST /browse_histories/ HTTP/1.1" 200 27
+INFO 2021-01-11 01:00:50,621 basehttp 154 "POST /detail/visit/157/ HTTP/1.1" 200 27
+WARNING 2021-01-11 01:00:50,987 log 228 Not Found: /carts/simple/
+WARNING 2021-01-11 01:00:51,005 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5271
+INFO 2021-01-11 01:00:52,034 basehttp 154 "GET /browse_histories/ HTTP/1.1" 200 1310
+INFO 2021-01-11 01:00:52,237 basehttp 154 "GET /info/ HTTP/1.1" 200 146
+INFO 2021-01-11 02:40:36,692 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/meiduo_mall/settings.py changed, reloading.
+INFO 2021-01-11 02:40:40,830 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-11 02:48:54,611 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/meiduo_mall/urls.py changed, reloading.
+INFO 2021-01-11 02:48:56,794 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-11 02:49:12,358 basehttp 154 "OPTIONS /detail/visit/157/ HTTP/1.1" 200 0
+INFO 2021-01-11 02:49:12,397 basehttp 154 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+WARNING 2021-01-11 02:49:13,232 log 228 Not Found: /carts/simple/
+INFO 2021-01-11 02:49:13,250 basehttp 154 "POST /detail/visit/157/ HTTP/1.1" 200 27
+WARNING 2021-01-11 02:49:13,254 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5424
+INFO 2021-01-11 02:49:13,377 basehttp 154 "POST /browse_histories/ HTTP/1.1" 200 27
+INFO 2021-01-11 02:49:23,896 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-11 02:49:30,936 basehttp 154 "OPTIONS /carts/ HTTP/1.1" 200 0
+INFO 2021-01-11 02:49:54,763 basehttp 154 "POST /carts/ HTTP/1.1" 200 27
+INFO 2021-01-11 03:28:33,115 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-11 03:30:49,440 basehttp 154 "GET /carts/ HTTP/1.1" 200 302
+INFO 2021-01-11 03:31:06,166 basehttp 154 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2021-01-11 03:31:06,261 basehttp 154 "OPTIONS /detail/visit/115/ HTTP/1.1" 200 0
+WARNING 2021-01-11 03:31:06,296 log 228 Not Found: /carts/simple/
+WARNING 2021-01-11 03:31:06,333 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5424
+INFO 2021-01-11 03:31:06,726 basehttp 154 "POST /browse_histories/ HTTP/1.1" 200 27
+INFO 2021-01-11 03:31:06,732 basehttp 154 "POST /detail/visit/115/ HTTP/1.1" 200 27
+INFO 2021-01-11 03:31:08,120 basehttp 154 "OPTIONS /carts/ HTTP/1.1" 200 0
+INFO 2021-01-11 03:31:12,141 basehttp 154 "POST /carts/ HTTP/1.1" 200 27
+INFO 2021-01-11 03:31:19,941 basehttp 154 "GET /carts/ HTTP/1.1" 200 629
+INFO 2021-01-11 04:22:11,353 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/carts/views.py changed, reloading.
+INFO 2021-01-11 04:22:17,293 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-11 04:23:00,885 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/carts/views.py changed, reloading.
+INFO 2021-01-11 04:23:04,944 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-11 04:23:53,446 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-11 04:25:47,732 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/carts/views.py changed, reloading.
+INFO 2021-01-11 04:25:50,325 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-11 04:26:06,367 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-11 04:26:18,368 basehttp 154 "OPTIONS /carts/ HTTP/1.1" 200 0
+INFO 2021-01-11 04:26:42,713 basehttp 154 "PUT /carts/ HTTP/1.1" 200 299
+INFO 2021-01-11 04:27:15,481 basehttp 154 "PUT /carts/ HTTP/1.1" 200 300
+INFO 2021-01-11 04:31:30,627 basehttp 154 "PUT /carts/ HTTP/1.1" 200 300
+INFO 2021-01-11 07:06:59,227 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-11 07:07:13,386 basehttp 154 "OPTIONS /carts/ HTTP/1.1" 200 0
+INFO 2021-01-11 07:07:29,875 basehttp 154 "DELETE /carts/ HTTP/1.1" 200 27
+INFO 2021-01-11 07:07:43,517 basehttp 154 "GET /carts/ HTTP/1.1" 200 303
+WARNING 2021-01-11 07:21:01,749 log 228 Not Found: /carts/simple/
+WARNING 2021-01-11 07:21:01,766 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5424
+WARNING 2021-01-11 07:21:03,827 log 228 Not Found: /carts/simple/
+WARNING 2021-01-11 07:21:03,883 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5424
+INFO 2021-01-11 07:21:04,069 basehttp 154 "GET /hot/115/ HTTP/1.1" 200 568
+INFO 2021-01-11 07:21:09,193 basehttp 154 "GET /list/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1526
+WARNING 2021-01-11 07:21:13,571 log 228 Not Found: /carts/simple/
+INFO 2021-01-11 07:21:13,573 basehttp 154 "OPTIONS /detail/visit/115/ HTTP/1.1" 200 0
+INFO 2021-01-11 07:21:13,587 basehttp 154 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+WARNING 2021-01-11 07:21:13,590 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5424
+INFO 2021-01-11 07:21:13,934 basehttp 154 "POST /browse_histories/ HTTP/1.1" 200 27
+INFO 2021-01-11 07:21:14,200 basehttp 154 "POST /detail/visit/115/ HTTP/1.1" 200 27
+INFO 2021-01-11 07:21:15,125 basehttp 154 "OPTIONS /carts/ HTTP/1.1" 200 0
+INFO 2021-01-11 07:21:15,283 basehttp 154 "POST /carts/ HTTP/1.1" 200 27
+INFO 2021-01-11 07:21:39,031 basehttp 154 "GET /carts/ HTTP/1.1" 200 630
+WARNING 2021-01-11 07:21:48,181 log 228 Not Found: /orders/settlement/
+WARNING 2021-01-11 07:21:48,192 basehttp 154 "GET /orders/settlement/ HTTP/1.1" 404 5439
+INFO 2021-01-11 08:06:22,074 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-11 08:07:02,475 basehttp 154 "GET /orders/settlement/ HTTP/1.1" 200 350
+INFO 2021-01-11 08:07:49,189 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-11 08:08:17,511 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-11 08:08:54,460 basehttp 154 "GET /orders/settlement/ HTTP/1.1" 200 563
+INFO 2021-01-11 08:51:26,267 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/orders/models.py changed, reloading.
+INFO 2021-01-11 08:51:27,057 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-12 00:22:22,941 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-12 00:23:23,578 basehttp 154 "GET /carts/ HTTP/1.1" 200 70
+INFO 2021-01-12 00:23:24,892 basehttp 154 "GET /carts/ HTTP/1.1" 200 70
+INFO 2021-01-12 00:23:36,062 basehttp 154 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2021-01-12 00:23:36,315 basehttp 154 "POST /login/ HTTP/1.1" 200 27
+WARNING 2021-01-12 00:23:37,846 log 228 Not Found: /carts/simple/
+WARNING 2021-01-12 00:23:37,850 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5589
+INFO 2021-01-12 00:23:39,870 basehttp 154 "GET /carts/ HTTP/1.1" 200 630
+INFO 2021-01-12 00:24:02,252 basehttp 154 "OPTIONS /carts/ HTTP/1.1" 200 0
+INFO 2021-01-12 00:24:02,316 basehttp 154 "PUT /carts/ HTTP/1.1" 200 367
+INFO 2021-01-12 00:24:04,228 basehttp 154 "PUT /carts/ HTTP/1.1" 200 299
+INFO 2021-01-12 00:24:11,805 basehttp 154 "GET /orders/settlement/ HTTP/1.1" 200 495
+INFO 2021-01-12 00:24:22,923 basehttp 154 "GET /orders/settlement/ HTTP/1.1" 200 70
+INFO 2021-01-12 01:41:59,874 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/orders/views.py changed, reloading.
+INFO 2021-01-12 01:42:05,724 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-12 01:55:43,613 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-12 01:55:50,562 basehttp 154 "OPTIONS /orders/commit/ HTTP/1.1" 200 0
+INFO 2021-01-12 02:05:54,244 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/orders/views.py changed, reloading.
+INFO 2021-01-12 02:05:57,168 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-12 02:27:20,696 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-12 02:27:25,340 basehttp 154 "OPTIONS /orders/commit/ HTTP/1.1" 200 0
+INFO 2021-01-12 02:28:54,039 basehttp 154 "POST /orders/commit/ HTTP/1.1" 200 66
+INFO 2021-01-12 02:29:17,521 basehttp 154 "GET /orders/settlement/ HTTP/1.1" 200 495
+INFO 2021-01-12 02:30:15,657 basehttp 154 "POST /orders/commit/ HTTP/1.1" 200 76
+INFO 2021-01-12 03:01:51,541 basehttp 154 "OPTIONS /orders/commit/ HTTP/1.1" 200 0
+INFO 2021-01-12 03:02:17,087 basehttp 154 "POST /orders/commit/ HTTP/1.1" 200 76
+INFO 2021-01-12 03:03:29,050 basehttp 154 "GET /carts/ HTTP/1.1" 200 630
+INFO 2021-01-12 03:03:31,034 basehttp 154 "OPTIONS /carts/ HTTP/1.1" 200 0
+INFO 2021-01-12 03:03:31,085 basehttp 154 "PUT /carts/ HTTP/1.1" 200 366
+INFO 2021-01-12 03:14:31,399 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-12 03:15:33,556 basehttp 154 "GET /orders/settlement/ HTTP/1.1" 200 783
+INFO 2021-01-12 03:15:40,298 basehttp 154 "OPTIONS /orders/commit/ HTTP/1.1" 200 0
+INFO 2021-01-12 03:16:22,392 basehttp 154 "POST /orders/commit/ HTTP/1.1" 200 76
+INFO 2021-01-12 03:18:07,803 basehttp 154 "POST /orders/commit/ HTTP/1.1" 200 66
+INFO 2021-01-12 03:37:46,921 basehttp 154 "GET /carts/ HTTP/1.1" 200 629
+INFO 2021-01-12 03:37:48,601 basehttp 154 "OPTIONS /carts/ HTTP/1.1" 200 0
+INFO 2021-01-12 03:37:48,656 basehttp 154 "PUT /carts/ HTTP/1.1" 200 367
+INFO 2021-01-12 03:37:50,775 basehttp 154 "GET /orders/settlement/ HTTP/1.1" 200 495
+INFO 2021-01-12 03:37:55,272 basehttp 154 "GET /orders/settlement/ HTTP/1.1" 200 495
+INFO 2021-01-12 03:39:37,622 basehttp 154 "GET /carts/ HTTP/1.1" 200 70
+INFO 2021-01-12 03:39:47,955 basehttp 154 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2021-01-12 03:39:48,273 basehttp 154 "POST /login/ HTTP/1.1" 200 27
+WARNING 2021-01-12 03:39:50,032 log 228 Not Found: /carts/simple/
+WARNING 2021-01-12 03:39:50,039 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5750
+INFO 2021-01-12 03:39:51,854 basehttp 154 "GET /carts/ HTTP/1.1" 200 630
+INFO 2021-01-12 03:43:21,660 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/orders/views.py changed, reloading.
+INFO 2021-01-12 03:43:25,227 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-12 03:45:50,668 basehttp 154 "GET /orders/settlement/ HTTP/1.1" 200 495
+INFO 2021-01-12 03:47:48,223 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-12 03:47:57,599 basehttp 154 "OPTIONS /orders/commit/ HTTP/1.1" 200 0
+INFO 2021-01-12 03:48:07,934 basehttp 154 "OPTIONS /orders/commit/ HTTP/1.1" 200 0
+INFO 2021-01-12 03:48:12,750 basehttp 154 "POST /orders/commit/ HTTP/1.1" 200 66
+INFO 2021-01-12 03:48:15,111 basehttp 154 "POST /orders/commit/ HTTP/1.1" 200 66
+INFO 2021-01-12 03:48:17,567 basehttp 154 "POST /orders/commit/ HTTP/1.1" 200 66
+INFO 2021-01-12 03:48:18,838 basehttp 154 "POST /orders/commit/ HTTP/1.1" 200 66
+INFO 2021-01-12 04:27:44,232 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-12 04:28:08,358 basehttp 154 "GET /orders/settlement/ HTTP/1.1" 200 495
+INFO 2021-01-12 04:28:51,278 basehttp 154 "OPTIONS /orders/commit/ HTTP/1.1" 200 0
+INFO 2021-01-12 04:28:53,123 basehttp 154 "OPTIONS /orders/commit/ HTTP/1.1" 200 0
+INFO 2021-01-12 04:28:58,404 basehttp 154 "POST /orders/commit/ HTTP/1.1" 200 66
+INFO 2021-01-12 04:29:00,237 basehttp 154 "POST /orders/commit/ HTTP/1.1" 200 49
+INFO 2021-01-12 04:29:02,749 basehttp 154 "POST /orders/commit/ HTTP/1.1" 200 49
+INFO 2021-01-12 04:29:03,822 basehttp 154 "POST /orders/commit/ HTTP/1.1" 200 49
+INFO 2021-01-12 04:29:42,233 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/orders/views.py changed, reloading.
+INFO 2021-01-12 04:29:45,428 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-12 04:29:50,842 basehttp 154 "GET /orders/settlement/ HTTP/1.1" 200 495
+INFO 2021-01-12 04:30:07,204 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-12 04:30:37,195 basehttp 154 "OPTIONS /orders/commit/ HTTP/1.1" 200 0
+INFO 2021-01-12 04:30:42,198 basehttp 154 "POST /orders/commit/ HTTP/1.1" 200 66
+INFO 2021-01-12 04:30:44,298 basehttp 154 "POST /orders/commit/ HTTP/1.1" 200 51
+INFO 2021-01-12 04:30:45,528 basehttp 154 "POST /orders/commit/ HTTP/1.1" 200 51
+INFO 2021-01-12 04:30:46,480 basehttp 154 "POST /orders/commit/ HTTP/1.1" 200 51
+INFO 2021-01-12 07:10:07,545 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/orders/views.py changed, reloading.
+INFO 2021-01-12 07:10:11,485 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-12 07:34:24,646 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/orders/views.py changed, reloading.
+INFO 2021-01-12 07:34:28,512 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-14 00:23:03,933 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-14 00:47:41,393 log 228 Not Found: /carts/simple/
+WARNING 2021-01-14 00:47:41,398 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5750
+INFO 2021-01-14 00:47:45,658 basehttp 154 "GET /carts/ HTTP/1.1" 200 70
+WARNING 2021-01-14 00:47:52,462 log 228 Not Found: /carts/simple/
+WARNING 2021-01-14 00:47:52,467 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5750
+INFO 2021-01-14 00:47:53,564 basehttp 154 "OPTIONS /logout/ HTTP/1.1" 200 0
+INFO 2021-01-14 00:47:53,580 basehttp 154 "DELETE /logout/ HTTP/1.1" 200 27
+INFO 2021-01-14 00:48:01,747 basehttp 154 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2021-01-14 00:48:02,008 basehttp 154 "POST /login/ HTTP/1.1" 200 27
+WARNING 2021-01-14 00:48:03,512 log 228 Not Found: /carts/simple/
+WARNING 2021-01-14 00:48:03,517 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5750
+INFO 2021-01-14 00:48:05,444 basehttp 154 "GET /carts/ HTTP/1.1" 200 630
+INFO 2021-01-14 00:48:08,026 basehttp 154 "GET /orders/settlement/ HTTP/1.1" 200 495
+INFO 2021-01-14 01:04:29,088 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-14 01:05:26,952 basehttp 154 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2021-01-14 01:05:27,407 basehttp 154 "POST /login/ HTTP/1.1" 200 27
+WARNING 2021-01-14 01:05:29,572 log 228 Not Found: /carts/simple/
+WARNING 2021-01-14 01:05:29,585 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 5750
+INFO 2021-01-14 01:05:30,739 basehttp 154 "GET /carts/ HTTP/1.1" 200 630
+INFO 2021-01-14 01:05:38,654 basehttp 154 "OPTIONS /carts/ HTTP/1.1" 200 0
+INFO 2021-01-14 01:05:38,745 basehttp 154 "PUT /carts/ HTTP/1.1" 200 299
+INFO 2021-01-14 01:05:39,143 basehttp 154 "GET /orders/settlement/ HTTP/1.1" 200 495
+INFO 2021-01-14 01:05:47,268 basehttp 154 "OPTIONS /orders/commit/ HTTP/1.1" 200 0
+INFO 2021-01-14 01:05:54,397 basehttp 154 "POST /orders/commit/ HTTP/1.1" 200 66
+INFO 2021-01-14 01:25:47,983 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/meiduo_mall/urls.py changed, reloading.
+INFO 2021-01-14 01:25:50,562 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-14 01:38:35,748 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-14 01:39:34,049 basehttp 154 "GET /payment/20210114010547000000001/ HTTP/1.1" 200 861
+INFO 2021-01-14 02:17:40,065 basehttp 154 "GET /payment/20210114010547000000001/ HTTP/1.1" 200 859
+INFO 2021-01-14 02:19:11,144 basehttp 154 "OPTIONS /payment/status/?charset=utf-8&out_trade_no=20210114010547000000001&method=alipay.trade.page.pay.return&total_amount=34164.00&sign=QWnVwQp7Kr1CPwjT7IEbna36LIB%2F0znBg5hFiOOHMhvd4PI2T5ZQimTZvmJA7ph%2BCBzS%2BtI7on7DK5nloLp%2FN7GEFTKJiz%2B8Xx7LomdkMWoM%2FxfNbLtGxrH3fqeQH%2BKtKSWcCtVbMfqdq%2BYOHYqyOQGD6CzZBaYU9HpGA6tbfiZ4s2fFKRU1Y3C16R5cdpOgpGM86siZpWcHPJOpQuPfqZEee4XIa0GpLtjyErvk5JPuQTnAHL3AyLvVCLgmWJwTdgATiAyiQGk1gYDmW6liMMQ62OepEwTQPoNk%2B5jUYGNrGzcd09QUoXt%2B0zxKa2VmyWktkHyK47sapGodyNsl3Q%3D%3D&trade_no=2021011422001454390510690666&auth_app_id=2016091600523030&version=1.0&app_id=2016091600523030&sign_type=RSA2&seller_id=2088102175857143&timestamp=2021-01-14+10%3A19%3A07 HTTP/1.1" 200 0
+WARNING 2021-01-14 02:19:11,194 base 90 Method Not Allowed (PUT): /payment/status/
+WARNING 2021-01-14 02:19:11,208 log 228 Method Not Allowed: /payment/status/
+WARNING 2021-01-14 02:19:11,210 basehttp 154 "PUT /payment/status/?charset=utf-8&out_trade_no=20210114010547000000001&method=alipay.trade.page.pay.return&total_amount=34164.00&sign=QWnVwQp7Kr1CPwjT7IEbna36LIB%2F0znBg5hFiOOHMhvd4PI2T5ZQimTZvmJA7ph%2BCBzS%2BtI7on7DK5nloLp%2FN7GEFTKJiz%2B8Xx7LomdkMWoM%2FxfNbLtGxrH3fqeQH%2BKtKSWcCtVbMfqdq%2BYOHYqyOQGD6CzZBaYU9HpGA6tbfiZ4s2fFKRU1Y3C16R5cdpOgpGM86siZpWcHPJOpQuPfqZEee4XIa0GpLtjyErvk5JPuQTnAHL3AyLvVCLgmWJwTdgATiAyiQGk1gYDmW6liMMQ62OepEwTQPoNk%2B5jUYGNrGzcd09QUoXt%2B0zxKa2VmyWktkHyK47sapGodyNsl3Q%3D%3D&trade_no=2021011422001454390510690666&auth_app_id=2016091600523030&version=1.0&app_id=2016091600523030&sign_type=RSA2&seller_id=2088102175857143&timestamp=2021-01-14+10%3A19%3A07 HTTP/1.1" 405 0
+INFO 2021-01-14 02:38:10,010 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/payment/models.py changed, reloading.
+INFO 2021-01-14 02:38:12,627 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-14 02:51:01,569 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-14 02:51:37,335 basehttp 154 "GET /carts/ HTTP/1.1" 200 630
+INFO 2021-01-14 02:51:56,955 basehttp 154 "OPTIONS /carts/ HTTP/1.1" 200 0
+INFO 2021-01-14 02:51:57,059 basehttp 154 "PUT /carts/ HTTP/1.1" 200 301
+INFO 2021-01-14 02:51:57,498 basehttp 154 "GET /orders/settlement/ HTTP/1.1" 200 496
+INFO 2021-01-14 02:52:03,311 basehttp 154 "OPTIONS /orders/commit/ HTTP/1.1" 200 0
+INFO 2021-01-14 02:52:10,438 basehttp 154 "POST /orders/commit/ HTTP/1.1" 200 66
+INFO 2021-01-14 02:52:19,893 basehttp 154 "GET /payment/20210114025203000000001/ HTTP/1.1" 200 872
+INFO 2021-01-14 02:53:09,368 basehttp 154 "OPTIONS /payment/status/?charset=utf-8&out_trade_no=20210114025203000000001&method=alipay.trade.page.pay.return&total_amount=341640.00&sign=j78DyB0Hx0bB3jLVHjbgHyoQJ0DHJlxtBrTfhgaHiOwOr0pfnj%2B0R6P8sN4QZiolekO0iwH3qII2b%2F9WV0TS2K5Zb9Ue6%2F5rJ2N7ekyanBA6XKnbE4sb2DsJM4W1AJqa7L5r5%2FlxheiQQ9ZhH0mftUCpTnZoe6c3JVGFCf1RJLsAEZ%2FDpG7odygS7g7oBjTAD9taePkxjvWAkxGDSG5dXlikW8DBm9%2BB%2Fhr05vDIu9%2FH94DWjXLrZEpYYKPS2vhTYzma6ntlWGJ%2FCH6RYK5C9qpWv64N1rcuP869FLni5mhQOk%2F6pyvOn4RJh%2F%2BbjNJ2pvS3upgqSkygWLX9jZlFVg%3D%3D&trade_no=2021011422001454390510690870&auth_app_id=2016091600523030&version=1.0&app_id=2016091600523030&sign_type=RSA2&seller_id=2088102175857143&timestamp=2021-01-14+10%3A53%3A05 HTTP/1.1" 200 0
+WARNING 2021-01-14 02:53:09,659 base 90 Method Not Allowed (PUT): /payment/status/
+WARNING 2021-01-14 02:53:09,675 log 228 Method Not Allowed: /payment/status/
+WARNING 2021-01-14 02:53:09,678 basehttp 154 "PUT /payment/status/?charset=utf-8&out_trade_no=20210114025203000000001&method=alipay.trade.page.pay.return&total_amount=341640.00&sign=j78DyB0Hx0bB3jLVHjbgHyoQJ0DHJlxtBrTfhgaHiOwOr0pfnj%2B0R6P8sN4QZiolekO0iwH3qII2b%2F9WV0TS2K5Zb9Ue6%2F5rJ2N7ekyanBA6XKnbE4sb2DsJM4W1AJqa7L5r5%2FlxheiQQ9ZhH0mftUCpTnZoe6c3JVGFCf1RJLsAEZ%2FDpG7odygS7g7oBjTAD9taePkxjvWAkxGDSG5dXlikW8DBm9%2BB%2Fhr05vDIu9%2FH94DWjXLrZEpYYKPS2vhTYzma6ntlWGJ%2FCH6RYK5C9qpWv64N1rcuP869FLni5mhQOk%2F6pyvOn4RJh%2F%2BbjNJ2pvS3upgqSkygWLX9jZlFVg%3D%3D&trade_no=2021011422001454390510690870&auth_app_id=2016091600523030&version=1.0&app_id=2016091600523030&sign_type=RSA2&seller_id=2088102175857143&timestamp=2021-01-14+10%3A53%3A05 HTTP/1.1" 405 0
+INFO 2021-01-14 02:54:23,252 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-14 02:54:27,665 basehttp 154 "OPTIONS /payment/status/?charset=utf-8&out_trade_no=20210114025203000000001&method=alipay.trade.page.pay.return&total_amount=341640.00&sign=j78DyB0Hx0bB3jLVHjbgHyoQJ0DHJlxtBrTfhgaHiOwOr0pfnj%2B0R6P8sN4QZiolekO0iwH3qII2b%2F9WV0TS2K5Zb9Ue6%2F5rJ2N7ekyanBA6XKnbE4sb2DsJM4W1AJqa7L5r5%2FlxheiQQ9ZhH0mftUCpTnZoe6c3JVGFCf1RJLsAEZ%2FDpG7odygS7g7oBjTAD9taePkxjvWAkxGDSG5dXlikW8DBm9%2BB%2Fhr05vDIu9%2FH94DWjXLrZEpYYKPS2vhTYzma6ntlWGJ%2FCH6RYK5C9qpWv64N1rcuP869FLni5mhQOk%2F6pyvOn4RJh%2F%2BbjNJ2pvS3upgqSkygWLX9jZlFVg%3D%3D&trade_no=2021011422001454390510690870&auth_app_id=2016091600523030&version=1.0&app_id=2016091600523030&sign_type=RSA2&seller_id=2088102175857143&timestamp=2021-01-14+10%3A53%3A05 HTTP/1.1" 200 0
+WARNING 2021-01-14 02:54:27,853 base 90 Method Not Allowed (PUT): /payment/status/
+WARNING 2021-01-14 02:54:27,861 log 228 Method Not Allowed: /payment/status/
+WARNING 2021-01-14 02:54:27,863 basehttp 154 "PUT /payment/status/?charset=utf-8&out_trade_no=20210114025203000000001&method=alipay.trade.page.pay.return&total_amount=341640.00&sign=j78DyB0Hx0bB3jLVHjbgHyoQJ0DHJlxtBrTfhgaHiOwOr0pfnj%2B0R6P8sN4QZiolekO0iwH3qII2b%2F9WV0TS2K5Zb9Ue6%2F5rJ2N7ekyanBA6XKnbE4sb2DsJM4W1AJqa7L5r5%2FlxheiQQ9ZhH0mftUCpTnZoe6c3JVGFCf1RJLsAEZ%2FDpG7odygS7g7oBjTAD9taePkxjvWAkxGDSG5dXlikW8DBm9%2BB%2Fhr05vDIu9%2FH94DWjXLrZEpYYKPS2vhTYzma6ntlWGJ%2FCH6RYK5C9qpWv64N1rcuP869FLni5mhQOk%2F6pyvOn4RJh%2F%2BbjNJ2pvS3upgqSkygWLX9jZlFVg%3D%3D&trade_no=2021011422001454390510690870&auth_app_id=2016091600523030&version=1.0&app_id=2016091600523030&sign_type=RSA2&seller_id=2088102175857143&timestamp=2021-01-14+10%3A53%3A05 HTTP/1.1" 405 0
+INFO 2021-01-14 02:54:50,581 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-14 02:54:56,584 basehttp 154 "OPTIONS /payment/status/?charset=utf-8&out_trade_no=20210114025203000000001&method=alipay.trade.page.pay.return&total_amount=341640.00&sign=j78DyB0Hx0bB3jLVHjbgHyoQJ0DHJlxtBrTfhgaHiOwOr0pfnj%2B0R6P8sN4QZiolekO0iwH3qII2b%2F9WV0TS2K5Zb9Ue6%2F5rJ2N7ekyanBA6XKnbE4sb2DsJM4W1AJqa7L5r5%2FlxheiQQ9ZhH0mftUCpTnZoe6c3JVGFCf1RJLsAEZ%2FDpG7odygS7g7oBjTAD9taePkxjvWAkxGDSG5dXlikW8DBm9%2BB%2Fhr05vDIu9%2FH94DWjXLrZEpYYKPS2vhTYzma6ntlWGJ%2FCH6RYK5C9qpWv64N1rcuP869FLni5mhQOk%2F6pyvOn4RJh%2F%2BbjNJ2pvS3upgqSkygWLX9jZlFVg%3D%3D&trade_no=2021011422001454390510690870&auth_app_id=2016091600523030&version=1.0&app_id=2016091600523030&sign_type=RSA2&seller_id=2088102175857143&timestamp=2021-01-14+10%3A53%3A05 HTTP/1.1" 200 0
+WARNING 2021-01-14 02:54:56,816 base 90 Method Not Allowed (PUT): /payment/status/
+WARNING 2021-01-14 02:54:56,828 log 228 Method Not Allowed: /payment/status/
+WARNING 2021-01-14 02:54:56,835 basehttp 154 "PUT /payment/status/?charset=utf-8&out_trade_no=20210114025203000000001&method=alipay.trade.page.pay.return&total_amount=341640.00&sign=j78DyB0Hx0bB3jLVHjbgHyoQJ0DHJlxtBrTfhgaHiOwOr0pfnj%2B0R6P8sN4QZiolekO0iwH3qII2b%2F9WV0TS2K5Zb9Ue6%2F5rJ2N7ekyanBA6XKnbE4sb2DsJM4W1AJqa7L5r5%2FlxheiQQ9ZhH0mftUCpTnZoe6c3JVGFCf1RJLsAEZ%2FDpG7odygS7g7oBjTAD9taePkxjvWAkxGDSG5dXlikW8DBm9%2BB%2Fhr05vDIu9%2FH94DWjXLrZEpYYKPS2vhTYzma6ntlWGJ%2FCH6RYK5C9qpWv64N1rcuP869FLni5mhQOk%2F6pyvOn4RJh%2F%2BbjNJ2pvS3upgqSkygWLX9jZlFVg%3D%3D&trade_no=2021011422001454390510690870&auth_app_id=2016091600523030&version=1.0&app_id=2016091600523030&sign_type=RSA2&seller_id=2088102175857143&timestamp=2021-01-14+10%3A53%3A05 HTTP/1.1" 405 0
+INFO 2021-01-14 03:01:13,436 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-14 03:01:21,615 basehttp 154 "OPTIONS /payment/status/?charset=utf-8&out_trade_no=20210114025203000000001&method=alipay.trade.page.pay.return&total_amount=341640.00&sign=j78DyB0Hx0bB3jLVHjbgHyoQJ0DHJlxtBrTfhgaHiOwOr0pfnj%2B0R6P8sN4QZiolekO0iwH3qII2b%2F9WV0TS2K5Zb9Ue6%2F5rJ2N7ekyanBA6XKnbE4sb2DsJM4W1AJqa7L5r5%2FlxheiQQ9ZhH0mftUCpTnZoe6c3JVGFCf1RJLsAEZ%2FDpG7odygS7g7oBjTAD9taePkxjvWAkxGDSG5dXlikW8DBm9%2BB%2Fhr05vDIu9%2FH94DWjXLrZEpYYKPS2vhTYzma6ntlWGJ%2FCH6RYK5C9qpWv64N1rcuP869FLni5mhQOk%2F6pyvOn4RJh%2F%2BbjNJ2pvS3upgqSkygWLX9jZlFVg%3D%3D&trade_no=2021011422001454390510690870&auth_app_id=2016091600523030&version=1.0&app_id=2016091600523030&sign_type=RSA2&seller_id=2088102175857143&timestamp=2021-01-14+10%3A53%3A05 HTTP/1.1" 200 0
+INFO 2021-01-14 03:01:39,859 basehttp 154 "PUT /payment/status/?charset=utf-8&out_trade_no=20210114025203000000001&method=alipay.trade.page.pay.return&total_amount=341640.00&sign=j78DyB0Hx0bB3jLVHjbgHyoQJ0DHJlxtBrTfhgaHiOwOr0pfnj%2B0R6P8sN4QZiolekO0iwH3qII2b%2F9WV0TS2K5Zb9Ue6%2F5rJ2N7ekyanBA6XKnbE4sb2DsJM4W1AJqa7L5r5%2FlxheiQQ9ZhH0mftUCpTnZoe6c3JVGFCf1RJLsAEZ%2FDpG7odygS7g7oBjTAD9taePkxjvWAkxGDSG5dXlikW8DBm9%2BB%2Fhr05vDIu9%2FH94DWjXLrZEpYYKPS2vhTYzma6ntlWGJ%2FCH6RYK5C9qpWv64N1rcuP869FLni5mhQOk%2F6pyvOn4RJh%2F%2BbjNJ2pvS3upgqSkygWLX9jZlFVg%3D%3D&trade_no=2021011422001454390510690870&auth_app_id=2016091600523030&version=1.0&app_id=2016091600523030&sign_type=RSA2&seller_id=2088102175857143&timestamp=2021-01-14+10%3A53%3A05 HTTP/1.1" 200 71
+INFO 2021-01-15 00:22:37,975 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-15 02:01:14,603 autoreload 597 Watching for file changes with StatReloader
+WARNING 2021-01-15 02:01:22,196 log 228 Not Found: /carts/simple/
+WARNING 2021-01-15 02:01:22,202 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 6238
+INFO 2021-01-15 02:10:38,117 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-15 02:10:50,701 basehttp 154 "GET /search/?q=huawei&page=1&page_size=6 HTTP/1.1" 200 2611
+INFO 2021-01-15 02:11:03,232 basehttp 154 "GET /search/?q=iPhone&page=1&page_size=6 HTTP/1.1" 200 1761
+INFO 2021-01-15 02:13:30,931 basehttp 154 "GET /search/?q=1&page=1&page_size=6 HTTP/1.1" 200 254
+INFO 2021-01-15 04:18:07,459 autoreload 217 /home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/meiduo_mall/settings.py changed, reloading.
+INFO 2021-01-15 04:18:11,682 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-15 04:20:08,014 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-15 04:20:22,462 basehttp 154 "OPTIONS /login/ HTTP/1.1" 200 0
+INFO 2021-01-15 04:20:22,986 basehttp 154 "POST /login/ HTTP/1.1" 200 27
+WARNING 2021-01-15 04:20:25,282 log 228 Not Found: /carts/simple/
+WARNING 2021-01-15 04:20:25,289 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 6238
+INFO 2021-01-15 04:20:29,995 basehttp 154 "OPTIONS /logout/ HTTP/1.1" 200 0
+INFO 2021-01-15 04:20:30,054 basehttp 154 "DELETE /logout/ HTTP/1.1" 200 27
+ERROR 2021-01-15 04:21:30,617 log 228 Internal Server Error: /login/
+Traceback (most recent call last):
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/db/backends/base/base.py", line 217, in ensure_connection
+    self.connect()
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/db/backends/base/base.py", line 195, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 227, in get_new_connection
+    return Database.connect(**conn_params)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/MySQLdb/__init__.py", line 130, in Connect
+    return Connection(*args, **kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/MySQLdb/connections.py", line 185, in __init__
+    super().__init__(*args, **kwargs2)
+MySQLdb._exceptions.OperationalError: (2003, "Can't connect to MySQL server on '127.0.0.1' (111)")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 61, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/views/generic/base.py", line 85, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/ubuntu/Desktop/44/shunyi_44_meiduo_cangku/meiduo_mall/apps/users/views.py", line 166, in post
+    user=authenticate(username=username,password=password)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/contrib/auth/__init__.py", line 73, in authenticate
+    user = backend.authenticate(request, **credentials)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/contrib/auth/backends.py", line 20, in authenticate
+    user = UserModel._default_manager.get_by_natural_key(username)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/contrib/auth/base_user.py", line 44, in get_by_natural_key
+    return self.get(**{self.model.USERNAME_FIELD: username})
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/db/models/manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/db/models/query.py", line 402, in get
+    num = len(clone)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/db/models/query.py", line 256, in __len__
+    self._fetch_all()
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/db/models/query.py", line 1242, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/db/models/query.py", line 55, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/db/models/sql/compiler.py", line 1098, in execute_sql
+    cursor = self.connection.cursor()
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/db/backends/base/base.py", line 256, in cursor
+    return self._cursor()
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/db/backends/base/base.py", line 233, in _cursor
+    self.ensure_connection()
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/db/backends/base/base.py", line 217, in ensure_connection
+    self.connect()
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/db/utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/db/backends/base/base.py", line 217, in ensure_connection
+    self.connect()
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/db/backends/base/base.py", line 195, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 227, in get_new_connection
+    return Database.connect(**conn_params)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/MySQLdb/__init__.py", line 130, in Connect
+    return Connection(*args, **kwargs)
+  File "/home/ubuntu/.virtualenvs/py3_shunyi_44/lib/python3.6/site-packages/MySQLdb/connections.py", line 185, in __init__
+    super().__init__(*args, **kwargs2)
+django.db.utils.OperationalError: (2003, "Can't connect to MySQL server on '127.0.0.1' (111)")
+ERROR 2021-01-15 04:21:30,637 basehttp 154 "POST /login/ HTTP/1.1" 500 222818
+INFO 2021-01-15 04:23:13,306 basehttp 154 "POST /login/ HTTP/1.1" 200 27
+WARNING 2021-01-15 04:23:15,068 log 228 Not Found: /carts/simple/
+WARNING 2021-01-15 04:23:15,081 basehttp 154 "GET /carts/simple/ HTTP/1.1" 404 6238
+ERROR 2021-01-15 07:00:04,923 exception 77 Invalid HTTP_HOST header: '192.168.19.128:8001'. You may need to add '192.168.19.128' to ALLOWED_HOSTS.
+WARNING 2021-01-15 07:00:05,154 log 228 Bad Request: /areas/
+ERROR 2021-01-15 07:00:05,954 exception 77 Invalid HTTP_HOST header: '192.168.19.128:8001'. You may need to add '192.168.19.128' to ALLOWED_HOSTS.
+WARNING 2021-01-15 07:00:06,120 log 228 Bad Request: /favicon.ico
+WARNING 2021-01-15 07:03:13,790 log 228 Not Found: /favicon.ico
+INFO 2021-01-27 13:33:16,077 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-27 13:34:00,686 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-01-27 13:35:55,700 autoreload 217 /home/ubuntu/Desktop/test/day20/shunyi_44_meiduo_cangku/meiduo_mall/meiduo_mall/settings.py changed, reloading.
+INFO 2021-01-27 13:35:56,765 autoreload 597 Watching for file changes with StatReloader
